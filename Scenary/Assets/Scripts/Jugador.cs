@@ -24,12 +24,12 @@ public class Jugador : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        inputMovimiento = Input.GetAxis("Horizontal");
         if (Input.GetKeyDown(KeyCode.Space) && !animator.GetBool("estaSaltando"))
         {
             animator.SetBool("estaSaltando", true);
             rigidbody2D.AddForce(new Vector2(0, fuerzaSalto));
         }
+        inputMovimiento = Input.GetAxis("Horizontal");
     }
 
     private void FixedUpdate()
