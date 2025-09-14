@@ -32,6 +32,7 @@ public class Jugador : MonoBehaviour
     {
         Collider2D golpe = Physics2D.OverlapCircle(detectorSuelo.position, radioDetector, layerSuelo);
         estaEnSuelo = golpe && Mathf.Abs(golpe.transform.up.y) > 0.9f;
+        Console.WriteLine(estaEnSuelo);
 
         if (estaEnSuelo && Input.GetKeyDown(KeyCode.Space))
         {
