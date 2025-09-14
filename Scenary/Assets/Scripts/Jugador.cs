@@ -1,3 +1,4 @@
+using System;
 using Unity.VisualScripting;
 using UnityEditor.Build.Content;
 using UnityEngine;
@@ -10,10 +11,15 @@ public class Jugador : MonoBehaviour
     public float speed = 5f;
     private Rigidbody2D rigidbody2D;
     private float inputMovimiento;
-
-
-
     private Animator animator;
+
+
+    public Transform detectorSuelo; 
+    public float radioDetector = 0.1f;
+    public LayerMask layerSuelo;
+    private bool estaEnSuelo;
+
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -24,7 +30,10 @@ public class Jugador : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space) && !animator.GetBool("estaSaltando"))
+        Collider2D golpe = Physics2D.OverlapCircle(detectorSuelo.position, radioDetector, layerSuelo);
+        estaEnSuelo = golpe && Mathf.Abs(golpe.transform.up.y) > 0.9f;
+
+        if (estaEnSuelo && Input.GetKeyDown(KeyCode.Space))
         {
             animator.SetBool("estaSaltando", true);
             rigidbody2D.AddForce(new Vector2(0, fuerzaSalto));
@@ -56,7 +65,7 @@ public class Jugador : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.tag == "Suelo")
+        if (estaEnSuelo)
         {
             animator.SetBool("estaSaltando", false);
         }
