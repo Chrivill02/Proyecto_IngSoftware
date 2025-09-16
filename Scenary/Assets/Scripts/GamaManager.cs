@@ -21,20 +21,17 @@ public class NewMonoBehaviourScript : MonoBehaviour
     void Start()
     {
         //Crear Mapa
-        for (int i = 0; i < 21; i++)
+        for (int i = 0; i < 70; i++)
         {
             cols.Add(Instantiate(col, new Vector2(-10 + i, -3), Quaternion.identity));
         }
 
-        //Piedra
-        obstaculos.Add(Instantiate(piedra1, new Vector2(14, -2), Quaternion.identity));
-        obstaculos.Add(Instantiate(piedra2, new Vector2(18, -2), Quaternion.identity));
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (start == false)
+        if (!start)
         {
             if (Input.GetKeyDown(KeyCode.X))
             {
@@ -42,7 +39,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
             }
         }
         
-        if (start == true && gameOver == true)
+        if (start && gameOver)
         {
             menuGameOver.SetActive(true);
             if (Input.GetKeyDown(KeyCode.X))
@@ -51,11 +48,12 @@ public class NewMonoBehaviourScript : MonoBehaviour
             }
         }
 
-        if (start == true && gameOver == false)
+        if (start && !gameOver)
         {
             menuPrincipal.SetActive(false);
             fondo.material.mainTextureOffset = fondo.material.mainTextureOffset + new Vector2(0.03f, 0) * Time.deltaTime;
-
+    
+            /*
             //Mapa
             for (int i = 0; i < cols.Count; i++)
             {
@@ -76,6 +74,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
                 }
                 obstaculos[i].transform.position = obstaculos[i].transform.position + new Vector3(-1, 0, 0) * Time.deltaTime * velocidad;
             }
+            */
         }
     }
 }

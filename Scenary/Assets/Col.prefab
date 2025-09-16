@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 213930100934555939}
   - component: {fileID: 2012977856086393607}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: sheet_9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -98,7 +98,7 @@ GameObject:
   - component: {fileID: 7661820299576463660}
   - component: {fileID: 2207687960091268882}
   - component: {fileID: 8412209092586716307}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: sheet_2
   m_TagString: Suelo
   m_Icon: {fileID: 0}
@@ -185,7 +185,7 @@ BoxCollider2D:
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: ea86e0bc8ce781244af7cfbb358bf786, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -231,7 +231,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7237025136008510069}
   - component: {fileID: 7036358952826983916}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: sheet_9 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -317,9 +317,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5716722269319967483}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Col
-  m_TagString: Untagged
+  m_TagString: Suelo
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
