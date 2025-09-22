@@ -21,7 +21,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
     void Start()
     {
         //Crear Mapa
-        for (int i = 0; i < 70; i++)
+        for (int i = 0; i < 170; i++)
         {
             cols.Add(Instantiate(col, new Vector2(-10 + i, -3), Quaternion.identity));
         }

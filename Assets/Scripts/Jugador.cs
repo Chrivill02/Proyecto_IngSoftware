@@ -62,6 +62,8 @@ public class Jugador : MonoBehaviour
         {
             transform.localScale = new Vector3(1, 1, 1);
         }
+
+
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -72,6 +74,11 @@ public class Jugador : MonoBehaviour
         }
 
         if (collision.gameObject.tag == "Obstaculo")
+        {
+            gameManager.gameOver = true;
+        }
+
+        if (collision.gameObject.CompareTag("Enemy"))
         {
             gameManager.gameOver = true;
         }
