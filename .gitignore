@@ -21,6 +21,7 @@
 *.pdb
 *.mdb
 
+
 # Crash Reports
 sysinfo.txt
 
@@ -31,3 +32,6 @@ sysinfo.txt
 *.xcworkspace
 *.ipa
 *.app
+
+
+.DS_Store
