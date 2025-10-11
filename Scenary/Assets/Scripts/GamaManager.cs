@@ -11,7 +11,6 @@ public class NewMonoBehaviourScript : MonoBehaviour
     public GameObject col;
     public GameObject piedra1;
     public GameObject piedra2;
-    public Renderer fondo;
     public bool gameOver = false;
     public bool start = false;  
 
@@ -51,7 +50,6 @@ public class NewMonoBehaviourScript : MonoBehaviour
         if (start && !gameOver)
         {
             menuPrincipal.SetActive(false);
-            fondo.material.mainTextureOffset = fondo.material.mainTextureOffset + new Vector2(0.03f, 0) * Time.deltaTime;
     
             /*
             //Mapa
