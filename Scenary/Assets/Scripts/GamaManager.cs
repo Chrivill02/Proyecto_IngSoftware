@@ -19,11 +19,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        //Crear Mapa
-        for (int i = 0; i < 70; i++)
-        {
-            cols.Add(Instantiate(col, new Vector2(-10 + i, -3), Quaternion.identity));
-        }
+
 
     }
 

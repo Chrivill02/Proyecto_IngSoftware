@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: c27db4311034e864d980e0fc81cbacf8
+guid: 16d552698e856be4dbf352c5a28f58b2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5868612593429392887
-    second: waterdrop_0
+      213: 4605106698560274621
+    second: Burbujas_bria_0
+  - first:
+      213: -3228185312966864307
+    second: Burbujas_bria_1
+  - first:
+      213: -6662407502721135999
+    second: Burbujas_bria_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +57,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 300
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -100,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: waterdrop_0
+      name: Burbujas_bria_0
       rect:
         serializedVersion: 2
-        x: 290
-        y: 156
-        width: 98
-        height: 165
+        x: 1072
+        y: 753
+        width: 8
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +121,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7fd2ebb7f00817150800000000000000
-      internalID: 5868612593429392887
+      spriteID: db00578b420a8ef30800000000000000
+      internalID: 4605106698560274621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burbujas_bria_1
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 309
+        width: 542
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d421a7fbf8e2333d0800000000000000
+      internalID: -3228185312966864307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burbujas_bria_2
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 291
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ac86bdcaf5a83a0800000000000000
+      internalID: -6662407502721135999
       vertices: []
       indices: 
       edges: []
@@ -135,7 +185,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      waterdrop_0: 5868612593429392887
+      Burbujas_bria_0: 4605106698560274621
+      Burbujas_bria_1: -3228185312966864307
+      Burbujas_bria_2: -6662407502721135999
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

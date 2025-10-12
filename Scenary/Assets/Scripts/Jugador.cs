@@ -75,5 +75,9 @@ public class Jugador : MonoBehaviour
         {
             gameManager.gameOver = true;
         }
+        if (collision.gameObject.CompareTag("Enemy"))
+        {
+            gameManager.gameOver = true;
+        }
     }
 }
