@@ -19,13 +19,21 @@ public class PlayerShoot : MonoBehaviour
 
     void Shoot()
     {
-        // Instanciar la bala en el firePoint
+        // Dirección según la escala del jugador
+        float direction = Mathf.Sign(transform.localScale.x);
+
+        // Instanciar la bala en la posición y rotación del firePoint
         GameObject bullet = Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
 
-        // Tomar la direcci�n del jugador (1 = derecha, -1 = izquierda)
-        float direction = transform.localScale.x;
+        // Si el jugador mira hacia la izquierda, girar visualmente la bala
+        if (direction < 0)
+        {
+            Vector3 bulletScale = bullet.transform.localScale;
+            bulletScale.x *= -1; // invierte el sprite
+            bullet.transform.localScale = bulletScale;
+        }
 
-        // Pas�rsela a la bala
+        // Pasar la dirección al script de la bala
         bullet.GetComponent<GlueBullet>().SetDirection(direction);
     }
 }

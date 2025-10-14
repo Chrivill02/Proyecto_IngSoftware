@@ -16,7 +16,7 @@ public class Gota : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.layer == LayerMask.NameToLayer("Suelo") || collision.gameObject.tag == "Obstaculo" || collision.gameObject.tag == "Player")
+        if (collision.gameObject.layer == LayerMask.NameToLayer("Suelo") || collision.gameObject.tag == "Obstaculo" || collision.gameObject.tag == "Player" || collision.gameObject.tag == "Enemy")
         {
             transform.position = inicial;
             transform.rotation = rotacionInicial;

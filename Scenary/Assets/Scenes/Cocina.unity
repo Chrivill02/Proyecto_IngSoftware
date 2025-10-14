@@ -29790,9 +29790,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1698586196}
     m_Modifications:
+    - target: {fileID: 1146858149325319063, guid: d547da2cba623204488f41d873c68508, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3024780090979182707, guid: d547da2cba623204488f41d873c68508, type: 3}
       propertyPath: m_Name
       value: FirePoint
+      objectReference: {fileID: 0}
+    - target: {fileID: 3024780090979182707, guid: d547da2cba623204488f41d873c68508, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3996728213534637947, guid: d547da2cba623204488f41d873c68508, type: 3}
       propertyPath: m_LocalPosition.x
@@ -38471,7 +38479,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1563598142420118782, guid: bf6515b8c141d1c49a3281de9cfcc2dd, type: 3}
       propertyPath: m_Radius
-      value: 16
+      value: 13
       objectReference: {fileID: 0}
     - target: {fileID: 2641391679959506580, guid: bf6515b8c141d1c49a3281de9cfcc2dd, type: 3}
       propertyPath: m_LocalPosition.x
