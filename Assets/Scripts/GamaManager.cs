@@ -51,7 +51,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
         if (start && !gameOver)
         {
             menuPrincipal.SetActive(false);
-            fondo.material.mainTextureOffset = fondo.material.mainTextureOffset + new Vector2(0.03f, 0) * Time.deltaTime;
+           
     
             /*
             //Mapa
