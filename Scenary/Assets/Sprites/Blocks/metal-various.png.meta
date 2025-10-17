@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: c9c070549291199448408bf30398dd9d
+guid: 4f7cec3d6ad6f4844865621d1d7a7ddb
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -262108834630032882
-    second: metal_0
+      213: -6661369385922874921
+    second: metal-various_0
   - first:
-      213: -328307220334348384
-    second: metal_1
+      213: -7507450889257154369
+    second: metal-various_1
   - first:
-      213: 4127356660199939472
-    second: metal_2
+      213: -1646100240872197266
+    second: metal-various_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -106,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: metal_0
+      name: metal-various_0
       rect:
         serializedVersion: 2
-        x: 23
+        x: 30
         y: 103
-        width: 120
-        height: 115
+        width: 113
+        height: 99
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -121,20 +121,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e02a263576dcc5cf0800000000000000
-      internalID: -262108834630032882
+      spriteID: 7d1b76246df0e83a0800000000000000
+      internalID: -6661369385922874921
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: metal_1
+      name: metal-various_1
       rect:
         serializedVersion: 2
         x: 183
-        y: 104
+        y: 170
         width: 220
-        height: 114
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -143,20 +143,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0a776c2925e917bf0800000000000000
-      internalID: -328307220334348384
+      spriteID: fb80321413d20d790800000000000000
+      internalID: -7507450889257154369
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: metal_2
+      name: metal-various_2
       rect:
         serializedVersion: 2
-        x: 436
+        x: 438
         y: 103
-        width: 122
-        height: 115
+        width: 111
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -165,8 +165,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 09d5f88c301574930800000000000000
-      internalID: 4127356660199939472
+      spriteID: e63b0266d80e729e0800000000000000
+      internalID: -1646100240872197266
       vertices: []
       indices: 
       edges: []
@@ -175,7 +175,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: e74dcb8dc011a2347a44f62f4765ea49
+    spriteID: f94dbde81f2b8eb4f9703038596a705e
     internalID: 0
     vertices: []
     indices: 
@@ -185,9 +185,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      metal_0: -262108834630032882
-      metal_1: -328307220334348384
-      metal_2: 4127356660199939472
+      metal-various_0: -6661369385922874921
+      metal-various_1: -7507450889257154369
+      metal-various_2: -1646100240872197266
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
