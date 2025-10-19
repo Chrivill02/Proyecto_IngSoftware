@@ -9,6 +9,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: -6259356489957844050, guid: 7cf58be80b057ad41ab821fd5488f420, type: 3}
+      propertyPath: speed
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -6259356489957844050, guid: 7cf58be80b057ad41ab821fd5488f420, type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
@@ -128,7 +132,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf59d609d5a835845a96f9d4671c535a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1
+  speed: 2
   playerTag: Player
 --- !u!58 &1563598142420118782
 CircleCollider2D:
@@ -165,4 +169,4 @@ CircleCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  m_Radius: 8
+  m_Radius: 40
