@@ -123,4 +123,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f13d1ba4c5636ad47ac77b40a9fd554c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lifetime: 2
+  lifetime: 2.69
+  fadeDelay: 1
+  fadeDuration: 1

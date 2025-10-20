@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using Unity.Cinemachine;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class EnemyRoom : MonoBehaviour
@@ -20,7 +21,7 @@ public class EnemyRoom : MonoBehaviour
     private bool completed = false;
 
     private List<GameObject> currentEnemies = new List<GameObject>();
-
+    public GameObject key;
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player") && !roomActive)
@@ -59,6 +60,12 @@ public class EnemyRoom : MonoBehaviour
             yield return new WaitForSeconds(1f);
         }
 
+        key.SetActive(true);
+
+        yield return new WaitUntil(() => KeyStolen());
+
+        key.SetActive(false);
+
         RoomCompleted();
     }
 
@@ -81,10 +88,18 @@ public class EnemyRoom : MonoBehaviour
         return currentEnemies.Count == 0;
     }
 
+    private bool KeyStolen()
+    {
+        KeyCollision keyCollision = key.GetComponent<KeyCollision>();
+        return keyCollision.stolen;
+    }
+
     void RoomCompleted()
     {
         if (completed) return;
         completed = true;
+
+
 
         foreach (var d in doors) d.SetActive(false);
 
