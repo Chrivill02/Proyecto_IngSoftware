@@ -1,0 +1,6773 @@
+fileFormatVersion: 2
+guid: 3b6f26abe0931403d83b9720a075f5b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4770559223580724334
+    second: spider_large_0
+  - first:
+      213: 9087674714064862267
+    second: spider_large_1
+  - first:
+      213: 6943185048525645798
+    second: spider_large_2
+  - first:
+      213: -7082069507398202253
+    second: spider_large_3
+  - first:
+      213: 2178270999952635263
+    second: spider_large_4
+  - first:
+      213: -3462231174759109062
+    second: spider_large_5
+  - first:
+      213: -4522703746694597648
+    second: spider_large_6
+  - first:
+      213: 2118382910980966830
+    second: spider_large_7
+  - first:
+      213: 8743185793760840858
+    second: spider_large_8
+  - first:
+      213: -8476532793057726901
+    second: spider_large_9
+  - first:
+      213: -7901519880857423073
+    second: spider_large_10
+  - first:
+      213: 6935143777031457525
+    second: spider_large_11
+  - first:
+      213: -6350688951836314870
+    second: spider_large_12
+  - first:
+      213: 6573340433696643075
+    second: spider_large_13
+  - first:
+      213: -1421009932854864211
+    second: spider_large_14
+  - first:
+      213: -3376468973533881467
+    second: spider_large_15
+  - first:
+      213: -6523880207532590146
+    second: spider_large_16
+  - first:
+      213: 3624841927828397087
+    second: spider_large_17
+  - first:
+      213: -6416412820953985896
+    second: spider_large_18
+  - first:
+      213: 4611673369133270550
+    second: spider_large_19
+  - first:
+      213: 23844118230817380
+    second: spider_large_20
+  - first:
+      213: -6305558737618462793
+    second: spider_large_21
+  - first:
+      213: 8230511795890079554
+    second: spider_large_22
+  - first:
+      213: 3553131388164242754
+    second: spider_large_23
+  - first:
+      213: 2852474095599660535
+    second: spider_large_24
+  - first:
+      213: 9031286733180965077
+    second: spider_large_25
+  - first:
+      213: -2433682986387687610
+    second: spider_large_26
+  - first:
+      213: -1860382305841575446
+    second: spider_large_27
+  - first:
+      213: 1199402127514779861
+    second: spider_large_28
+  - first:
+      213: 1788608248968192210
+    second: spider_large_29
+  - first:
+      213: -8748869841065214658
+    second: spider_large_30
+  - first:
+      213: -6406172216960560355
+    second: spider_large_31
+  - first:
+      213: -4567831040563633928
+    second: spider_large_32
+  - first:
+      213: -1339877647312929026
+    second: spider_large_33
+  - first:
+      213: -4371599867958006155
+    second: spider_large_34
+  - first:
+      213: 7071160143309090221
+    second: spider_large_35
+  - first:
+      213: -5096949957930493141
+    second: spider_large_36
+  - first:
+      213: -9094473933693595513
+    second: spider_large_37
+  - first:
+      213: 641302210659164387
+    second: spider_large_38
+  - first:
+      213: -4724025246559145329
+    second: spider_large_39
+  - first:
+      213: -8914624030010708439
+    second: spider_large_40
+  - first:
+      213: -739113396864651327
+    second: spider_large_41
+  - first:
+      213: -6283688276443263304
+    second: spider_large_42
+  - first:
+      213: 7173800582480844667
+    second: spider_large_43
+  - first:
+      213: -6845974326939651505
+    second: spider_large_44
+  - first:
+      213: -7816336738449353581
+    second: spider_large_45
+  - first:
+      213: 5494575945816703684
+    second: spider_large_46
+  - first:
+      213: 4293572925390166433
+    second: spider_large_47
+  - first:
+      213: 2300154278640142652
+    second: spider_large_48
+  - first:
+      213: -4362119936847903704
+    second: spider_large_49
+  - first:
+      213: 871077825356686363
+    second: spider_large_50
+  - first:
+      213: -4786205757394432877
+    second: spider_large_51
+  - first:
+      213: 6852214041521872510
+    second: spider_large_52
+  - first:
+      213: -7324829073115817691
+    second: spider_large_53
+  - first:
+      213: -1215188078305406288
+    second: spider_large_54
+  - first:
+      213: -6793176331489702404
+    second: spider_large_55
+  - first:
+      213: 6034863546966374556
+    second: spider_large_56
+  - first:
+      213: 8023351349799133969
+    second: spider_large_57
+  - first:
+      213: 15616691616031979
+    second: spider_large_58
+  - first:
+      213: 1603328257720267513
+    second: spider_large_59
+  - first:
+      213: 7691513394185843823
+    second: spider_large_60
+  - first:
+      213: 7381896321544254259
+    second: spider_large_61
+  - first:
+      213: -1333406188294620647
+    second: spider_large_62
+  - first:
+      213: -7918986303126822052
+    second: spider_large_63
+  - first:
+      213: -2639780775840163602
+    second: spider_large_64
+  - first:
+      213: -6158161548359103886
+    second: spider_large_65
+  - first:
+      213: 3711005297204059735
+    second: spider_large_66
+  - first:
+      213: -7993336365348564772
+    second: spider_large_67
+  - first:
+      213: -4581969863662265441
+    second: spider_large_68
+  - first:
+      213: -7084418131984959351
+    second: spider_large_69
+  - first:
+      213: -7913521030507038933
+    second: spider_large_70
+  - first:
+      213: -7927332232260451664
+    second: spider_large_71
+  - first:
+      213: -229584290745223721
+    second: spider_large_72
+  - first:
+      213: 3626447868897903307
+    second: spider_large_73
+  - first:
+      213: -6850275974793938936
+    second: spider_large_74
+  - first:
+      213: -3779018800743315955
+    second: spider_large_75
+  - first:
+      213: -7309249575698108612
+    second: spider_large_76
+  - first:
+      213: 7345853584403629276
+    second: spider_large_77
+  - first:
+      213: -3502913075539802577
+    second: spider_large_78
+  - first:
+      213: 5494972835379423141
+    second: spider_large_79
+  - first:
+      213: 4850507062765196432
+    second: spider_large_80
+  - first:
+      213: -1569564317341218471
+    second: spider_large_81
+  - first:
+      213: 8920674731570675810
+    second: spider_large_82
+  - first:
+      213: -8994757940327314187
+    second: spider_large_83
+  - first:
+      213: 8546544713081973676
+    second: spider_large_84
+  - first:
+      213: -4257723425909466139
+    second: spider_large_85
+  - first:
+      213: -4964270326553354254
+    second: spider_large_86
+  - first:
+      213: -9071695959219547275
+    second: spider_large_87
+  - first:
+      213: 6780386873363860625
+    second: spider_large_88
+  - first:
+      213: 7509794237855468343
+    second: spider_large_89
+  - first:
+      213: 8422526698998428700
+    second: spider_large_90
+  - first:
+      213: -6754731152623945632
+    second: spider_large_91
+  - first:
+      213: 4510593041628660308
+    second: spider_large_92
+  - first:
+      213: 4581971086125862051
+    second: spider_large_93
+  - first:
+      213: 1463111036087753930
+    second: spider_large_94
+  - first:
+      213: 8579052465950031404
+    second: spider_large_95
+  - first:
+      213: 900933038194406541
+    second: spider_large_96
+  - first:
+      213: -2806981521661073613
+    second: spider_large_97
+  - first:
+      213: -6827929609923429485
+    second: spider_large_98
+  - first:
+      213: -949066257951407443
+    second: spider_large_99
+  - first:
+      213: 4176598762898438784
+    second: spider_large_100
+  - first:
+      213: 5467937006019600814
+    second: spider_large_101
+  - first:
+      213: -3765102139341595104
+    second: spider_large_102
+  - first:
+      213: 6236099970472632911
+    second: spider_large_103
+  - first:
+      213: 2187556594760235047
+    second: spider_large_104
+  - first:
+      213: -2494807147134353090
+    second: spider_large_105
+  - first:
+      213: 1434645979054377287
+    second: spider_large_106
+  - first:
+      213: -5614449448868905986
+    second: spider_large_107
+  - first:
+      213: 1198071866590945742
+    second: spider_large_108
+  - first:
+      213: -4101864922442331590
+    second: spider_large_109
+  - first:
+      213: -3958416813423126520
+    second: spider_large_110
+  - first:
+      213: 2028879214352205048
+    second: spider_large_111
+  - first:
+      213: 7022081125074949230
+    second: spider_large_112
+  - first:
+      213: -5626888701076482490
+    second: spider_large_113
+  - first:
+      213: -7210610724539420975
+    second: spider_large_114
+  - first:
+      213: -3722013438961220527
+    second: spider_large_115
+  - first:
+      213: -778207842873539532
+    second: spider_large_116
+  - first:
+      213: -2679279061312462581
+    second: spider_large_117
+  - first:
+      213: 5637246046318571280
+    second: spider_large_118
+  - first:
+      213: -6971275705898436748
+    second: spider_large_119
+  - first:
+      213: 6622296809299847348
+    second: spider_large_120
+  - first:
+      213: -3840527909744043884
+    second: spider_large_121
+  - first:
+      213: 7756204078865097339
+    second: spider_large_122
+  - first:
+      213: 4781080551617547532
+    second: spider_large_123
+  - first:
+      213: 2720825231322321173
+    second: spider_large_124
+  - first:
+      213: 5733311596569301196
+    second: spider_large_125
+  - first:
+      213: 4787364688366137185
+    second: spider_large_126
+  - first:
+      213: 6679232507658729288
+    second: spider_large_127
+  - first:
+      213: 1974062758070578495
+    second: spider_large_128
+  - first:
+      213: 5423774213024019677
+    second: spider_large_129
+  - first:
+      213: -2146756060953342322
+    second: spider_large_130
+  - first:
+      213: -7818678823254050697
+    second: spider_large_131
+  - first:
+      213: 6118474033466065295
+    second: spider_large_132
+  - first:
+      213: 1417948363445322249
+    second: spider_large_133
+  - first:
+      213: 5000732558978931692
+    second: spider_large_134
+  - first:
+      213: -8557394252376125555
+    second: spider_large_135
+  - first:
+      213: 8713887534924567569
+    second: spider_large_136
+  - first:
+      213: -1262860980098778221
+    second: spider_large_137
+  - first:
+      213: -1022109376229064556
+    second: spider_large_138
+  - first:
+      213: 5951155201855523759
+    second: spider_large_139
+  - first:
+      213: 4775784738578286019
+    second: spider_large_140
+  - first:
+      213: 8118098124560010845
+    second: spider_large_141
+  - first:
+      213: 382761660424862511
+    second: spider_large_142
+  - first:
+      213: -3302730565055888284
+    second: spider_large_143
+  - first:
+      213: 4153284416155425144
+    second: spider_large_144
+  - first:
+      213: -5957945533893508520
+    second: spider_large_145
+  - first:
+      213: -1783197386172681399
+    second: spider_large_146
+  - first:
+      213: 7609247432373284897
+    second: spider_large_147
+  - first:
+      213: 7582344907516357100
+    second: spider_large_148
+  - first:
+      213: 3481825016557735496
+    second: spider_large_149
+  - first:
+      213: 411628947448500102
+    second: spider_large_150
+  - first:
+      213: 7908950809797001729
+    second: spider_large_151
+  - first:
+      213: -2427066960131278680
+    second: spider_large_152
+  - first:
+      213: -2333114200634794957
+    second: spider_large_153
+  - first:
+      213: 6059072965671214365
+    second: spider_large_154
+  - first:
+      213: -7399839873260419224
+    second: spider_large_155
+  - first:
+      213: -6280211217963337216
+    second: spider_large_156
+  - first:
+      213: -1346169145520773374
+    second: spider_large_157
+  - first:
+      213: 644299384371051164
+    second: spider_large_158
+  - first:
+      213: 3613990578644275684
+    second: spider_large_159
+  - first:
+      213: -9175075298105990237
+    second: spider_large_160
+  - first:
+      213: -2859027101480280203
+    second: spider_large_161
+  - first:
+      213: 7148824217617586619
+    second: spider_large_162
+  - first:
+      213: -1366684195015819419
+    second: spider_large_163
+  - first:
+      213: -7792811326344830465
+    second: spider_large_164
+  - first:
+      213: -7300852034966704586
+    second: spider_large_165
+  - first:
+      213: 3078111339652682339
+    second: spider_large_166
+  - first:
+      213: -2470176421157130412
+    second: spider_large_167
+  - first:
+      213: 8623234482991774523
+    second: spider_large_168
+  - first:
+      213: 8844412004301278498
+    second: spider_large_169
+  - first:
+      213: -8871394261505865007
+    second: spider_large_170
+  - first:
+      213: 1446469718424544260
+    second: spider_large_171
+  - first:
+      213: -6919428032692612637
+    second: spider_large_172
+  - first:
+      213: -161897546161134263
+    second: spider_large_173
+  - first:
+      213: -6629774661794132641
+    second: spider_large_174
+  - first:
+      213: 8737575367856010809
+    second: spider_large_175
+  - first:
+      213: 7218664456766971637
+    second: spider_large_176
+  - first:
+      213: 5443018569242810272
+    second: spider_large_177
+  - first:
+      213: 9071753938242508959
+    second: spider_large_178
+  - first:
+      213: 4930142551067302027
+    second: spider_large_179
+  - first:
+      213: 313795487387309880
+    second: spider_large_180
+  - first:
+      213: 3319206227244960242
+    second: spider_large_181
+  - first:
+      213: -6582278926193667715
+    second: spider_large_182
+  - first:
+      213: 3662916830684298283
+    second: spider_large_183
+  - first:
+      213: -1719195578326012989
+    second: spider_large_184
+  - first:
+      213: -3425239754508447388
+    second: spider_large_185
+  - first:
+      213: -4023869467321807323
+    second: spider_large_186
+  - first:
+      213: -1860644640804897086
+    second: spider_large_187
+  - first:
+      213: -7679966976807456558
+    second: spider_large_188
+  - first:
+      213: 155721752616306734
+    second: spider_large_189
+  - first:
+      213: 1073028590391851032
+    second: spider_large_190
+  - first:
+      213: 8915597641446152966
+    second: spider_large_191
+  - first:
+      213: 1958188098252226714
+    second: spider_large_192
+  - first:
+      213: -4826692612084094896
+    second: spider_large_193
+  - first:
+      213: -5673678889310711299
+    second: spider_large_194
+  - first:
+      213: -6067125306378293599
+    second: spider_large_195
+  - first:
+      213: -2878751084989245493
+    second: spider_large_196
+  - first:
+      213: 1036103445107699929
+    second: spider_large_197
+  - first:
+      213: 3725200134001753877
+    second: spider_large_198
+  - first:
+      213: 4140561114359793921
+    second: spider_large_199
+  - first:
+      213: 3015003676776654706
+    second: spider_large_200
+  - first:
+      213: -1596809572668896703
+    second: spider_large_201
+  - first:
+      213: -7134820051568476742
+    second: spider_large_202
+  - first:
+      213: -446776518886214046
+    second: spider_large_203
+  - first:
+      213: -692325129535434046
+    second: spider_large_204
+  - first:
+      213: 8361159754881039831
+    second: spider_large_205
+  - first:
+      213: -7287964311611225648
+    second: spider_large_206
+  - first:
+      213: -4378242789028898545
+    second: spider_large_207
+  - first:
+      213: -4042334616718396884
+    second: spider_large_208
+  - first:
+      213: 842021683779629645
+    second: spider_large_209
+  - first:
+      213: -1742695937892417654
+    second: spider_large_210
+  - first:
+      213: -7805217349100506299
+    second: spider_large_211
+  - first:
+      213: -6172651825997791696
+    second: spider_large_212
+  - first:
+      213: 3606755294800042345
+    second: spider_large_213
+  - first:
+      213: -8262132184619962113
+    second: spider_large_214
+  - first:
+      213: 251341888067927859
+    second: spider_large_215
+  - first:
+      213: 1671264576830448319
+    second: spider_large_216
+  - first:
+      213: -5166346321985970178
+    second: spider_large_217
+  - first:
+      213: 6672294591312440694
+    second: spider_large_218
+  - first:
+      213: -5944898887758468030
+    second: spider_large_219
+  - first:
+      213: -7106382803078861925
+    second: spider_large_220
+  - first:
+      213: 6128834079428822311
+    second: spider_large_221
+  - first:
+      213: 1818222348787074734
+    second: spider_large_222
+  - first:
+      213: -3864612955697973019
+    second: spider_large_223
+  - first:
+      213: -7459323236955960427
+    second: spider_large_224
+  - first:
+      213: -6433659931192873067
+    second: spider_large_225
+  - first:
+      213: -5482870135044580142
+    second: spider_large_226
+  - first:
+      213: 6408630832182455224
+    second: spider_large_227
+  - first:
+      213: 3623917684493480119
+    second: spider_large_228
+  - first:
+      213: -3568362075040089040
+    second: spider_large_229
+  - first:
+      213: -4860161227339234335
+    second: spider_large_230
+  - first:
+      213: 8487763728908270542
+    second: spider_large_231
+  - first:
+      213: -180825012130219986
+    second: spider_large_232
+  - first:
+      213: -3417295424093258332
+    second: spider_large_233
+  - first:
+      213: -8805147596624140828
+    second: spider_large_234
+  - first:
+      213: 5692369313116122365
+    second: spider_large_235
+  - first:
+      213: -402737401201179858
+    second: spider_large_236
+  - first:
+      213: -2906045408886558877
+    second: spider_large_237
+  - first:
+      213: 2079092283544366279
+    second: spider_large_238
+  - first:
+      213: -1031898841871918887
+    second: spider_large_239
+  - first:
+      213: -93577719483354742
+    second: spider_large_240
+  - first:
+      213: -8464315618061110502
+    second: spider_large_241
+  - first:
+      213: -8824292764089395005
+    second: spider_large_242
+  - first:
+      213: 2774604155350146554
+    second: spider_large_243
+  - first:
+      213: 1022228021120628626
+    second: spider_large_244
+  - first:
+      213: 3179991251301733070
+    second: spider_large_245
+  - first:
+      213: 7405594279886321958
+    second: spider_large_246
+  - first:
+      213: 2654103874785039049
+    second: spider_large_247
+  - first:
+      213: 2034516373111342124
+    second: spider_large_248
+  - first:
+      213: -6574245299575909685
+    second: spider_large_249
+  - first:
+      213: -6341777627860656519
+    second: spider_large_250
+  - first:
+      213: 6264017730516699330
+    second: spider_large_251
+  - first:
+      213: 6256744274965583773
+    second: spider_large_252
+  - first:
+      213: -1923769013792738714
+    second: spider_large_253
+  - first:
+      213: 8915871564710549549
+    second: spider_large_254
+  - first:
+      213: -2119278445647607548
+    second: spider_large_255
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spider_large_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 918
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c0e7d965e643240800000000000000
+      internalID: 4770559223580724334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 918
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cb22ef008ed1e70800000000000000
+      internalID: 9087674714064862267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 918
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7ac2bd3062b5060800000000000000
+      internalID: 6943185048525645798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 918
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c87e03e4f67bd90800000000000000
+      internalID: -7082069507398202253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_4
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 918
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7536b8fee5ca3e10800000000000000
+      internalID: 2178270999952635263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_5
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 918
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e233a171fa3ffc0800000000000000
+      internalID: -3462231174759109062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_6
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 918
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3b0f997e02c31c0800000000000000
+      internalID: -4522703746694597648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_7
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 918
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9474ba802066d10800000000000000
+      internalID: 2118382910980966830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_8
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 918
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c4b52f729065970800000000000000
+      internalID: 8743185793760840858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_9
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 918
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e28d6d55e4d5a80800000000000000
+      internalID: -8476532793057726901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_10
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 918
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f137ecb4889285290800000000000000
+      internalID: -7901519880857423073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_11
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 915
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa883075849e3060800000000000000
+      internalID: 6935143777031457525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_12
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 918
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a037cc2bb02ddd7a0800000000000000
+      internalID: -6350688951836314870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_13
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 917
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30853322c42393b50800000000000000
+      internalID: 6573340433696643075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_14
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 927
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da652e1befe874ce0800000000000000
+      internalID: -1421009932854864211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_15
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 917
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b926d9b5f5421d0800000000000000
+      internalID: -3376468973533881467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_16
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 918
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb71d824858675a0800000000000000
+      internalID: -6523880207532590146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_17
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 918
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c572337860e4230800000000000000
+      internalID: 3624841927828397087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_18
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 920
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c86c2f88254f6a0800000000000000
+      internalID: -6416412820953985896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_19
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 922
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616415bde74ffff30800000000000000
+      internalID: 4611673369133270550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_20
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 924
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a51256916b45000800000000000000
+      internalID: 23844118230817380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_21
+      rect:
+        serializedVersion: 2
+        x: 2734
+        y: 920
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b714e58cb72e78a0800000000000000
+      internalID: -6305558737618462793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_22
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 919
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247c0b90fd6a83270800000000000000
+      internalID: 8230511795890079554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_23
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 919
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24df1d71c224f4130800000000000000
+      internalID: 3553131388164242754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_24
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 918
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fda83fa316069720800000000000000
+      internalID: 2852474095599660535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_25
+      rect:
+        serializedVersion: 2
+        x: 3253
+        y: 917
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d013fb1f63955d70800000000000000
+      internalID: 9031286733180965077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_26
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 918
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6473374d732d93ed0800000000000000
+      internalID: -2433682986387687610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_27
+      rect:
+        serializedVersion: 2
+        x: 3509
+        y: 919
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae904e946289e26e0800000000000000
+      internalID: -1860382305841575446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_28
+      rect:
+        serializedVersion: 2
+        x: 3632
+        y: 918
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0cd5951e125a010800000000000000
+      internalID: 1199402127514779861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_29
+      rect:
+        serializedVersion: 2
+        x: 3758
+        y: 918
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0251ad9b962d810800000000000000
+      internalID: 1788608248968192210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_30
+      rect:
+        serializedVersion: 2
+        x: 3883
+        y: 917
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3dfd29ab35c59680800000000000000
+      internalID: -8748869841065214658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_31
+      rect:
+        serializedVersion: 2
+        x: 4016
+        y: 918
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13d61e5f44b817a0800000000000000
+      internalID: -6406172216960560355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_32
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 790
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0a339beddcb90c0800000000000000
+      internalID: -4567831040563633928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_33
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 790
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe3d65f06cc76de0800000000000000
+      internalID: -1339877647312929026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_34
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 790
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ee732f415f453c0800000000000000
+      internalID: -4371599867958006155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_35
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 790
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dada6db8faec12260800000000000000
+      internalID: 7071160143309090221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_36
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 788
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b5c9f940ff349b0800000000000000
+      internalID: -5096949957930493141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_37
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 787
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780d4235420f9c180800000000000000
+      internalID: -9094473933693595513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_38
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 788
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0230c76fc56e800800000000000000
+      internalID: 641302210659164387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_39
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 787
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f827dd43114e07eb0800000000000000
+      internalID: -4724025246559145329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_40
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 789
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92eec092da4e84480800000000000000
+      internalID: -8914624030010708439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_41
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 790
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf662318442eb5f0800000000000000
+      internalID: -739113396864651327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_42
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 790
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be00531ecadbc8a0800000000000000
+      internalID: -6283688276443263304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_43
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 789
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77d2401f957e8360800000000000000
+      internalID: 7173800582480844667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_44
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 790
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4271550f963ef0a0800000000000000
+      internalID: -6845974326939651505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_45
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 790
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39414eb262bc68390800000000000000
+      internalID: -7816336738449353581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_46
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 799
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c28fc116b7a04c40800000000000000
+      internalID: 5494575945816703684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_47
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 798
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a99d1bc3d5d59b30800000000000000
+      internalID: 4293572925390166433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_48
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 790
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39c0f2312acbef10800000000000000
+      internalID: 2300154278640142652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_49
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 790
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82408886703a673c0800000000000000
+      internalID: -4362119936847903704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_50
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 793
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14ea10caa0b61c00800000000000000
+      internalID: 871077825356686363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_51
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 795
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c4398d83bf39db0800000000000000
+      internalID: -4786205757394432877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_52
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 800
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7edaddbd54f71f50800000000000000
+      internalID: 6852214041521872510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_53
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 790
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5295a7044caf85a90800000000000000
+      internalID: -7324829073115817691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_54
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 790
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2115191e8c22fe0800000000000000
+      internalID: -1215188078305406288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_55
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 790
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd07f84e1ac9b1a0800000000000000
+      internalID: -6793176331489702404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_56
+      rect:
+        serializedVersion: 2
+        x: 3113
+        y: 790
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9872e00c6420c350800000000000000
+      internalID: 6034863546966374556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_57
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 790
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113ade80b8ba85f60800000000000000
+      internalID: 8023351349799133969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_58
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 791
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4275c5c4b773000800000000000000
+      internalID: 15616691616031979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_59
+      rect:
+        serializedVersion: 2
+        x: 3499
+        y: 790
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f233cb3e8a204610800000000000000
+      internalID: 1603328257720267513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_60
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 790
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f643b9d3eaebdba60800000000000000
+      internalID: 7691513394185843823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_61
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 789
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333786ee793c17660800000000000000
+      internalID: 7381896321544254259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_62
+      rect:
+        serializedVersion: 2
+        x: 3880
+        y: 789
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a346de22ace7de0800000000000000
+      internalID: -1333406188294620647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_63
+      rect:
+        serializedVersion: 2
+        x: 4009
+        y: 789
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5321f4f9eb1a1290800000000000000
+      internalID: -7918986303126822052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_64
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 666
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8542bde5d9d5bd0800000000000000
+      internalID: -2639780775840163602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_65
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 666
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a0698f2b0d98aa0800000000000000
+      internalID: -6158161548359103886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_66
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 666
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ed073f7a3208330800000000000000
+      internalID: 3711005297204059735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_67
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 666
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0df2d1de6f11190800000000000000
+      internalID: -7993336365348564772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_68
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 663
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b9dd07fa29960c0800000000000000
+      internalID: -4581969863662265441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_69
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 663
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98833ba6e371fad90800000000000000
+      internalID: -7084418131984959351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_70
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 662
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b277b06ec868d2290800000000000000
+      internalID: -7913521030507038933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_71
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 663
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b28c97e5557cf190800000000000000
+      internalID: -7927332232260451664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_72
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 664
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5fe10dd4a50dcf0800000000000000
+      internalID: -229584290745223721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_73
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 664
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2c12e7f1bb35230800000000000000
+      internalID: 3626447868897903307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_74
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 663
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808b3059b4eeee0a0800000000000000
+      internalID: -6850275974793938936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_75
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 663
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d060c2e3c6a3e8bc0800000000000000
+      internalID: -3779018800743315955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_76
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 664
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fe6d9ac34509a90800000000000000
+      internalID: -7309249575698108612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_77
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 665
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4886e3ae6b1f560800000000000000
+      internalID: 7345853584403629276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_78
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 672
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f260165fd17236fc0800000000000000
+      internalID: -3502913075539802577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_79
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 676
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7263f1ea0124c40800000000000000
+      internalID: 5494972835379423141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_80
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 666
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09494a87976705340800000000000000
+      internalID: 4850507062765196432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_81
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 663
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9598fbcb199c73ae0800000000000000
+      internalID: -1569564317341218471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_82
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 665
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260c214976a9ccb70800000000000000
+      internalID: 8920674731570675810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_83
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 667
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc8a2e3f433c2380800000000000000
+      internalID: -8994757940327314187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_84
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 675
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab6e30922d6b9670800000000000000
+      internalID: 8546544713081973676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_85
+      rect:
+        serializedVersion: 2
+        x: 2734
+        y: 665
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb9ece3a1789e4c0800000000000000
+      internalID: -4257723425909466139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_86
+      rect:
+        serializedVersion: 2
+        x: 2861
+        y: 665
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff56c8907e5b1bb0800000000000000
+      internalID: -4964270326553354254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_87
+      rect:
+        serializedVersion: 2
+        x: 2989
+        y: 665
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5735f58c69cda1280800000000000000
+      internalID: -9071695959219547275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_88
+      rect:
+        serializedVersion: 2
+        x: 3116
+        y: 664
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c0392ffe5c81e50800000000000000
+      internalID: 6780386873363860625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_89
+      rect:
+        serializedVersion: 2
+        x: 3242
+        y: 665
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b86ab1216283860800000000000000
+      internalID: 7509794237855468343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_90
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 667
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c147b058863d2e470800000000000000
+      internalID: 8422526698998428700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_91
+      rect:
+        serializedVersion: 2
+        x: 3498
+        y: 667
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068b5960ecf5242a0800000000000000
+      internalID: -6754731152623945632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_92
+      rect:
+        serializedVersion: 2
+        x: 3628
+        y: 664
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45200a42978d89e30800000000000000
+      internalID: 4510593041628660308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_93
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 664
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac84af2d6e669f30800000000000000
+      internalID: 4581971086125862051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_94
+      rect:
+        serializedVersion: 2
+        x: 3884
+        y: 664
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accd6f44cb30e4410800000000000000
+      internalID: 1463111036087753930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_95
+      rect:
+        serializedVersion: 2
+        x: 4012
+        y: 664
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ef36693caee0770800000000000000
+      internalID: 8579052465950031404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_96
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 534
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84bdfb23d1c08c00800000000000000
+      internalID: 900933038194406541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_97
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 534
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3376e469d299b09d0800000000000000
+      internalID: -2806981521661073613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_98
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 534
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b742912325e31a0800000000000000
+      internalID: -6827929609923429485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_99
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 534
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da24f7a444d34d2f0800000000000000
+      internalID: -949066257951407443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_100
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 534
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ab5ef327246f930800000000000000
+      internalID: 4176598762898438784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_101
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 534
+        width: 58
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1e2029cb302eb40800000000000000
+      internalID: 5467937006019600814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_102
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 534
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e1b797d8bafbbc0800000000000000
+      internalID: -3765102139341595104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_103
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 532
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4268d302e31b8650800000000000000
+      internalID: 6236099970472632911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_104
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 533
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7283fbcf123cb5e10800000000000000
+      internalID: 2187556594760235047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_105
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 532
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3183f32e1aa06dd0800000000000000
+      internalID: -2494807147134353090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_106
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 532
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7498af7bae2e8e310800000000000000
+      internalID: 1434645979054377287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_107
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 531
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbf7ce09f77512b0800000000000000
+      internalID: -5614449448868905986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_108
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 534
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1ea87d30860a010800000000000000
+      internalID: 1198071866590945742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_109
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 535
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a803de59f3317c0800000000000000
+      internalID: -4101864922442331590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_110
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 544
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8081bfa71e0e019c0800000000000000
+      internalID: -3958416813423126520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_111
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 542
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f403af55e6082c10800000000000000
+      internalID: 2028879214352205048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_112
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 534
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6451142491737160800000000000000
+      internalID: 7022081125074949230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_113
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 533
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6465da5f98649e1b0800000000000000
+      internalID: -5626888701076482490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_114
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 537
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dea43edfb3ceeb90800000000000000
+      internalID: -7210610724539420975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_115
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 539
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1548c715f70c85cc0800000000000000
+      internalID: -3722013438961220527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_116
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 546
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434891c07104335f0800000000000000
+      internalID: -778207842873539532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_117
+      rect:
+        serializedVersion: 2
+        x: 2731
+        y: 537
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b012450a3e941dad0800000000000000
+      internalID: -2679279061312462581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_118
+      rect:
+        serializedVersion: 2
+        x: 2858
+        y: 538
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f2b4669658b3e40800000000000000
+      internalID: 5637246046318571280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_119
+      rect:
+        serializedVersion: 2
+        x: 2986
+        y: 538
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477fc9e4ead014f90800000000000000
+      internalID: -6971275705898436748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_120
+      rect:
+        serializedVersion: 2
+        x: 3118
+        y: 534
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b825839cdf17eb50800000000000000
+      internalID: 6622296809299847348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_121
+      rect:
+        serializedVersion: 2
+        x: 3245
+        y: 535
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4989bbdc634b3bac0800000000000000
+      internalID: -3840527909744043884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_122
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 535
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72a03ef38293ab60800000000000000
+      internalID: 7756204078865097339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_123
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 534
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d41b13e6fc95240800000000000000
+      internalID: 4781080551617547532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_124
+      rect:
+        serializedVersion: 2
+        x: 3630
+        y: 534
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51113e0e12052c520800000000000000
+      internalID: 2720825231322321173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_125
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 534
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0142c4580d09f40800000000000000
+      internalID: 5733311596569301196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_126
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 533
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fef4cc1d2207240800000000000000
+      internalID: 4787364688366137185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_127
+      rect:
+        serializedVersion: 2
+        x: 4010
+        y: 532
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8477d3fd39661bc50800000000000000
+      internalID: 6679232507658729288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_128
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 405
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3def139e97456b10800000000000000
+      internalID: 1974062758070578495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_129
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 405
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4783d09ed154b40800000000000000
+      internalID: 5423774213024019677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_130
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 405
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e857f8cb03532e0800000000000000
+      internalID: -2146756060953342322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_131
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 405
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778b21f09097e7390800000000000000
+      internalID: -7818678823254050697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_132
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 405
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81423467bf29e450800000000000000
+      internalID: 6118474033466065295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_133
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 406
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902410126809da310800000000000000
+      internalID: 1417948363445322249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_134
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 405
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb5ba274cb266540800000000000000
+      internalID: 5000732558978931692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_135
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 406
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fc62834470e3980800000000000000
+      internalID: -8557394252376125555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_136
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 406
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11412eb7b82fde870800000000000000
+      internalID: 8713887534924567569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_137
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 406
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bb28821aa697ee0800000000000000
+      internalID: -1262860980098778221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_138
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 406
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490454c00fcb0d1f0800000000000000
+      internalID: -1022109376229064556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_139
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 406
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab01d12020c69250800000000000000
+      internalID: 5951155201855523759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_140
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 405
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5c0b2aaeef64240800000000000000
+      internalID: 4775784738578286019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_141
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 406
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e0a269b3749a070800000000000000
+      internalID: 8118098124560010845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_142
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 415
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b3343c3b7df4500800000000000000
+      internalID: 382761660424862511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_143
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 405
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464c409bc085a22d0800000000000000
+      internalID: -3302730565055888284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_144
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 405
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8791c14eb2e63a930800000000000000
+      internalID: 4153284416155425144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_145
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 406
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852072d7a10215da0800000000000000
+      internalID: -5957945533893508520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_146
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 408
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943b5c0dc6fc047e0800000000000000
+      internalID: -1783197386172681399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_147
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 410
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120b9a6693a799960800000000000000
+      internalID: 7609247432373284897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_148
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 414
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce921093586e93960800000000000000
+      internalID: 7582344907516357100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_149
+      rect:
+        serializedVersion: 2
+        x: 2735
+        y: 410
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e0ef1b76de15030800000000000000
+      internalID: 3481825016557735496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_150
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 412
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f8fe7c85666b500800000000000000
+      internalID: 411628947448500102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_151
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 412
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1020dfbabdc32cd60800000000000000
+      internalID: 7908950809797001729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_152
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 405
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8b94b7573515ed0800000000000000
+      internalID: -2427066960131278680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_153
+      rect:
+        serializedVersion: 2
+        x: 3251
+        y: 406
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c5eb2fefc1f9fd0800000000000000
+      internalID: -2333114200634794957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_154
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 406
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d510b82c6261450800000000000000
+      internalID: 6059072965671214365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_155
+      rect:
+        serializedVersion: 2
+        x: 3506
+        y: 406
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8678a8f57dc7e4990800000000000000
+      internalID: -7399839873260419224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_156
+      rect:
+        serializedVersion: 2
+        x: 3632
+        y: 405
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a3fd6db2538d8a0800000000000000
+      internalID: -6280211217963337216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_157
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 405
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207a4a16b42715de0800000000000000
+      internalID: -1346169145520773374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_158
+      rect:
+        serializedVersion: 2
+        x: 3891
+        y: 406
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a707e50e201f800800000000000000
+      internalID: 644299384371051164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_159
+      rect:
+        serializedVersion: 2
+        x: 4015
+        y: 405
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e153b59849772230800000000000000
+      internalID: 3613990578644275684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_160
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 277
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a36ee4c0a59ba080800000000000000
+      internalID: -9175075298105990237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_161
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 277
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f9d0dbff1b258d0800000000000000
+      internalID: -2859027101480280203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_162
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 277
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb95ec4ffb9b53360800000000000000
+      internalID: 7148824217617586619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_163
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 277
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ff0f337ff880de0800000000000000
+      internalID: -1366684195015819419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_164
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 277
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff16393036f5ad390800000000000000
+      internalID: -7792811326344830465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_165
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 276
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e2f1a71c92eaa90800000000000000
+      internalID: -7300852034966704586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_166
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 273
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362991374f5a7ba20800000000000000
+      internalID: 3078111339652682339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_167
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 274
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f226ce1ab28bdd0800000000000000
+      internalID: -2470176421157130412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_168
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 276
+        width: 53
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bbf9d0312eba770800000000000000
+      internalID: 8623234482991774523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_169
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 277
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d0493bbd9adba70800000000000000
+      internalID: 8844412004301278498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_170
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 276
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da018cfbe972e480800000000000000
+      internalID: -8871394261505865007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_171
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 276
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404ed019b84e21410800000000000000
+      internalID: 1446469718424544260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_172
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 276
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e11a7e6dd049ff90800000000000000
+      internalID: -6919428032692612637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_173
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 281
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945ee0f1a03d0cdf0800000000000000
+      internalID: -161897546161134263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_174
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 280
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d00e6321f4ef3a0800000000000000
+      internalID: -6629774661794132641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_175
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 270
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936b24fd08a124970800000000000000
+      internalID: 8737575367856010809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_176
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 277
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe555ac319dd2460800000000000000
+      internalID: 7218664456766971637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_177
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 280
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a79295ec8c798b40800000000000000
+      internalID: 5443018569242810272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_178
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 282
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9812b2842855ed70800000000000000
+      internalID: 9071753938242508959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_179
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 284
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88976877826b6440800000000000000
+      internalID: 4930142551067302027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_180
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 284
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83757dd4553da5400800000000000000
+      internalID: 313795487387309880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_181
+      rect:
+        serializedVersion: 2
+        x: 2734
+        y: 281
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9433f4a70301e20800000000000000
+      internalID: 3319206227244960242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_182
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 282
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71dfa7e03c07a4a0800000000000000
+      internalID: -6582278926193667715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_183
+      rect:
+        serializedVersion: 2
+        x: 2991
+        y: 282
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cbcb6537b45d230800000000000000
+      internalID: 3662916830684298283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_184
+      rect:
+        serializedVersion: 2
+        x: 3118
+        y: 276
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cba47eeab03428e0800000000000000
+      internalID: -1719195578326012989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_185
+      rect:
+        serializedVersion: 2
+        x: 3245
+        y: 281
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4615af9479a1770d0800000000000000
+      internalID: -3425239754508447388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_186
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 281
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e4eb1f9085828c0800000000000000
+      internalID: -4023869467321807323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_187
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 281
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cef69bae89ad26e0800000000000000
+      internalID: -1860644640804897086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_188
+      rect:
+        serializedVersion: 2
+        x: 3630
+        y: 276
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d039ac89b64b6590800000000000000
+      internalID: -7679966976807456558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_189
+      rect:
+        serializedVersion: 2
+        x: 3755
+        y: 276
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e280f74eb1c392200800000000000000
+      internalID: 155721752616306734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_190
+      rect:
+        serializedVersion: 2
+        x: 3884
+        y: 277
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818f42c51d924ee00800000000000000
+      internalID: 1073028590391851032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_191
+      rect:
+        serializedVersion: 2
+        x: 4010
+        y: 276
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b55ba61d09abb70800000000000000
+      internalID: 8915597641446152966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_192
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 152
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90c8bf43b1ec2b10800000000000000
+      internalID: 1958188098252226714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_193
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 152
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058a9b864a4240db0800000000000000
+      internalID: -4826692612084094896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_194
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 152
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df190015c1b0341b0800000000000000
+      internalID: -5673678889310711299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_195
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 152
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aee989cdad3dcba0800000000000000
+      internalID: -6067125306378293599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_196
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 152
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc71276f32f9c08d0800000000000000
+      internalID: -2878751084989245493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_197
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 151
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0f334089af06e00800000000000000
+      internalID: 1036103445107699929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_198
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 149
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f7960f8c192b330800000000000000
+      internalID: 3725200134001753877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_199
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 149
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1090638556a367930800000000000000
+      internalID: 4140561114359793921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_200
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 151
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277e4ceaed177d920800000000000000
+      internalID: 3015003676776654706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_201
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 152
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a8027672ef6d9e0800000000000000
+      internalID: -1596809572668896703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_202
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 153
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd3de907f60cfc90800000000000000
+      internalID: -7134820051568476742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_203
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 149
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2663dc98f1bbcc9f0800000000000000
+      internalID: -446776518886214046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_204
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 152
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2d6f876fd5466f0800000000000000
+      internalID: -692325129535434046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_205
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 159
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddf9fb6f7ec80470800000000000000
+      internalID: 8361159754881039831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_206
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 149
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d940b66213fbda90800000000000000
+      internalID: -7287964311611225648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_207
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 144
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09548b516b5d33c0800000000000000
+      internalID: -4378242789028898545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_208
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 152
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c223c33551eb6e7c0800000000000000
+      internalID: -4042334616718396884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_209
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 155
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d427cda92467fab00800000000000000
+      internalID: 842021683779629645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_210
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 158
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ff7661743b0d7e0800000000000000
+      internalID: -1742695937892417654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_211
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 159
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543f520cc2c4ea390800000000000000
+      internalID: -7805217349100506299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_212
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 154
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e3c3d4ed5565aa0800000000000000
+      internalID: -6172651825997791696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_213
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 151
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969d05ac4d4cd0230800000000000000
+      internalID: 3606755294800042345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_214
+      rect:
+        serializedVersion: 2
+        x: 2869
+        y: 151
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0b7608d82075d80800000000000000
+      internalID: -8262132184619962113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_215
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 151
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ff6739d12fc7300800000000000000
+      internalID: 251341888067927859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_216
+      rect:
+        serializedVersion: 2
+        x: 3116
+        y: 152
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb22ca32746813710800000000000000
+      internalID: 1671264576830448319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_217
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 159
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff516384637d48b0800000000000000
+      internalID: -5166346321985970178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_218
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 158
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d20f75490c89c50800000000000000
+      internalID: 6672294591312440694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_219
+      rect:
+        serializedVersion: 2
+        x: 3498
+        y: 156
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24caa8185f97f7da0800000000000000
+      internalID: -5944898887758468030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_220
+      rect:
+        serializedVersion: 2
+        x: 3628
+        y: 152
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b2a88ed7e016d90800000000000000
+      internalID: -7106382803078861925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_221
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 151
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725c9af8f1efd0550800000000000000
+      internalID: 6128834079428822311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_222
+      rect:
+        serializedVersion: 2
+        x: 3884
+        y: 152
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea64126c79f9b3910800000000000000
+      internalID: 1818222348787074734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_223
+      rect:
+        serializedVersion: 2
+        x: 4012
+        y: 152
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8ff3d0ef22e5ac0800000000000000
+      internalID: -3864612955697973019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_224
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 20
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b4c6489092b7890800000000000000
+      internalID: -7459323236955960427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_225
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 20
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fa59b216c07b6a0800000000000000
+      internalID: -6433659931192873067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_226
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 20
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcd11369aee8e3b0800000000000000
+      internalID: -5482870135044580142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_227
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 20
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbe9d899c700f850800000000000000
+      internalID: 6408630832182455224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_228
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 21
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b07d770fedba4230800000000000000
+      internalID: 3623917684493480119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_229
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 20
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c72474991aa7ec0800000000000000
+      internalID: -3568362075040089040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_230
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 19
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3815d2d1d3d8cb0800000000000000
+      internalID: -4860161227339234335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_231
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 20
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbb50f24289ac570800000000000000
+      internalID: 8487763728908270542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_232
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 21
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28f8790c949d7df0800000000000000
+      internalID: -180825012130219986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_233
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 21
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad7a5adae35390d0800000000000000
+      internalID: -3417295424093258332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_234
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 20
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5655c99e4ddc580800000000000000
+      internalID: -8805147596624140828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_235
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 17
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcee961bbb5ffe40800000000000000
+      internalID: 5692369313116122365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_236
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 20
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23c3a7a770396af0800000000000000
+      internalID: -402737401201179858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_237
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 25
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f6926f817aba7d0800000000000000
+      internalID: -2906045408886558877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_238
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cceae79a6b6adc10800000000000000
+      internalID: 2079092283544366279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_239
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 14
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d856167875fda1f0800000000000000
+      internalID: -1031898841871918887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_240
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 20
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81bd475f8b83bef0800000000000000
+      internalID: -93577719483354742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_241
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 24
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a133dae8ac5b88a80800000000000000
+      internalID: -8464315618061110502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_242
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 26
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8d662fb70d98580800000000000000
+      internalID: -8824292764089395005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_243
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 28
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdd7ff57cf518620800000000000000
+      internalID: 2774604155350146554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_244
+      rect:
+        serializedVersion: 2
+        x: 2606
+        y: 26
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297785e18feaf2e00800000000000000
+      internalID: 1022228021120628626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_245
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 24
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec290bad139912c20800000000000000
+      internalID: 3179991251301733070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_246
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 23
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629f943d2c4f5c660800000000000000
+      internalID: 7405594279886321958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_247
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 23
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2dc8d796545d420800000000000000
+      internalID: 2654103874785039049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_248
+      rect:
+        serializedVersion: 2
+        x: 3113
+        y: 20
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24840dacdd0c3c10800000000000000
+      internalID: 2034516373111342124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_249
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 25
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc21f7c5bb693c4a0800000000000000
+      internalID: -6574245299575909685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_250
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 26
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e98def8da7df7a0800000000000000
+      internalID: -6341777627860656519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_251
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 26
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8423e00f24ee650800000000000000
+      internalID: 6264017730516699330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_252
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 20
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9758c7b4cb64d650800000000000000
+      internalID: 6256744274965583773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_253
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 20
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662faf646466d45e0800000000000000
+      internalID: -1923769013792738714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_254
+      rect:
+        serializedVersion: 2
+        x: 3880
+        y: 21
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28149523f98bbb70800000000000000
+      internalID: 8915871564710549549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_large_255
+      rect:
+        serializedVersion: 2
+        x: 4009
+        y: 20
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409480b6b7fc692e0800000000000000
+      internalID: -2119278445647607548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spider_large_0: 4770559223580724334
+      spider_large_1: 9087674714064862267
+      spider_large_10: -7901519880857423073
+      spider_large_100: 4176598762898438784
+      spider_large_101: 5467937006019600814
+      spider_large_102: -3765102139341595104
+      spider_large_103: 6236099970472632911
+      spider_large_104: 2187556594760235047
+      spider_large_105: -2494807147134353090
+      spider_large_106: 1434645979054377287
+      spider_large_107: -5614449448868905986
+      spider_large_108: 1198071866590945742
+      spider_large_109: -4101864922442331590
+      spider_large_11: 6935143777031457525
+      spider_large_110: -3958416813423126520
+      spider_large_111: 2028879214352205048
+      spider_large_112: 7022081125074949230
+      spider_large_113: -5626888701076482490
+      spider_large_114: -7210610724539420975
+      spider_large_115: -3722013438961220527
+      spider_large_116: -778207842873539532
+      spider_large_117: -2679279061312462581
+      spider_large_118: 5637246046318571280
+      spider_large_119: -6971275705898436748
+      spider_large_12: -6350688951836314870
+      spider_large_120: 6622296809299847348
+      spider_large_121: -3840527909744043884
+      spider_large_122: 7756204078865097339
+      spider_large_123: 4781080551617547532
+      spider_large_124: 2720825231322321173
+      spider_large_125: 5733311596569301196
+      spider_large_126: 4787364688366137185
+      spider_large_127: 6679232507658729288
+      spider_large_128: 1974062758070578495
+      spider_large_129: 5423774213024019677
+      spider_large_13: 6573340433696643075
+      spider_large_130: -2146756060953342322
+      spider_large_131: -7818678823254050697
+      spider_large_132: 6118474033466065295
+      spider_large_133: 1417948363445322249
+      spider_large_134: 5000732558978931692
+      spider_large_135: -8557394252376125555
+      spider_large_136: 8713887534924567569
+      spider_large_137: -1262860980098778221
+      spider_large_138: -1022109376229064556
+      spider_large_139: 5951155201855523759
+      spider_large_14: -1421009932854864211
+      spider_large_140: 4775784738578286019
+      spider_large_141: 8118098124560010845
+      spider_large_142: 382761660424862511
+      spider_large_143: -3302730565055888284
+      spider_large_144: 4153284416155425144
+      spider_large_145: -5957945533893508520
+      spider_large_146: -1783197386172681399
+      spider_large_147: 7609247432373284897
+      spider_large_148: 7582344907516357100
+      spider_large_149: 3481825016557735496
+      spider_large_15: -3376468973533881467
+      spider_large_150: 411628947448500102
+      spider_large_151: 7908950809797001729
+      spider_large_152: -2427066960131278680
+      spider_large_153: -2333114200634794957
+      spider_large_154: 6059072965671214365
+      spider_large_155: -7399839873260419224
+      spider_large_156: -6280211217963337216
+      spider_large_157: -1346169145520773374
+      spider_large_158: 644299384371051164
+      spider_large_159: 3613990578644275684
+      spider_large_16: -6523880207532590146
+      spider_large_160: -9175075298105990237
+      spider_large_161: -2859027101480280203
+      spider_large_162: 7148824217617586619
+      spider_large_163: -1366684195015819419
+      spider_large_164: -7792811326344830465
+      spider_large_165: -7300852034966704586
+      spider_large_166: 3078111339652682339
+      spider_large_167: -2470176421157130412
+      spider_large_168: 8623234482991774523
+      spider_large_169: 8844412004301278498
+      spider_large_17: 3624841927828397087
+      spider_large_170: -8871394261505865007
+      spider_large_171: 1446469718424544260
+      spider_large_172: -6919428032692612637
+      spider_large_173: -161897546161134263
+      spider_large_174: -6629774661794132641
+      spider_large_175: 8737575367856010809
+      spider_large_176: 7218664456766971637
+      spider_large_177: 5443018569242810272
+      spider_large_178: 9071753938242508959
+      spider_large_179: 4930142551067302027
+      spider_large_18: -6416412820953985896
+      spider_large_180: 313795487387309880
+      spider_large_181: 3319206227244960242
+      spider_large_182: -6582278926193667715
+      spider_large_183: 3662916830684298283
+      spider_large_184: -1719195578326012989
+      spider_large_185: -3425239754508447388
+      spider_large_186: -4023869467321807323
+      spider_large_187: -1860644640804897086
+      spider_large_188: -7679966976807456558
+      spider_large_189: 155721752616306734
+      spider_large_19: 4611673369133270550
+      spider_large_190: 1073028590391851032
+      spider_large_191: 8915597641446152966
+      spider_large_192: 1958188098252226714
+      spider_large_193: -4826692612084094896
+      spider_large_194: -5673678889310711299
+      spider_large_195: -6067125306378293599
+      spider_large_196: -2878751084989245493
+      spider_large_197: 1036103445107699929
+      spider_large_198: 3725200134001753877
+      spider_large_199: 4140561114359793921
+      spider_large_2: 6943185048525645798
+      spider_large_20: 23844118230817380
+      spider_large_200: 3015003676776654706
+      spider_large_201: -1596809572668896703
+      spider_large_202: -7134820051568476742
+      spider_large_203: -446776518886214046
+      spider_large_204: -692325129535434046
+      spider_large_205: 8361159754881039831
+      spider_large_206: -7287964311611225648
+      spider_large_207: -4378242789028898545
+      spider_large_208: -4042334616718396884
+      spider_large_209: 842021683779629645
+      spider_large_21: -6305558737618462793
+      spider_large_210: -1742695937892417654
+      spider_large_211: -7805217349100506299
+      spider_large_212: -6172651825997791696
+      spider_large_213: 3606755294800042345
+      spider_large_214: -8262132184619962113
+      spider_large_215: 251341888067927859
+      spider_large_216: 1671264576830448319
+      spider_large_217: -5166346321985970178
+      spider_large_218: 6672294591312440694
+      spider_large_219: -5944898887758468030
+      spider_large_22: 8230511795890079554
+      spider_large_220: -7106382803078861925
+      spider_large_221: 6128834079428822311
+      spider_large_222: 1818222348787074734
+      spider_large_223: -3864612955697973019
+      spider_large_224: -7459323236955960427
+      spider_large_225: -6433659931192873067
+      spider_large_226: -5482870135044580142
+      spider_large_227: 6408630832182455224
+      spider_large_228: 3623917684493480119
+      spider_large_229: -3568362075040089040
+      spider_large_23: 3553131388164242754
+      spider_large_230: -4860161227339234335
+      spider_large_231: 8487763728908270542
+      spider_large_232: -180825012130219986
+      spider_large_233: -3417295424093258332
+      spider_large_234: -8805147596624140828
+      spider_large_235: 5692369313116122365
+      spider_large_236: -402737401201179858
+      spider_large_237: -2906045408886558877
+      spider_large_238: 2079092283544366279
+      spider_large_239: -1031898841871918887
+      spider_large_24: 2852474095599660535
+      spider_large_240: -93577719483354742
+      spider_large_241: -8464315618061110502
+      spider_large_242: -8824292764089395005
+      spider_large_243: 2774604155350146554
+      spider_large_244: 1022228021120628626
+      spider_large_245: 3179991251301733070
+      spider_large_246: 7405594279886321958
+      spider_large_247: 2654103874785039049
+      spider_large_248: 2034516373111342124
+      spider_large_249: -6574245299575909685
+      spider_large_25: 9031286733180965077
+      spider_large_250: -6341777627860656519
+      spider_large_251: 6264017730516699330
+      spider_large_252: 6256744274965583773
+      spider_large_253: -1923769013792738714
+      spider_large_254: 8915871564710549549
+      spider_large_255: -2119278445647607548
+      spider_large_26: -2433682986387687610
+      spider_large_27: -1860382305841575446
+      spider_large_28: 1199402127514779861
+      spider_large_29: 1788608248968192210
+      spider_large_3: -7082069507398202253
+      spider_large_30: -8748869841065214658
+      spider_large_31: -6406172216960560355
+      spider_large_32: -4567831040563633928
+      spider_large_33: -1339877647312929026
+      spider_large_34: -4371599867958006155
+      spider_large_35: 7071160143309090221
+      spider_large_36: -5096949957930493141
+      spider_large_37: -9094473933693595513
+      spider_large_38: 641302210659164387
+      spider_large_39: -4724025246559145329
+      spider_large_4: 2178270999952635263
+      spider_large_40: -8914624030010708439
+      spider_large_41: -739113396864651327
+      spider_large_42: -6283688276443263304
+      spider_large_43: 7173800582480844667
+      spider_large_44: -6845974326939651505
+      spider_large_45: -7816336738449353581
+      spider_large_46: 5494575945816703684
+      spider_large_47: 4293572925390166433
+      spider_large_48: 2300154278640142652
+      spider_large_49: -4362119936847903704
+      spider_large_5: -3462231174759109062
+      spider_large_50: 871077825356686363
+      spider_large_51: -4786205757394432877
+      spider_large_52: 6852214041521872510
+      spider_large_53: -7324829073115817691
+      spider_large_54: -1215188078305406288
+      spider_large_55: -6793176331489702404
+      spider_large_56: 6034863546966374556
+      spider_large_57: 8023351349799133969
+      spider_large_58: 15616691616031979
+      spider_large_59: 1603328257720267513
+      spider_large_6: -4522703746694597648
+      spider_large_60: 7691513394185843823
+      spider_large_61: 7381896321544254259
+      spider_large_62: -1333406188294620647
+      spider_large_63: -7918986303126822052
+      spider_large_64: -2639780775840163602
+      spider_large_65: -6158161548359103886
+      spider_large_66: 3711005297204059735
+      spider_large_67: -7993336365348564772
+      spider_large_68: -4581969863662265441
+      spider_large_69: -7084418131984959351
+      spider_large_7: 2118382910980966830
+      spider_large_70: -7913521030507038933
+      spider_large_71: -7927332232260451664
+      spider_large_72: -229584290745223721
+      spider_large_73: 3626447868897903307
+      spider_large_74: -6850275974793938936
+      spider_large_75: -3779018800743315955
+      spider_large_76: -7309249575698108612
+      spider_large_77: 7345853584403629276
+      spider_large_78: -3502913075539802577
+      spider_large_79: 5494972835379423141
+      spider_large_8: 8743185793760840858
+      spider_large_80: 4850507062765196432
+      spider_large_81: -1569564317341218471
+      spider_large_82: 8920674731570675810
+      spider_large_83: -8994757940327314187
+      spider_large_84: 8546544713081973676
+      spider_large_85: -4257723425909466139
+      spider_large_86: -4964270326553354254
+      spider_large_87: -9071695959219547275
+      spider_large_88: 6780386873363860625
+      spider_large_89: 7509794237855468343
+      spider_large_9: -8476532793057726901
+      spider_large_90: 8422526698998428700
+      spider_large_91: -6754731152623945632
+      spider_large_92: 4510593041628660308
+      spider_large_93: 4581971086125862051
+      spider_large_94: 1463111036087753930
+      spider_large_95: 8579052465950031404
+      spider_large_96: 900933038194406541
+      spider_large_97: -2806981521661073613
+      spider_large_98: -6827929609923429485
+      spider_large_99: -949066257951407443
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

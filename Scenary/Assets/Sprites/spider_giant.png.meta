@@ -1,0 +1,6773 @@
+fileFormatVersion: 2
+guid: 70be5460e0176450ebaaeca573cbf37d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4807537757521364897
+    second: spider_giant_0
+  - first:
+      213: 7245694386634374466
+    second: spider_giant_1
+  - first:
+      213: -6908868016638448202
+    second: spider_giant_2
+  - first:
+      213: -4730951533485412589
+    second: spider_giant_3
+  - first:
+      213: -237504089814954480
+    second: spider_giant_4
+  - first:
+      213: -6821454713922291823
+    second: spider_giant_5
+  - first:
+      213: 7507002971394431063
+    second: spider_giant_6
+  - first:
+      213: 5894296875409580472
+    second: spider_giant_7
+  - first:
+      213: 7720832188360954217
+    second: spider_giant_8
+  - first:
+      213: -5066778207706743721
+    second: spider_giant_9
+  - first:
+      213: 4571173261024038741
+    second: spider_giant_10
+  - first:
+      213: 6820791974458846579
+    second: spider_giant_11
+  - first:
+      213: 8785164464590707212
+    second: spider_giant_12
+  - first:
+      213: 5254692123212906841
+    second: spider_giant_13
+  - first:
+      213: -8865944085363163408
+    second: spider_giant_14
+  - first:
+      213: -6622608005337467219
+    second: spider_giant_15
+  - first:
+      213: -9055856211307549435
+    second: spider_giant_16
+  - first:
+      213: -5852729153045793055
+    second: spider_giant_17
+  - first:
+      213: -6825276644981339118
+    second: spider_giant_18
+  - first:
+      213: 8726185155524595342
+    second: spider_giant_19
+  - first:
+      213: -6641859089027281857
+    second: spider_giant_20
+  - first:
+      213: 6369934781940438435
+    second: spider_giant_21
+  - first:
+      213: 810038957244376293
+    second: spider_giant_22
+  - first:
+      213: -7467606455967379167
+    second: spider_giant_23
+  - first:
+      213: -3233572985099902366
+    second: spider_giant_24
+  - first:
+      213: 1435130207786651874
+    second: spider_giant_25
+  - first:
+      213: -554424701129809895
+    second: spider_giant_26
+  - first:
+      213: 7240452907939241942
+    second: spider_giant_27
+  - first:
+      213: 7686995746455599216
+    second: spider_giant_28
+  - first:
+      213: -2840319170594759114
+    second: spider_giant_29
+  - first:
+      213: -833262695992415597
+    second: spider_giant_30
+  - first:
+      213: 4838880239047771218
+    second: spider_giant_31
+  - first:
+      213: -6088324837140106268
+    second: spider_giant_32
+  - first:
+      213: 8112330099464310540
+    second: spider_giant_33
+  - first:
+      213: -7457625366570209994
+    second: spider_giant_34
+  - first:
+      213: -8235965229984329787
+    second: spider_giant_35
+  - first:
+      213: -3306191928801510613
+    second: spider_giant_36
+  - first:
+      213: 7716082719718254911
+    second: spider_giant_37
+  - first:
+      213: 6279684852734195020
+    second: spider_giant_38
+  - first:
+      213: 950910423210681541
+    second: spider_giant_39
+  - first:
+      213: 5133168424865087169
+    second: spider_giant_40
+  - first:
+      213: 6405527725935332524
+    second: spider_giant_41
+  - first:
+      213: -8176087287978646241
+    second: spider_giant_42
+  - first:
+      213: 4328917658542447247
+    second: spider_giant_43
+  - first:
+      213: 2104949560925571021
+    second: spider_giant_44
+  - first:
+      213: 1989479126770642450
+    second: spider_giant_45
+  - first:
+      213: 646600938048515923
+    second: spider_giant_46
+  - first:
+      213: -2737978920484782618
+    second: spider_giant_47
+  - first:
+      213: -7829382677361907868
+    second: spider_giant_48
+  - first:
+      213: 1650700765070949089
+    second: spider_giant_49
+  - first:
+      213: 7253561900663365582
+    second: spider_giant_50
+  - first:
+      213: 3115220436678612554
+    second: spider_giant_51
+  - first:
+      213: 2245699678368336800
+    second: spider_giant_52
+  - first:
+      213: -2246025907787470688
+    second: spider_giant_53
+  - first:
+      213: 3503119641225891007
+    second: spider_giant_54
+  - first:
+      213: 996582883406192670
+    second: spider_giant_55
+  - first:
+      213: -2972258990290136887
+    second: spider_giant_56
+  - first:
+      213: 2115436111080980070
+    second: spider_giant_57
+  - first:
+      213: -2723258919986257851
+    second: spider_giant_58
+  - first:
+      213: -1576055093131561484
+    second: spider_giant_59
+  - first:
+      213: 9110966088723976733
+    second: spider_giant_60
+  - first:
+      213: -6280970712779410803
+    second: spider_giant_61
+  - first:
+      213: 6532096963101835488
+    second: spider_giant_62
+  - first:
+      213: -3545220734920844839
+    second: spider_giant_63
+  - first:
+      213: 855819709071345589
+    second: spider_giant_64
+  - first:
+      213: 8149332780872275805
+    second: spider_giant_65
+  - first:
+      213: -4634095826428721336
+    second: spider_giant_66
+  - first:
+      213: -730697974659989466
+    second: spider_giant_67
+  - first:
+      213: 3161473832946961442
+    second: spider_giant_68
+  - first:
+      213: 5191648003488015973
+    second: spider_giant_69
+  - first:
+      213: 5847614432276311341
+    second: spider_giant_70
+  - first:
+      213: -5480852809584125062
+    second: spider_giant_71
+  - first:
+      213: -1344252342321849591
+    second: spider_giant_72
+  - first:
+      213: -3394301375415890691
+    second: spider_giant_73
+  - first:
+      213: 6528768596625570602
+    second: spider_giant_74
+  - first:
+      213: 3596742021695457988
+    second: spider_giant_75
+  - first:
+      213: 8722765925301027233
+    second: spider_giant_76
+  - first:
+      213: 3601896753966294482
+    second: spider_giant_77
+  - first:
+      213: -6293880780728520664
+    second: spider_giant_78
+  - first:
+      213: -4124730611209389414
+    second: spider_giant_79
+  - first:
+      213: 8337763792524378579
+    second: spider_giant_80
+  - first:
+      213: -5801618229870022769
+    second: spider_giant_81
+  - first:
+      213: 5939126868952872796
+    second: spider_giant_82
+  - first:
+      213: 6128202305091664105
+    second: spider_giant_83
+  - first:
+      213: 610737198521961906
+    second: spider_giant_84
+  - first:
+      213: 3218613354646388051
+    second: spider_giant_85
+  - first:
+      213: -4095109630807064055
+    second: spider_giant_86
+  - first:
+      213: -970718752488683486
+    second: spider_giant_87
+  - first:
+      213: -7632614170986144062
+    second: spider_giant_88
+  - first:
+      213: -7211720618976387866
+    second: spider_giant_89
+  - first:
+      213: 668614082039929300
+    second: spider_giant_90
+  - first:
+      213: -6772054398957244817
+    second: spider_giant_91
+  - first:
+      213: -4979603872708624846
+    second: spider_giant_92
+  - first:
+      213: -2528556448852479562
+    second: spider_giant_93
+  - first:
+      213: 360492614582412863
+    second: spider_giant_94
+  - first:
+      213: -1662635752915084762
+    second: spider_giant_95
+  - first:
+      213: -16610923186296677
+    second: spider_giant_96
+  - first:
+      213: 60833340373604612
+    second: spider_giant_97
+  - first:
+      213: -9031371491447784423
+    second: spider_giant_98
+  - first:
+      213: -3034011323384723772
+    second: spider_giant_99
+  - first:
+      213: -5153847477919379643
+    second: spider_giant_100
+  - first:
+      213: -8911824492172354718
+    second: spider_giant_101
+  - first:
+      213: 3002589680449391012
+    second: spider_giant_102
+  - first:
+      213: 2595522830384082447
+    second: spider_giant_103
+  - first:
+      213: -6246205462558520134
+    second: spider_giant_104
+  - first:
+      213: -8318640802660793496
+    second: spider_giant_105
+  - first:
+      213: 7845064775453259887
+    second: spider_giant_106
+  - first:
+      213: -7733939270297230344
+    second: spider_giant_107
+  - first:
+      213: -1697492847153741984
+    second: spider_giant_108
+  - first:
+      213: 5424487516963902563
+    second: spider_giant_109
+  - first:
+      213: 1958347909284984844
+    second: spider_giant_110
+  - first:
+      213: -6116151028232892966
+    second: spider_giant_111
+  - first:
+      213: -641843542594075010
+    second: spider_giant_112
+  - first:
+      213: -1469275297811161350
+    second: spider_giant_113
+  - first:
+      213: 5637764503171603607
+    second: spider_giant_114
+  - first:
+      213: 5599463714037673010
+    second: spider_giant_115
+  - first:
+      213: 6837819783435434422
+    second: spider_giant_116
+  - first:
+      213: 2899071458810404811
+    second: spider_giant_117
+  - first:
+      213: -7577555984880767608
+    second: spider_giant_118
+  - first:
+      213: 6681245909618332679
+    second: spider_giant_119
+  - first:
+      213: -7642409695842166038
+    second: spider_giant_120
+  - first:
+      213: 4676405723941551768
+    second: spider_giant_121
+  - first:
+      213: 4737398410716381124
+    second: spider_giant_122
+  - first:
+      213: 1522482446196676722
+    second: spider_giant_123
+  - first:
+      213: 4161953371619019955
+    second: spider_giant_124
+  - first:
+      213: 1674340290911441788
+    second: spider_giant_125
+  - first:
+      213: -3524078572511259484
+    second: spider_giant_126
+  - first:
+      213: -5150451381137508135
+    second: spider_giant_127
+  - first:
+      213: -3228648025264139154
+    second: spider_giant_128
+  - first:
+      213: -5072799820888955554
+    second: spider_giant_129
+  - first:
+      213: 1607266905072643853
+    second: spider_giant_130
+  - first:
+      213: -2091531039663292453
+    second: spider_giant_131
+  - first:
+      213: 2249875455641252245
+    second: spider_giant_132
+  - first:
+      213: 7050909551372106207
+    second: spider_giant_133
+  - first:
+      213: -7301973600620220293
+    second: spider_giant_134
+  - first:
+      213: -655878440055221365
+    second: spider_giant_135
+  - first:
+      213: -8412158283265519445
+    second: spider_giant_136
+  - first:
+      213: -2814039164020936839
+    second: spider_giant_137
+  - first:
+      213: -2867718581955005603
+    second: spider_giant_138
+  - first:
+      213: 6978288252029244521
+    second: spider_giant_139
+  - first:
+      213: 6438056080437444192
+    second: spider_giant_140
+  - first:
+      213: -5466002022994501349
+    second: spider_giant_141
+  - first:
+      213: -8903535650472762568
+    second: spider_giant_142
+  - first:
+      213: -218287200037576304
+    second: spider_giant_143
+  - first:
+      213: -4398020163868797544
+    second: spider_giant_144
+  - first:
+      213: 8109216253744046590
+    second: spider_giant_145
+  - first:
+      213: 4546361560565389078
+    second: spider_giant_146
+  - first:
+      213: 5742764435129746787
+    second: spider_giant_147
+  - first:
+      213: -479820499593912901
+    second: spider_giant_148
+  - first:
+      213: 7510953446118157884
+    second: spider_giant_149
+  - first:
+      213: -2744204828878201813
+    second: spider_giant_150
+  - first:
+      213: 277049439494045335
+    second: spider_giant_151
+  - first:
+      213: 866829947937505958
+    second: spider_giant_152
+  - first:
+      213: -8933068948317814101
+    second: spider_giant_153
+  - first:
+      213: -1234659820836587330
+    second: spider_giant_154
+  - first:
+      213: 5404748945062108334
+    second: spider_giant_155
+  - first:
+      213: -2792491786331501950
+    second: spider_giant_156
+  - first:
+      213: 5941454705229334259
+    second: spider_giant_157
+  - first:
+      213: -3723935200142647147
+    second: spider_giant_158
+  - first:
+      213: -7018518675895558088
+    second: spider_giant_159
+  - first:
+      213: -8681979597857148860
+    second: spider_giant_160
+  - first:
+      213: -6697132276743172334
+    second: spider_giant_161
+  - first:
+      213: -2488864343675630327
+    second: spider_giant_162
+  - first:
+      213: -3704202118007348249
+    second: spider_giant_163
+  - first:
+      213: -469296007494247451
+    second: spider_giant_164
+  - first:
+      213: -3995256773559752408
+    second: spider_giant_165
+  - first:
+      213: 1521556386015079725
+    second: spider_giant_166
+  - first:
+      213: 8483076645013811269
+    second: spider_giant_167
+  - first:
+      213: 8195775866319133641
+    second: spider_giant_168
+  - first:
+      213: -2840902647766164624
+    second: spider_giant_169
+  - first:
+      213: -798205003851288972
+    second: spider_giant_170
+  - first:
+      213: -8255275284146120133
+    second: spider_giant_171
+  - first:
+      213: -6933804017328672087
+    second: spider_giant_172
+  - first:
+      213: 1679830718042089171
+    second: spider_giant_173
+  - first:
+      213: -8504855167854774416
+    second: spider_giant_174
+  - first:
+      213: 5174212759470514975
+    second: spider_giant_175
+  - first:
+      213: -4151231339850187631
+    second: spider_giant_176
+  - first:
+      213: -3619835377263499091
+    second: spider_giant_177
+  - first:
+      213: -2780151085608630527
+    second: spider_giant_178
+  - first:
+      213: 1208149042498196546
+    second: spider_giant_179
+  - first:
+      213: 1554285514775444849
+    second: spider_giant_180
+  - first:
+      213: 6133177522722623942
+    second: spider_giant_181
+  - first:
+      213: 5287674648536225884
+    second: spider_giant_182
+  - first:
+      213: -2288855480090903961
+    second: spider_giant_183
+  - first:
+      213: 8674158146374751006
+    second: spider_giant_184
+  - first:
+      213: 281938628871003937
+    second: spider_giant_185
+  - first:
+      213: 658045522562227062
+    second: spider_giant_186
+  - first:
+      213: -7157625469719708640
+    second: spider_giant_187
+  - first:
+      213: -2091468470153394333
+    second: spider_giant_188
+  - first:
+      213: -3081271486648588703
+    second: spider_giant_189
+  - first:
+      213: 7857710697939981278
+    second: spider_giant_190
+  - first:
+      213: -4125524402361196665
+    second: spider_giant_191
+  - first:
+      213: -188275400828967163
+    second: spider_giant_192
+  - first:
+      213: 755388160611994948
+    second: spider_giant_193
+  - first:
+      213: 6584522378681998221
+    second: spider_giant_194
+  - first:
+      213: -3114196759779648264
+    second: spider_giant_195
+  - first:
+      213: 7296531906902812885
+    second: spider_giant_196
+  - first:
+      213: 20576447904099504
+    second: spider_giant_197
+  - first:
+      213: -8657518289400725294
+    second: spider_giant_198
+  - first:
+      213: -9166997623482496841
+    second: spider_giant_199
+  - first:
+      213: 1721324081388150735
+    second: spider_giant_200
+  - first:
+      213: -8907857373488293208
+    second: spider_giant_201
+  - first:
+      213: -5105463675800069197
+    second: spider_giant_202
+  - first:
+      213: 7297208649090648593
+    second: spider_giant_203
+  - first:
+      213: -9152196133736878742
+    second: spider_giant_204
+  - first:
+      213: -476127591596089255
+    second: spider_giant_205
+  - first:
+      213: 3146355694489146066
+    second: spider_giant_206
+  - first:
+      213: 1243926804324141905
+    second: spider_giant_207
+  - first:
+      213: -2434629504498770925
+    second: spider_giant_208
+  - first:
+      213: -8183279949309468875
+    second: spider_giant_209
+  - first:
+      213: -6895901579989179098
+    second: spider_giant_210
+  - first:
+      213: 7875376467316356250
+    second: spider_giant_211
+  - first:
+      213: -5205732411944786027
+    second: spider_giant_212
+  - first:
+      213: -7622240760915759500
+    second: spider_giant_213
+  - first:
+      213: -6755824294203320116
+    second: spider_giant_214
+  - first:
+      213: 9074684000647914303
+    second: spider_giant_215
+  - first:
+      213: -3691126463749055530
+    second: spider_giant_216
+  - first:
+      213: 6865313420305391622
+    second: spider_giant_217
+  - first:
+      213: 5076830590984961566
+    second: spider_giant_218
+  - first:
+      213: 7283257033131485104
+    second: spider_giant_219
+  - first:
+      213: -5673671387220893963
+    second: spider_giant_220
+  - first:
+      213: -373730946460826761
+    second: spider_giant_221
+  - first:
+      213: 3314868523183293297
+    second: spider_giant_222
+  - first:
+      213: -4023556239743664156
+    second: spider_giant_223
+  - first:
+      213: 8245317966498464850
+    second: spider_giant_224
+  - first:
+      213: -5267475996573397315
+    second: spider_giant_225
+  - first:
+      213: -4549553521490899635
+    second: spider_giant_226
+  - first:
+      213: -2863534125606466200
+    second: spider_giant_227
+  - first:
+      213: 7192464523381552160
+    second: spider_giant_228
+  - first:
+      213: 4702845550986024809
+    second: spider_giant_229
+  - first:
+      213: -7924458358138927457
+    second: spider_giant_230
+  - first:
+      213: -5573550962986128657
+    second: spider_giant_231
+  - first:
+      213: 1889171432344295841
+    second: spider_giant_232
+  - first:
+      213: -3009616929287792865
+    second: spider_giant_233
+  - first:
+      213: -165903922980050760
+    second: spider_giant_234
+  - first:
+      213: -8880415229555252741
+    second: spider_giant_235
+  - first:
+      213: 5532852805682125360
+    second: spider_giant_236
+  - first:
+      213: 1595250203160513845
+    second: spider_giant_237
+  - first:
+      213: -8432791251248509581
+    second: spider_giant_238
+  - first:
+      213: -5251188018021285430
+    second: spider_giant_239
+  - first:
+      213: 3563490776073857663
+    second: spider_giant_240
+  - first:
+      213: -1200422956157918810
+    second: spider_giant_241
+  - first:
+      213: -1807701954963677099
+    second: spider_giant_242
+  - first:
+      213: 5318512007523263070
+    second: spider_giant_243
+  - first:
+      213: 1990703954458316954
+    second: spider_giant_244
+  - first:
+      213: 1828295691664904927
+    second: spider_giant_245
+  - first:
+      213: 5617210691344561107
+    second: spider_giant_246
+  - first:
+      213: 5047804949482605972
+    second: spider_giant_247
+  - first:
+      213: 1073304339039720713
+    second: spider_giant_248
+  - first:
+      213: 6204991006950054686
+    second: spider_giant_249
+  - first:
+      213: 4027908471000999417
+    second: spider_giant_250
+  - first:
+      213: -777918957384231913
+    second: spider_giant_251
+  - first:
+      213: -2646647305230005641
+    second: spider_giant_252
+  - first:
+      213: 8227352777570531286
+    second: spider_giant_253
+  - first:
+      213: 9162398230513601481
+    second: spider_giant_254
+  - first:
+      213: -3736662003696072263
+    second: spider_giant_255
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spider_giant_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 913
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7c6597e1ec7b240800000000000000
+      internalID: 4807537757521364897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 913
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d3262c7a0ed8460800000000000000
+      internalID: 7245694386634374466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_2
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 913
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd2534c425ce10a0800000000000000
+      internalID: -6908868016638448202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_3
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 913
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f230d55a8485eb0800000000000000
+      internalID: -4730951533485412589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_4
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 913
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e80e5e94734bcf0800000000000000
+      internalID: -237504089814954480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_5
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 915
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1977f3d44135551a0800000000000000
+      internalID: -6821454713922291823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_6
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 913
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75854cdbd6b3e2860800000000000000
+      internalID: 7507002971394431063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_7
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 913
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1ab7367cfbcc150800000000000000
+      internalID: 5894296875409580472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_8
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 913
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96118a5f7f7e52b60800000000000000
+      internalID: 7720832188360954217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_9
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 913
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cf2f5a0103fa9b0800000000000000
+      internalID: -5066778207706743721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_10
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 914
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f0a1e9cd1107f30800000000000000
+      internalID: 4571173261024038741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_11
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 910
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d6474a92258ae50800000000000000
+      internalID: 6820791974458846579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_12
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 913
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a5055e88c2be970800000000000000
+      internalID: 8785164464590707212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_13
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 913
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951062045aa6ce840800000000000000
+      internalID: 5254692123212906841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_14
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 928
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fef37104d6d5f480800000000000000
+      internalID: -8865944085363163408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_15
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 913
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6b3337b15c714a0800000000000000
+      internalID: -6622608005337467219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_16
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 913
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50daffb71c2235280800000000000000
+      internalID: -9055856211307549435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_17
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 914
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6f12a28dde6cea0800000000000000
+      internalID: -5852729153045793055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_18
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 916
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c0e12ad0fb741a0800000000000000
+      internalID: -6825276644981339118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_19
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 920
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e84576a23a91970800000000000000
+      internalID: 8726185155524595342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_20
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 923
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c445e395063d3a0800000000000000
+      internalID: -6641859089027281857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_21
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 917
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a517ff4fed866850800000000000000
+      internalID: 6369934781940438435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_22
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 916
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e467ccc326dd3b00800000000000000
+      internalID: 810038957244376293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_23
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 917
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12196ad4e7bbd5890800000000000000
+      internalID: -7467606455967379167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_24
+      rect:
+        serializedVersion: 2
+        x: 3113
+        y: 913
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26222d3908a0023d0800000000000000
+      internalID: -3233572985099902366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_25
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 913
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e05e81025b9ae310800000000000000
+      internalID: 1435130207786651874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_26
+      rect:
+        serializedVersion: 2
+        x: 3378
+        y: 913
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910a47afba94e48f0800000000000000
+      internalID: -554424701129809895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_27
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 914
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df99a6ee814b7460800000000000000
+      internalID: 7240452907939241942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_28
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 913
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078bc6967e1bdaa60800000000000000
+      internalID: 7686995746455599216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_29
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 913
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e97f353c82598d0800000000000000
+      internalID: -2840319170594759114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_30
+      rect:
+        serializedVersion: 2
+        x: 3873
+        y: 913
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39aa9c82ef7af64f0800000000000000
+      internalID: -833262695992415597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_31
+      rect:
+        serializedVersion: 2
+        x: 4009
+        y: 913
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254891f90f7272340800000000000000
+      internalID: 4838880239047771218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_32
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 787
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3731561dce18ba0800000000000000
+      internalID: -6088324837140106268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_33
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 787
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f87479e39c49070800000000000000
+      internalID: 8112330099464310540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_34
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 787
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63de3a5cd31318890800000000000000
+      internalID: -7457625366570209994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_35
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 787
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfc0546249f3bd80800000000000000
+      internalID: -8235965229984329787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_36
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 784
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bb58c25fb0e12d0800000000000000
+      internalID: -3306191928801510613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_37
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 781
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39265e1a58051b60800000000000000
+      internalID: 7716082719718254911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_38
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 780
+        width: 70
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c457f943a1ce52750800000000000000
+      internalID: 6279684852734195020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_39
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 782
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c460b4edff423d00800000000000000
+      internalID: 950910423210681541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_40
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 785
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ceb5585c7dac3740800000000000000
+      internalID: 5133168424865087169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_41
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 787
+        width: 74
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac8a4f578105e850800000000000000
+      internalID: 6405527725935332524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_42
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 785
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15227b2ee3b88e80800000000000000
+      internalID: -8176087287978646241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_43
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 784
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a9653cca7631c30800000000000000
+      internalID: 4328917658542447247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_44
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 787
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc745112978463d10800000000000000
+      internalID: 2104949560925571021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_45
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 786
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ee73f99bc0c9b10800000000000000
+      internalID: 1989479126770642450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_46
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 800
+        width: 73
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fe0d7902039f800800000000000000
+      internalID: 646600938048515923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_47
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 797
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed3ff1adaeb00ad0800000000000000
+      internalID: -2737978920484782618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_48
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 787
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4672f31dfe1785390800000000000000
+      internalID: -7829382677361907868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_49
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 785
+        width: 67
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eaf48c999778e610800000000000000
+      internalID: 1650700765070949089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_50
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 790
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfd85d1e14d9a460800000000000000
+      internalID: 7253561900663365582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_51
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 794
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4614456b7c7b3b20800000000000000
+      internalID: 3115220436678612554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_52
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 801
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab8a5195f35a2f10800000000000000
+      internalID: 2245699678368336800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_53
+      rect:
+        serializedVersion: 2
+        x: 2724
+        y: 786
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8e00a365384d0e0800000000000000
+      internalID: -2246025907787470688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_54
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 786
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc86fcd0c49d9030800000000000000
+      internalID: 3503119641225891007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_55
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 786
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1029a23ad294dd00800000000000000
+      internalID: 996582883406192670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_56
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 787
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c09b4f223a60c6d0800000000000000
+      internalID: -2972258990290136887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_57
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 786
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ef30a5fe98b5d10800000000000000
+      internalID: 2115436111080980070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_58
+      rect:
+        serializedVersion: 2
+        x: 3361
+        y: 786
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5402ec2d07a053ad0800000000000000
+      internalID: -2723258919986257851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_59
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 786
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5b27b3e3ab02ae0800000000000000
+      internalID: -1576055093131561484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_60
+      rect:
+        serializedVersion: 2
+        x: 3615
+        y: 787
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12d50fb267a07e70800000000000000
+      internalID: 9110966088723976733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_61
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 785
+        width: 69
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82b62c2a6285d8a0800000000000000
+      internalID: -6280970712779410803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_62
+      rect:
+        serializedVersion: 2
+        x: 3868
+        y: 784
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0c714549ba6aa50800000000000000
+      internalID: 6532096963101835488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_63
+      rect:
+        serializedVersion: 2
+        x: 3998
+        y: 783
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d991b46688dccec0800000000000000
+      internalID: -3545220734920844839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_64
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 664
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7c9f6bd7b70eb00800000000000000
+      internalID: 855819709071345589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_65
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 664
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d579658bcfe381170800000000000000
+      internalID: 8149332780872275805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_66
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 664
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847889af56260bfb0800000000000000
+      internalID: -4634095826428721336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_67
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 664
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6204b4e301a0cd5f0800000000000000
+      internalID: -730697974659989466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_68
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 659
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c0f7b63bfcfdb20800000000000000
+      internalID: 3161473832946961442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_69
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 658
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566e4c64a507c0840800000000000000
+      internalID: 5191648003488015973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_70
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 658
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2de64b1856e62150800000000000000
+      internalID: 5847614432276311341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_71
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 660
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b5982986910f3b0800000000000000
+      internalID: -5480852809584125062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_72
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 661
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b5b67ed91485de0800000000000000
+      internalID: -1344252342321849591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_73
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 661
+        width: 68
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc47b102e405e0d0800000000000000
+      internalID: -3394301375415890691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_74
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 660
+        width: 70
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bb79e9278da9a50800000000000000
+      internalID: 6528768596625570602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_75
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 659
+        width: 69
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cac0e7ffc13ae130800000000000000
+      internalID: 3596742021695457988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_76
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 662
+        width: 62
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a10374d46d7d0970800000000000000
+      internalID: 8722765925301027233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_77
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 663
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d52bc993028cf130800000000000000
+      internalID: 3601896753966294482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_78
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 672
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820b40eb6c4a7a8a0800000000000000
+      internalID: -6293880780728520664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_79
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 679
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a3fa4ec5302c6c0800000000000000
+      internalID: -4124730611209389414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_80
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 664
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d187827effa5b370800000000000000
+      internalID: 8337763792524378579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_81
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 659
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8faa2e45f28c7fa0800000000000000
+      internalID: -5801618229870022769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_82
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 662
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57f9e3ab640c6250800000000000000
+      internalID: 5939126868952872796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_83
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 666
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8f7b2278fbb0550800000000000000
+      internalID: 6128202305091664105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_84
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 677
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdc4090f36c97800800000000000000
+      internalID: 610737198521961906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_85
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 661
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35db6090bcfcaac20800000000000000
+      internalID: 3218613354646388051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_86
+      rect:
+        serializedVersion: 2
+        x: 2852
+        y: 662
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902c673dc7f3b27c0800000000000000
+      internalID: -4095109630807064055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_87
+      rect:
+        serializedVersion: 2
+        x: 2981
+        y: 662
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2280a1d00705782f0800000000000000
+      internalID: -970718752488683486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_88
+      rect:
+        serializedVersion: 2
+        x: 3107
+        y: 662
+        width: 62
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce12cec9d1831690800000000000000
+      internalID: -7632614170986144062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_89
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 663
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec5d8e6e42daeb90800000000000000
+      internalID: -7211720618976387866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_90
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 665
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d950d317f4674900800000000000000
+      internalID: 668614082039929300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_91
+      rect:
+        serializedVersion: 2
+        x: 3487
+        y: 665
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e288e6764d402a0800000000000000
+      internalID: -6772054398957244817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_92
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 662
+        width: 62
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23efa0d29a4e4eab0800000000000000
+      internalID: -4979603872708624846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_93
+      rect:
+        serializedVersion: 2
+        x: 3747
+        y: 661
+        width: 63
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1ff9f7e43c8ecd0800000000000000
+      internalID: -2528556448852479562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_94
+      rect:
+        serializedVersion: 2
+        x: 3875
+        y: 661
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36265c7f1ab00500800000000000000
+      internalID: 360492614582412863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_95
+      rect:
+        serializedVersion: 2
+        x: 4003
+        y: 662
+        width: 62
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ad1ac77912de8e0800000000000000
+      internalID: -1662635752915084762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_96
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 531
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98e610147cf4cff0800000000000000
+      internalID: -16610923186296677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_97
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 531
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409187bc99f18d000800000000000000
+      internalID: 60833340373604612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_98
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 531
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c3aa19a7f1aa280800000000000000
+      internalID: -9031371491447784423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_99
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 531
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c60429b6c605e5d0800000000000000
+      internalID: -3034011323384723772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_100
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 531
+        width: 82
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f821c660bd978b0800000000000000
+      internalID: -5153847477919379643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_101
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 530
+        width: 84
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bd07b57d6d25480800000000000000
+      internalID: -8911824492172354718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_102
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 528
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9807de7675ba920800000000000000
+      internalID: 3002589680449391012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_103
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 528
+        width: 74
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ea5773346250420800000000000000
+      internalID: 2595522830384082447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_104
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 527
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc4812c9350159a0800000000000000
+      internalID: -6246205462558520134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_105
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 527
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863455793404e8c80800000000000000
+      internalID: -8318640802660793496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_106
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 526
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6832dc29d44fdc60800000000000000
+      internalID: 7845064775453259887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_107
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 526
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f36d77b5378ba490800000000000000
+      internalID: -7733939270297230344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_108
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 531
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f72accf3b4178e0800000000000000
+      internalID: -1697492847153741984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_109
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 531
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3649c2118a6a74b40800000000000000
+      internalID: 5424487516963902563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_110
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 544
+        width: 77
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c087f873c037d2b10800000000000000
+      internalID: 1958347909284984844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_111
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 542
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addc9896b011f1ba0800000000000000
+      internalID: -6116151028232892966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_112
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 531
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e764d4ad2b6b717f0800000000000000
+      internalID: -641843542594075010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_113
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 529
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe95b4b6e51c9be0800000000000000
+      internalID: -1469275297811161350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_114
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 534
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c99da02fc5d3e40800000000000000
+      internalID: 5637764503171603607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_115
+      rect:
+        serializedVersion: 2
+        x: 2474
+        y: 538
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ca7e7a49a45bd40800000000000000
+      internalID: 5599463714037673010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_116
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 547
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9becd5dd0d4ee50800000000000000
+      internalID: 6837819783435434422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_117
+      rect:
+        serializedVersion: 2
+        x: 2722
+        y: 535
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf1ed0c1229b3820800000000000000
+      internalID: 2899071458810404811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_118
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 536
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88deb87bafc17d690800000000000000
+      internalID: -7577555984880767608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_119
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 536
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70415db81cd88bc50800000000000000
+      internalID: 6681245909618332679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_120
+      rect:
+        serializedVersion: 2
+        x: 3110
+        y: 531
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea93537fd4b0f590800000000000000
+      internalID: -7642409695842166038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_121
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 531
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89eb321ba3ee5e040800000000000000
+      internalID: 4676405723941551768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_122
+      rect:
+        serializedVersion: 2
+        x: 3363
+        y: 530
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfff3631ce9eb140800000000000000
+      internalID: 4737398410716381124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_123
+      rect:
+        serializedVersion: 2
+        x: 3491
+        y: 530
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2781256e7b1f02510800000000000000
+      internalID: 1522482446196676722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_124
+      rect:
+        serializedVersion: 2
+        x: 3622
+        y: 531
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc471f5a8a32c930800000000000000
+      internalID: 4161953371619019955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_125
+      rect:
+        serializedVersion: 2
+        x: 3747
+        y: 529
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7396e0af937c3710800000000000000
+      internalID: 1674340290911441788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_126
+      rect:
+        serializedVersion: 2
+        x: 3873
+        y: 527
+        width: 69
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a496eca535f71fc0800000000000000
+      internalID: -3524078572511259484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_127
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 528
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8f062d1cbe588b0800000000000000
+      internalID: -5150451381137508135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_128
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 401
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e645d552ab98133d0800000000000000
+      internalID: -3228648025264139154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_129
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 401
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55af33907bc999b0800000000000000
+      internalID: -5072799820888955554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_130
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 401
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fa8180cb82e4610800000000000000
+      internalID: 1607266905072643853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_131
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 401
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf7a20d99369f2e0800000000000000
+      internalID: -2091531039663292453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_132
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 401
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591fd5a7ec9293f10800000000000000
+      internalID: 2249875455641252245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_133
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 402
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd971f031ecd9d160800000000000000
+      internalID: 7050909551372106207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_134
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 400
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7070cf92bd2aaa90800000000000000
+      internalID: -7301973600620220293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_135
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 402
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83dba4a80ad5e6f0800000000000000
+      internalID: -655878440055221365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_136
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 401
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba059936c92024b80800000000000000
+      internalID: -8412158283265519445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_137
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 402
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fae7c2a4682f8d0800000000000000
+      internalID: -2814039164020936839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_138
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 402
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53f8ceb421d338d0800000000000000
+      internalID: -2867718581955005603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_139
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 401
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9641c72513cd7d060800000000000000
+      internalID: 6978288252029244521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_140
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 401
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e748615e1985950800000000000000
+      internalID: 6438056080437444192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_141
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 401
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11a8d5ce1cd424b0800000000000000
+      internalID: -5466002022994501349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_142
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 416
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8336b84bf79407480800000000000000
+      internalID: -8903535650472762568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_143
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 401
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091eeb6b2fc78fcf0800000000000000
+      internalID: -218287200037576304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_144
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 401
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895589176f717f2c0800000000000000
+      internalID: -4398020163868797544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_145
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 402
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1ec33e739b98070800000000000000
+      internalID: 8109216253744046590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_146
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 404
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6179dfd60cbe71f30800000000000000
+      internalID: 4546361560565389078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_147
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 409
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365c7a8c3d562bf40800000000000000
+      internalID: 5742764435129746787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_148
+      rect:
+        serializedVersion: 2
+        x: 2614
+        y: 414
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd11cd3cc55759f0800000000000000
+      internalID: -479820499593912901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_149
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 409
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e6e505d544c3860800000000000000
+      internalID: 7510953446118157884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_150
+      rect:
+        serializedVersion: 2
+        x: 2857
+        y: 412
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c9dcf5f30aae9d0800000000000000
+      internalID: -2744204828878201813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_151
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 412
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e73425ff648d300800000000000000
+      internalID: 277049439494045335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_152
+      rect:
+        serializedVersion: 2
+        x: 3113
+        y: 401
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a24c77be39970c00800000000000000
+      internalID: 866829947937505958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_153
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 401
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2c175fe1d570480800000000000000
+      internalID: -8933068948317814101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_154
+      rect:
+        serializedVersion: 2
+        x: 3374
+        y: 401
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb876983f6b9ddee0800000000000000
+      internalID: -1234659820836587330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_155
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 401
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac189aa786810b40800000000000000
+      internalID: 5404748945062108334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_156
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 401
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ac38df3831f39d0800000000000000
+      internalID: -2792491786331501950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_157
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 401
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f684424399447250800000000000000
+      internalID: 5941454705229334259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_158
+      rect:
+        serializedVersion: 2
+        x: 3884
+        y: 401
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590acec6aace15cc0800000000000000
+      internalID: -3723935200142647147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_159
+      rect:
+        serializedVersion: 2
+        x: 4007
+        y: 401
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830ecc13376399e90800000000000000
+      internalID: -7018518675895558088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_160
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 271
+        width: 65
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440398a0e89638780800000000000000
+      internalID: -8681979597857148860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_161
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 271
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f8bee5da10f03a0800000000000000
+      internalID: -6697132276743172334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_162
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 271
+        width: 65
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d0415e017c57dd0800000000000000
+      internalID: -2488864343675630327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_163
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 271
+        width: 65
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e32ce3acc7089cc0800000000000000
+      internalID: -3704202118007348249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_164
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 273
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebdbc284c9bc79f0800000000000000
+      internalID: -469296007494247451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_165
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 269
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8296f79d12ffd88c0800000000000000
+      internalID: -3995256773559752408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_166
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 266
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2de726b877ad1510800000000000000
+      internalID: 1521556386015079725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_167
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 268
+        width: 76
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540f57c6341f9b570800000000000000
+      internalID: 8483076645013811269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_168
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 270
+        width: 79
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbdba23abe3db170800000000000000
+      internalID: 8195775866319133641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_169
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 271
+        width: 79
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b5e66f7161398d0800000000000000
+      internalID: -2840902647766164624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_170
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 271
+        width: 81
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e218f27c43ce4f0800000000000000
+      internalID: -798205003851288972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_171
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 271
+        width: 80
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a986d0ede5f6d80800000000000000
+      internalID: -8255275284146120133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_172
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 271
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2b2fcabfd26cf90800000000000000
+      internalID: -6933804017328672087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_173
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 278
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d620bf4325ff4710800000000000000
+      internalID: 1679830718042089171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_174
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 278
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077fed5194fa8f980800000000000000
+      internalID: -8504855167854774416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_175
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 261
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13a880371f7ec740800000000000000
+      internalID: 5174212759470514975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_176
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 271
+        width: 65
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cb2cf271dd366c0800000000000000
+      internalID: -4151231339850187631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_177
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 276
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da821d037e2c3cdc0800000000000000
+      internalID: -3619835377263499091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_178
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 280
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1078168415bea69d0800000000000000
+      internalID: -2780151085608630527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_179
+      rect:
+        serializedVersion: 2
+        x: 2474
+        y: 282
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24455d1372534c010800000000000000
+      internalID: 1208149042498196546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_180
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 282
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17db9b3d07ee19510800000000000000
+      internalID: 1554285514775444849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_181
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 279
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1da42467c6d1550800000000000000
+      internalID: 6133177522722623942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_182
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 279
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5817d9d318916940800000000000000
+      internalID: 5287674648536225884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_183
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 280
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ab9f6511a5c30e0800000000000000
+      internalID: -2288855480090903961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_184
+      rect:
+        serializedVersion: 2
+        x: 3110
+        y: 271
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e135a3060ecc06870800000000000000
+      internalID: 8674158146374751006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_185
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 278
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f115e60b5a9e300800000000000000
+      internalID: 281938628871003937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_186
+      rect:
+        serializedVersion: 2
+        x: 3363
+        y: 279
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b9b529ae8d12900800000000000000
+      internalID: 658045522562227062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_187
+      rect:
+        serializedVersion: 2
+        x: 3491
+        y: 278
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c711ade810bac90800000000000000
+      internalID: -7157625469719708640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_188
+      rect:
+        serializedVersion: 2
+        x: 3622
+        y: 271
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367c399e18c99f2e0800000000000000
+      internalID: -2091468470153394333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_189
+      rect:
+        serializedVersion: 2
+        x: 3746
+        y: 270
+        width: 69
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16665cd78ef1d35d0800000000000000
+      internalID: -3081271486648588703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_190
+      rect:
+        serializedVersion: 2
+        x: 3872
+        y: 272
+        width: 70
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3df727f323c0d60800000000000000
+      internalID: 7857710697939981278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_191
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 271
+        width: 69
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f1e0df9613fb6c0800000000000000
+      internalID: -4125524402361196665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_192
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 148
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50725ad358c136df0800000000000000
+      internalID: -188275400828967163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_193
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 148
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d40d4a78dab7a00800000000000000
+      internalID: 755388160611994948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_194
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 148
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b53f4973ce06b50800000000000000
+      internalID: 6584522378681998221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_195
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 148
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc59a4fb8628c4d0800000000000000
+      internalID: -3114196759779648264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_196
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 148
+        width: 67
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8ee335c1d724560800000000000000
+      internalID: 7296531906902812885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_197
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 148
+        width: 65
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc201c9b2a194000800000000000000
+      internalID: 20576447904099504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_198
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 143
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d082db3cf05ad780800000000000000
+      internalID: -8657518289400725294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_199
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 145
+        width: 68
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8c973fa3848c080800000000000000
+      internalID: -9166997623482496841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_200
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 147
+        width: 71
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf577ec12f53e710800000000000000
+      internalID: 1721324081388150735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_201
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 148
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aad2672aeee06480800000000000000
+      internalID: -8907857373488293208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_202
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 150
+        width: 68
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbd64636dfb529b0800000000000000
+      internalID: -5105463675800069197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_203
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 145
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ac4f4aa94e44560800000000000000
+      internalID: 7297208649090648593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_204
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 148
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6de8e55b1edcf080800000000000000
+      internalID: -9152196133736878742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_205
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 158
+        width: 68
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95027236a747469f0800000000000000
+      internalID: -476127591596089255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_206
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 145
+        width: 83
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d29d0385d91aab20800000000000000
+      internalID: 3146355694489146066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_207
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 137
+        width: 66
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bc35286d0534110800000000000000
+      internalID: 1243926804324141905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_208
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 148
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c5aa86d55763ed0800000000000000
+      internalID: -2434629504498770925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_209
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 155
+        width: 65
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f15d33e362f6e80800000000000000
+      internalID: -8183279949309468875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_210
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 158
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625a0be8c06dc40a0800000000000000
+      internalID: -6895901579989179098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_211
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 159
+        width: 63
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94bcd6eb25fa4d60800000000000000
+      internalID: 7875376467316356250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_212
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 152
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5972b46d3f581c7b0800000000000000
+      internalID: -5205732411944786027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_213
+      rect:
+        serializedVersion: 2
+        x: 2731
+        y: 148
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47eec1d896c583690800000000000000
+      internalID: -7622240760915759500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_214
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 148
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc89e0b299d7e32a0800000000000000
+      internalID: -6755824294203320116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_215
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 148
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f332a83d401cfed70800000000000000
+      internalID: 9074684000647914303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_216
+      rect:
+        serializedVersion: 2
+        x: 3107
+        y: 148
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db9133a90c76ccc0800000000000000
+      internalID: -3691126463749055530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_217
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 158
+        width: 68
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60066098e2e764f50800000000000000
+      internalID: 6865313420305391622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_218
+      rect:
+        serializedVersion: 2
+        x: 3359
+        y: 157
+        width: 74
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ebe783686847640800000000000000
+      internalID: 5076830590984961566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_219
+      rect:
+        serializedVersion: 2
+        x: 3487
+        y: 155
+        width: 73
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7eaabeea3531560800000000000000
+      internalID: 7283257033131485104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_220
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 148
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe96680fe11341b0800000000000000
+      internalID: -5673671387220893963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_221
+      rect:
+        serializedVersion: 2
+        x: 3747
+        y: 148
+        width: 62
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773c1ae2fad30daf0800000000000000
+      internalID: -373730946460826761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_222
+      rect:
+        serializedVersion: 2
+        x: 3875
+        y: 148
+        width: 64
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173c671eb57c00e20800000000000000
+      internalID: 3314868523183293297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_223
+      rect:
+        serializedVersion: 2
+        x: 4003
+        y: 148
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efb54ceae47928c0800000000000000
+      internalID: -4023556239743664156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_224
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 15
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254894541014d6270800000000000000
+      internalID: 8245317966498464850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_225
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 15
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe88594d7a26e6b0800000000000000
+      internalID: -5267475996573397315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_226
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 15
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d48e04d2dbcd0c0800000000000000
+      internalID: -4549553521490899635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_227
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 15
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d840962eea248d0800000000000000
+      internalID: -2863534125606466200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_228
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 15
+        width: 76
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024b1cf6064c0d360800000000000000
+      internalID: 7192464523381552160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_229
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 16
+        width: 81
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9675c04ac1dd34140800000000000000
+      internalID: 4702845550986024809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_230
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 14
+        width: 80
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9601cddb1ba60290800000000000000
+      internalID: -7924458358138927457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_231
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 15
+        width: 75
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feaeca9dde4c6a2b0800000000000000
+      internalID: -5573550962986128657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_232
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 16
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a992b0986fa73a10800000000000000
+      internalID: 1889171432344295841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_233
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 17
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f179cc33951bb36d0800000000000000
+      internalID: -3009616929287792865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_234
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 15
+        width: 69
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b82ee3d24792bdf0800000000000000
+      internalID: -165903922980050760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_235
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 9
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1e360366d62c480800000000000000
+      internalID: -8880415229555252741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_236
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 15
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ad43dff44a8cc40800000000000000
+      internalID: 5532852805682125360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_237
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 22
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d80479b97732610800000000000000
+      internalID: 1595250203160513845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_238
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 22
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d8f4c2905b8fa80800000000000000
+      internalID: -8432791251248509581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_239
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 5
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1cd01d1580027b0800000000000000
+      internalID: -5251188018021285430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_240
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 15
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a634c0bff047130800000000000000
+      internalID: 3563490776073857663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_241
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 20
+        width: 67
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1abf57ead375fe0800000000000000
+      internalID: -1200422956157918810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_242
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 24
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5506c9a46a0c9e6e0800000000000000
+      internalID: -1807701954963677099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_243
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 26
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52e21efd762fc940800000000000000
+      internalID: 5318512007523263070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_244
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 24
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90147a03b660ab10800000000000000
+      internalID: 1990703954458316954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_245
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 20
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2501eae396f5910800000000000000
+      internalID: 1828295691664904927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_246
+      rect:
+        serializedVersion: 2
+        x: 2861
+        y: 19
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d37e1ecc5754fd40800000000000000
+      internalID: 5617210691344561107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_247
+      rect:
+        serializedVersion: 2
+        x: 2989
+        y: 20
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d8e5d6bd76d0640800000000000000
+      internalID: 5047804949482605972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_248
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 15
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90519581c9425ee00800000000000000
+      internalID: 1073304339039720713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_249
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 22
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b50c3027e8c1650800000000000000
+      internalID: 6204991006950054686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_250
+      rect:
+        serializedVersion: 2
+        x: 3361
+        y: 22
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f52dc1e96106e730800000000000000
+      internalID: 4027908471000999417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_251
+      rect:
+        serializedVersion: 2
+        x: 3490
+        y: 22
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714121174d64435f0800000000000000
+      internalID: -777918957384231913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_252
+      rect:
+        serializedVersion: 2
+        x: 3615
+        y: 15
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a45066c48354bd0800000000000000
+      internalID: -2646647305230005641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_253
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 15
+        width: 69
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d73ae4c2cd6d2270800000000000000
+      internalID: 8227352777570531286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_254
+      rect:
+        serializedVersion: 2
+        x: 3868
+        y: 16
+        width: 67
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb4e6c65a0672f70800000000000000
+      internalID: 9162398230513601481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_giant_255
+      rect:
+        serializedVersion: 2
+        x: 3999
+        y: 15
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b90fff84b5b42cc0800000000000000
+      internalID: -3736662003696072263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spider_giant_0: 4807537757521364897
+      spider_giant_1: 7245694386634374466
+      spider_giant_10: 4571173261024038741
+      spider_giant_100: -5153847477919379643
+      spider_giant_101: -8911824492172354718
+      spider_giant_102: 3002589680449391012
+      spider_giant_103: 2595522830384082447
+      spider_giant_104: -6246205462558520134
+      spider_giant_105: -8318640802660793496
+      spider_giant_106: 7845064775453259887
+      spider_giant_107: -7733939270297230344
+      spider_giant_108: -1697492847153741984
+      spider_giant_109: 5424487516963902563
+      spider_giant_11: 6820791974458846579
+      spider_giant_110: 1958347909284984844
+      spider_giant_111: -6116151028232892966
+      spider_giant_112: -641843542594075010
+      spider_giant_113: -1469275297811161350
+      spider_giant_114: 5637764503171603607
+      spider_giant_115: 5599463714037673010
+      spider_giant_116: 6837819783435434422
+      spider_giant_117: 2899071458810404811
+      spider_giant_118: -7577555984880767608
+      spider_giant_119: 6681245909618332679
+      spider_giant_12: 8785164464590707212
+      spider_giant_120: -7642409695842166038
+      spider_giant_121: 4676405723941551768
+      spider_giant_122: 4737398410716381124
+      spider_giant_123: 1522482446196676722
+      spider_giant_124: 4161953371619019955
+      spider_giant_125: 1674340290911441788
+      spider_giant_126: -3524078572511259484
+      spider_giant_127: -5150451381137508135
+      spider_giant_128: -3228648025264139154
+      spider_giant_129: -5072799820888955554
+      spider_giant_13: 5254692123212906841
+      spider_giant_130: 1607266905072643853
+      spider_giant_131: -2091531039663292453
+      spider_giant_132: 2249875455641252245
+      spider_giant_133: 7050909551372106207
+      spider_giant_134: -7301973600620220293
+      spider_giant_135: -655878440055221365
+      spider_giant_136: -8412158283265519445
+      spider_giant_137: -2814039164020936839
+      spider_giant_138: -2867718581955005603
+      spider_giant_139: 6978288252029244521
+      spider_giant_14: -8865944085363163408
+      spider_giant_140: 6438056080437444192
+      spider_giant_141: -5466002022994501349
+      spider_giant_142: -8903535650472762568
+      spider_giant_143: -218287200037576304
+      spider_giant_144: -4398020163868797544
+      spider_giant_145: 8109216253744046590
+      spider_giant_146: 4546361560565389078
+      spider_giant_147: 5742764435129746787
+      spider_giant_148: -479820499593912901
+      spider_giant_149: 7510953446118157884
+      spider_giant_15: -6622608005337467219
+      spider_giant_150: -2744204828878201813
+      spider_giant_151: 277049439494045335
+      spider_giant_152: 866829947937505958
+      spider_giant_153: -8933068948317814101
+      spider_giant_154: -1234659820836587330
+      spider_giant_155: 5404748945062108334
+      spider_giant_156: -2792491786331501950
+      spider_giant_157: 5941454705229334259
+      spider_giant_158: -3723935200142647147
+      spider_giant_159: -7018518675895558088
+      spider_giant_16: -9055856211307549435
+      spider_giant_160: -8681979597857148860
+      spider_giant_161: -6697132276743172334
+      spider_giant_162: -2488864343675630327
+      spider_giant_163: -3704202118007348249
+      spider_giant_164: -469296007494247451
+      spider_giant_165: -3995256773559752408
+      spider_giant_166: 1521556386015079725
+      spider_giant_167: 8483076645013811269
+      spider_giant_168: 8195775866319133641
+      spider_giant_169: -2840902647766164624
+      spider_giant_17: -5852729153045793055
+      spider_giant_170: -798205003851288972
+      spider_giant_171: -8255275284146120133
+      spider_giant_172: -6933804017328672087
+      spider_giant_173: 1679830718042089171
+      spider_giant_174: -8504855167854774416
+      spider_giant_175: 5174212759470514975
+      spider_giant_176: -4151231339850187631
+      spider_giant_177: -3619835377263499091
+      spider_giant_178: -2780151085608630527
+      spider_giant_179: 1208149042498196546
+      spider_giant_18: -6825276644981339118
+      spider_giant_180: 1554285514775444849
+      spider_giant_181: 6133177522722623942
+      spider_giant_182: 5287674648536225884
+      spider_giant_183: -2288855480090903961
+      spider_giant_184: 8674158146374751006
+      spider_giant_185: 281938628871003937
+      spider_giant_186: 658045522562227062
+      spider_giant_187: -7157625469719708640
+      spider_giant_188: -2091468470153394333
+      spider_giant_189: -3081271486648588703
+      spider_giant_19: 8726185155524595342
+      spider_giant_190: 7857710697939981278
+      spider_giant_191: -4125524402361196665
+      spider_giant_192: -188275400828967163
+      spider_giant_193: 755388160611994948
+      spider_giant_194: 6584522378681998221
+      spider_giant_195: -3114196759779648264
+      spider_giant_196: 7296531906902812885
+      spider_giant_197: 20576447904099504
+      spider_giant_198: -8657518289400725294
+      spider_giant_199: -9166997623482496841
+      spider_giant_2: -6908868016638448202
+      spider_giant_20: -6641859089027281857
+      spider_giant_200: 1721324081388150735
+      spider_giant_201: -8907857373488293208
+      spider_giant_202: -5105463675800069197
+      spider_giant_203: 7297208649090648593
+      spider_giant_204: -9152196133736878742
+      spider_giant_205: -476127591596089255
+      spider_giant_206: 3146355694489146066
+      spider_giant_207: 1243926804324141905
+      spider_giant_208: -2434629504498770925
+      spider_giant_209: -8183279949309468875
+      spider_giant_21: 6369934781940438435
+      spider_giant_210: -6895901579989179098
+      spider_giant_211: 7875376467316356250
+      spider_giant_212: -5205732411944786027
+      spider_giant_213: -7622240760915759500
+      spider_giant_214: -6755824294203320116
+      spider_giant_215: 9074684000647914303
+      spider_giant_216: -3691126463749055530
+      spider_giant_217: 6865313420305391622
+      spider_giant_218: 5076830590984961566
+      spider_giant_219: 7283257033131485104
+      spider_giant_22: 810038957244376293
+      spider_giant_220: -5673671387220893963
+      spider_giant_221: -373730946460826761
+      spider_giant_222: 3314868523183293297
+      spider_giant_223: -4023556239743664156
+      spider_giant_224: 8245317966498464850
+      spider_giant_225: -5267475996573397315
+      spider_giant_226: -4549553521490899635
+      spider_giant_227: -2863534125606466200
+      spider_giant_228: 7192464523381552160
+      spider_giant_229: 4702845550986024809
+      spider_giant_23: -7467606455967379167
+      spider_giant_230: -7924458358138927457
+      spider_giant_231: -5573550962986128657
+      spider_giant_232: 1889171432344295841
+      spider_giant_233: -3009616929287792865
+      spider_giant_234: -165903922980050760
+      spider_giant_235: -8880415229555252741
+      spider_giant_236: 5532852805682125360
+      spider_giant_237: 1595250203160513845
+      spider_giant_238: -8432791251248509581
+      spider_giant_239: -5251188018021285430
+      spider_giant_24: -3233572985099902366
+      spider_giant_240: 3563490776073857663
+      spider_giant_241: -1200422956157918810
+      spider_giant_242: -1807701954963677099
+      spider_giant_243: 5318512007523263070
+      spider_giant_244: 1990703954458316954
+      spider_giant_245: 1828295691664904927
+      spider_giant_246: 5617210691344561107
+      spider_giant_247: 5047804949482605972
+      spider_giant_248: 1073304339039720713
+      spider_giant_249: 6204991006950054686
+      spider_giant_25: 1435130207786651874
+      spider_giant_250: 4027908471000999417
+      spider_giant_251: -777918957384231913
+      spider_giant_252: -2646647305230005641
+      spider_giant_253: 8227352777570531286
+      spider_giant_254: 9162398230513601481
+      spider_giant_255: -3736662003696072263
+      spider_giant_26: -554424701129809895
+      spider_giant_27: 7240452907939241942
+      spider_giant_28: 7686995746455599216
+      spider_giant_29: -2840319170594759114
+      spider_giant_3: -4730951533485412589
+      spider_giant_30: -833262695992415597
+      spider_giant_31: 4838880239047771218
+      spider_giant_32: -6088324837140106268
+      spider_giant_33: 8112330099464310540
+      spider_giant_34: -7457625366570209994
+      spider_giant_35: -8235965229984329787
+      spider_giant_36: -3306191928801510613
+      spider_giant_37: 7716082719718254911
+      spider_giant_38: 6279684852734195020
+      spider_giant_39: 950910423210681541
+      spider_giant_4: -237504089814954480
+      spider_giant_40: 5133168424865087169
+      spider_giant_41: 6405527725935332524
+      spider_giant_42: -8176087287978646241
+      spider_giant_43: 4328917658542447247
+      spider_giant_44: 2104949560925571021
+      spider_giant_45: 1989479126770642450
+      spider_giant_46: 646600938048515923
+      spider_giant_47: -2737978920484782618
+      spider_giant_48: -7829382677361907868
+      spider_giant_49: 1650700765070949089
+      spider_giant_5: -6821454713922291823
+      spider_giant_50: 7253561900663365582
+      spider_giant_51: 3115220436678612554
+      spider_giant_52: 2245699678368336800
+      spider_giant_53: -2246025907787470688
+      spider_giant_54: 3503119641225891007
+      spider_giant_55: 996582883406192670
+      spider_giant_56: -2972258990290136887
+      spider_giant_57: 2115436111080980070
+      spider_giant_58: -2723258919986257851
+      spider_giant_59: -1576055093131561484
+      spider_giant_6: 7507002971394431063
+      spider_giant_60: 9110966088723976733
+      spider_giant_61: -6280970712779410803
+      spider_giant_62: 6532096963101835488
+      spider_giant_63: -3545220734920844839
+      spider_giant_64: 855819709071345589
+      spider_giant_65: 8149332780872275805
+      spider_giant_66: -4634095826428721336
+      spider_giant_67: -730697974659989466
+      spider_giant_68: 3161473832946961442
+      spider_giant_69: 5191648003488015973
+      spider_giant_7: 5894296875409580472
+      spider_giant_70: 5847614432276311341
+      spider_giant_71: -5480852809584125062
+      spider_giant_72: -1344252342321849591
+      spider_giant_73: -3394301375415890691
+      spider_giant_74: 6528768596625570602
+      spider_giant_75: 3596742021695457988
+      spider_giant_76: 8722765925301027233
+      spider_giant_77: 3601896753966294482
+      spider_giant_78: -6293880780728520664
+      spider_giant_79: -4124730611209389414
+      spider_giant_8: 7720832188360954217
+      spider_giant_80: 8337763792524378579
+      spider_giant_81: -5801618229870022769
+      spider_giant_82: 5939126868952872796
+      spider_giant_83: 6128202305091664105
+      spider_giant_84: 610737198521961906
+      spider_giant_85: 3218613354646388051
+      spider_giant_86: -4095109630807064055
+      spider_giant_87: -970718752488683486
+      spider_giant_88: -7632614170986144062
+      spider_giant_89: -7211720618976387866
+      spider_giant_9: -5066778207706743721
+      spider_giant_90: 668614082039929300
+      spider_giant_91: -6772054398957244817
+      spider_giant_92: -4979603872708624846
+      spider_giant_93: -2528556448852479562
+      spider_giant_94: 360492614582412863
+      spider_giant_95: -1662635752915084762
+      spider_giant_96: -16610923186296677
+      spider_giant_97: 60833340373604612
+      spider_giant_98: -9031371491447784423
+      spider_giant_99: -3034011323384723772
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
