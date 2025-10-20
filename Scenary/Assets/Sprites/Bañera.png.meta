@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c87f83bca2131744d91299f2edb1a50e
+guid: df3eb7178cf46d046a0dc4cf37328e85
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7974009898171431490
-    second: WhatsApp Image 2025-10-19 at 3.59.35 PM_0
+      213: -5688132135000569870
+    second: "Ba\xF1era_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -96,30 +96,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: WhatsApp Image 2025-10-19 at 3.59.35 PM_0
+      name: "Ba\xF1era_0"
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1280
-        height: 768
+        x: 207
+        y: 84
+        width: 352
+        height: 178
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 24af4f711cf59ae60800000000000000
-      internalID: 7974009898171431490
+      spriteID: 2f78ec1d5f1bf01b0800000000000000
+      internalID: -5688132135000569870
       vertices: []
       indices: 
       edges: []
@@ -148,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      WhatsApp Image 2025-10-19 at 3.59.35 PM_0: 7974009898171431490
+      "Ba\xF1era_0": -5688132135000569870
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

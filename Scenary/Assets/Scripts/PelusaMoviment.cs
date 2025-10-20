@@ -1,66 +1,102 @@
-using Unity.VisualScripting;
+using System;
 using UnityEngine;
 
-public class PlayerController : MonoBehaviour
+public class Jugador : MonoBehaviour
 {
-    public float JumpForce;
-    public float Speed;
-    public float FuerzaRebote;
+    public float fuerzaSalto;
+    public NewMonoBehaviourScript gameManager;
 
-    private Rigidbody2D Rigidbody2D;
-    private Animator Animator;
-    private bool recibirDaño;
-    private float Horizontal;
-    private bool Grouded;
+    public float speed = 5f;
+    private Rigidbody2D rigidbody2D;
+    private float inputMovimiento;
+    private Animator animator;
+
+    public Transform detectorSuelo; 
+    public float radioDetector;
+    public LayerMask layerSuelo;
+    private bool estaEnSuelo;
+
+    private bool estaMuerto = false;        
+    private SpriteRenderer spriteRenderer;  
 
     void Start()
     {
-        Rigidbody2D = GetComponent<Rigidbody2D>();
-        Animator = GetComponent<Animator>();
+        animator = GetComponent<Animator>();
+        rigidbody2D = GetComponent<Rigidbody2D>();
+        spriteRenderer = GetComponent<SpriteRenderer>(); 
     }
 
     void Update()
     {
-        Horizontal = Input.GetAxisRaw("Horizontal");
+        if (estaMuerto) return; 
 
-        if (Horizontal < 0.0f) transform.localScale = new Vector3(-1.0f, 1.0f, 1.0f);
-        else if (Horizontal > 0.0f) transform.localScale = new Vector3(1.0f, 1.0f, 1.0f);
+        Collider2D golpe = Physics2D.OverlapCircle(detectorSuelo.position, radioDetector, layerSuelo);
+        estaEnSuelo = golpe && Mathf.Abs(golpe.transform.up.y) > 0.9f;
 
-        Animator.SetBool("running", Horizontal != 0.0f);
-
-        Debug.DrawRay(transform.position, Vector3.down * 1.5f, Color.red);
-        if (Physics2D.Raycast(transform.position, Vector3.down, 1.5f))
+        if (estaEnSuelo && Input.GetKeyDown(KeyCode.W))
         {
-            Grouded = true;
+            animator.SetBool("estaSaltando", true);
+            rigidbody2D.AddForce(new Vector2(0, fuerzaSalto));
         }
-        else Grouded = false;
 
-        if (Input.GetKeyDown(KeyCode.W) && Grouded && !recibirDaño)
-        {
-            Jump();
-        }
-    }
-
-    private void Jump()
-    {
-        Rigidbody2D.AddForce(Vector2.up * JumpForce);
+        inputMovimiento = Input.GetAxis("Horizontal");
     }
 
     private void FixedUpdate()
     {
-        Rigidbody2D.linearVelocity = new Vector2(Horizontal * Speed, Rigidbody2D.linearVelocity.y);
+        if (estaMuerto) return; 
+
+        rigidbody2D.linearVelocity = new Vector2(inputMovimiento * speed, rigidbody2D.linearVelocity.y);
+
+        animator.SetBool("estaCorriendo", inputMovimiento != 0);
+
+        // Cambiar dirección
+        if (inputMovimiento < 0)
+            transform.localScale = new Vector3(-1, 1, 1);
+        else if (inputMovimiento > 0)
+            transform.localScale = new Vector3(1, 1, 1);
     }
 
-    public void RecibirDanio(Vector2 direccion, int canDanio)
+    private void OnCollisionEnter2D(Collision2D collision)
     {
-        recibirDaño = true;
-        Vector2 rebote = new Vector2(transform.position.x - direccion.x, 1).normalized;
-        Rigidbody2D.AddForce(rebote * FuerzaRebote, ForceMode2D.Impulse);
-        
+        if (estaEnSuelo)
+            animator.SetBool("estaSaltando", false);
+
+        if (collision.gameObject.CompareTag("Obstaculo") || collision.gameObject.CompareTag("Enemy"))
+        {
+            gameManager.gameOver = true;
+
+            if (!estaMuerto)
+                StartCoroutine(EfectoDeMuerte()); 
+        }
     }
 
-    public void DesactivaDani()
+    private System.Collections.IEnumerator EfectoDeMuerte()
     {
-        recibirDaño = false;
+        estaMuerto = true;
+        animator.enabled = false; 
+        rigidbody2D.linearVelocity = Vector2.zero;
+        rigidbody2D.constraints = RigidbodyConstraints2D.FreezeAll;
+
+        float duracion = 1.0f;
+        float tiempo = 0f;
+        Color colorInicial = spriteRenderer.color;
+        Vector3 escalaInicial = transform.localScale;
+
+        while (tiempo < duracion)
+        {
+            tiempo += Time.deltaTime;
+            float t = tiempo / duracion;
+
+            // Bajar opacidad y hacer más pequeño
+            spriteRenderer.color = new Color(colorInicial.r, colorInicial.g, colorInicial.b, Mathf.Lerp(1f, 0.2f, t));
+            transform.localScale = Vector3.Lerp(escalaInicial, escalaInicial * 0.2f, t);
+
+            yield return null;
+        }
+
+        spriteRenderer.color = new Color(colorInicial.r, colorInicial.g, colorInicial.b, 0.2f);
+        transform.localScale = escalaInicial * 0.2f;
     }
 }
+

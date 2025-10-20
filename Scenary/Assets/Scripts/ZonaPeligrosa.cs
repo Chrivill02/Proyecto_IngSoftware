@@ -38,8 +38,6 @@ public class ZonaPeligrosa : MonoBehaviour
         if (collision.gameObject.CompareTag("Player"))
         {
             Vector2 direccionDanio = new Vector2(transform.position.x, 0);
-
-            collision.gameObject.GetComponent<PlayerController>().RecibirDanio(direccionDanio, 1);
         }
     }
 }
