@@ -1,36 +1,47 @@
-using System.Collections;
 using UnityEngine;
 
-[RequireComponent(typeof(Rigidbody2D))] // Asegura que el objeto tenga un Rigidbody2D.
+[RequireComponent(typeof(Rigidbody2D))]
 public class PlatformTimer : MonoBehaviour
 {
     [Header("Movement Settings")]
-    public float moveDistance = 0.5f;
-    public float moveSpeed = 1.0f;
-    public float waitTime = 5.0f;
-    public float verticalLimit = 10.0f;
-    public float returnDelay = 2.0f;
+    public float constantUpwardSpeed = 0.5f; // <-- NUEVA VARIABLE: Controla la velocidad constante
+    public float verticalLimit = 10.0f;      // Límite superior que la plataforma no puede rebasar
 
-    private Vector3 initialPosition;
-    private Coroutine platformCoroutine;
-    private Rigidbody2D rb; // Referencia al Rigidbody2D.
+    [Header("Spawning")]
+    public FlyingEnemySpawner flyingEnemySpawner;
+
+    private Rigidbody2D rb;
+    private bool isPlayerOnPlatform = false; // <-- NUEVO: Un interruptor para saber si el jugador está encima
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        rb.isKinematic = true; // Asegurarse de que sea Kinematic.
-        initialPosition = transform.position;
+        rb.isKinematic = true;
+    }
+
+    // FixedUpdate es el mejor lugar para la física. Se ejecuta en un intervalo de tiempo fijo.
+    void FixedUpdate()
+    {
+        // Solo se mueve si el jugador está en la plataforma Y no hemos alcanzado el límite de altura.
+        if (isPlayerOnPlatform && transform.position.y < verticalLimit)
+        {
+            // Calcula la nueva posición hacia arriba basándose en la velocidad y el tiempo.
+            Vector2 newPosition = rb.position + Vector2.up * constantUpwardSpeed * Time.fixedDeltaTime;
+            rb.MovePosition(newPosition); // Mueve el Rigidbody a la nueva posición.
+        }
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            // El jugador ahora se mueve con la plataforma.
             collision.transform.SetParent(transform);
+            isPlayerOnPlatform = true; // <-- ACTIVAMOS el interruptor de movimiento
 
-            if (platformCoroutine != null) StopCoroutine(platformCoroutine);
-            platformCoroutine = StartCoroutine(MoveUpRoutine());
+            if (flyingEnemySpawner != null)
+            {
+                flyingEnemySpawner.StartSpawning();
+            }
         }
     }
 
@@ -38,50 +49,13 @@ public class PlatformTimer : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            // El jugador ya no es hijo de la plataforma.
             collision.transform.SetParent(null);
+            isPlayerOnPlatform = false; // <-- DESACTIVAMOS el interruptor, la plataforma se detendrá
 
-            if (platformCoroutine != null) StopCoroutine(platformCoroutine);
-            platformCoroutine = StartCoroutine(ReturnAfterDelayRoutine());
-        }
-    }
-
-    // Rutina principal para el movimiento ascendente.
-    private IEnumerator MoveUpRoutine()
-    {
-        while (true)
-        {
-            yield return new WaitForSeconds(waitTime);
-
-            Vector3 nextPosition = rb.position + new Vector2(0, moveDistance);
-
-            if (nextPosition.y > verticalLimit)
+            if (flyingEnemySpawner != null)
             {
-                yield return StartCoroutine(MoveToPosition(new Vector2(rb.position.x, verticalLimit)));
-                yield break;
+                flyingEnemySpawner.StopSpawning();
             }
-
-            yield return StartCoroutine(MoveToPosition(nextPosition));
         }
-    }
-
-    // Rutina que espera antes de regresar.
-    private IEnumerator ReturnAfterDelayRoutine()
-    {
-        yield return new WaitForSeconds(returnDelay);
-        yield return StartCoroutine(MoveToPosition(initialPosition));
-    }
-
-    // Mueve suavemente la plataforma a una posición (usando físicas).
-    private IEnumerator MoveToPosition(Vector2 target)
-    {
-        while (Vector2.Distance(rb.position, target) > 0.01f)
-        {
-            // Calcula la nueva posición y la mueve usando el Rigidbody.
-            Vector2 newPosition = Vector2.MoveTowards(rb.position, target, moveSpeed * Time.fixedDeltaTime);
-            rb.MovePosition(newPosition);
-            yield return new WaitForFixedUpdate(); // Sincroniza con el ciclo de físicas.
-        }
-        rb.MovePosition(target); // Asegura la posición final exacta.
     }
 }

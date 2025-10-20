@@ -45,16 +45,26 @@ public class GlueBullet : MonoBehaviour
             return;
         }
 
-        if (collision.CompareTag("Enemy") || collision.CompareTag("Breakable"))
+        if (collision.CompareTag("Enemy") || collision.CompareTag("FinalChief") || collision.CompareTag("Breakable") || collision.CompareTag("Minion"))
         {
             hasHit = true;
-
             rb.linearVelocity = Vector2.zero;
-
-            // Llama a la animación de impacto
             anim.SetTrigger("Impact");
 
-            Destroy(collision.gameObject);
+            
+            if (collision.GetComponent<JefeFinal>() != null)
+            {
+                JefeFinal jefe = collision.GetComponent<JefeFinal>();
+                // Llama a su función de daño (pasamos 'null' porque la bala no rebota)
+                jefe.RecibirDano(null);
+            }
+            // 3. ¿Es otra cosa (ej. "Breakable")?
+            else
+            {
+                Destroy(collision.gameObject);
+            }
+
+            // --- Fin de la Lógica ---
 
             // Destruye la bala después de que la animación termine
             Destroy(gameObject, impactAnimationDuration);

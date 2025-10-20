@@ -9,6 +9,9 @@ TagManager:
   - Enemy
   - Gota
   - Breakable
+  - MiniJefe
+  - FinalChief
+  - Minion
   layers:
   - Default
   - TransparentFX
