@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|c:\\users\\dell\\desktop\\url sistemas\\3. ingenier\u00EDa de software\\proyecto_ingsoftware\\scenary\\assets\\playerjump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\playerjump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\menuInicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\menuInicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\jump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\jump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "playerJump.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\playerJump.cs",
+              "RelativeDocumentMoniker": "Assets\\playerJump.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\playerJump.cs",
+              "RelativeToolTip": "Assets\\playerJump.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T15:49:40.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "menuInicial.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\menuInicial.cs",
+              "RelativeDocumentMoniker": "Assets\\menuInicial.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\menuInicial.cs",
+              "RelativeToolTip": "Assets\\menuInicial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T15:49:39.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "jump.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\jump.cs",
+              "RelativeDocumentMoniker": "Assets\\jump.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\jump.cs",
+              "RelativeToolTip": "Assets\\jump.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T21:20:26.585Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
