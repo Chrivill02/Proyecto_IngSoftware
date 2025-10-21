@@ -13,7 +13,8 @@ public class NewMonoBehaviourScript : MonoBehaviour
     public GameObject piedra2;
     public Renderer fondo;
     public bool gameOver = false;
-    public bool start = false;  
+    public bool start = false;
+    public bool tieneLlave = false;
 
     public List<GameObject> cols;
     public List<GameObject> obstaculos;
