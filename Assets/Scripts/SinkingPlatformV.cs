@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.AdaptivePerformance.VisualScripting;
 
-public class SinkingPlatform : MonoBehaviour
+public class SinkingPlatformV : MonoBehaviour
 {
     public float speed;
     Vector2 originPos;

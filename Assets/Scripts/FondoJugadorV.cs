@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class FondoJugador : MonoBehaviour
+public class FondoJugadorV : MonoBehaviour
 {
     public float opacidad = 1;
     public Transform jugador;

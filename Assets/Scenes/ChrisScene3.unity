@@ -4287,7 +4287,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1489665745
-  m_SortingLayer: 2
+  m_SortingLayer: 0
   m_SortingOrder: 1
   m_Sprite: {fileID: 8793639957104055765, guid: e6b4cd63016e80d4ea6ed200b5036640, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -123770,7 +123770,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameManager: {fileID: 876465264}
-  nombreSiguienteNivel: SampleScene
+  nombreSiguienteNivel: Cocina
 --- !u!61 &1519166012
 BoxCollider2D:
   m_ObjectHideFlags: 0

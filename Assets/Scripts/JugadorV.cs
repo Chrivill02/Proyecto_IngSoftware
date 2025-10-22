@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-public class Jugador : MonoBehaviour
+public class JugadorV : MonoBehaviour
 {
     public float fuerzaSalto;
     public NewMonoBehaviourScript gameManager;

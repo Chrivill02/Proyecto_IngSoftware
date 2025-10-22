@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class GlueBullet : MonoBehaviour
+public class GlueBulletV : MonoBehaviour
 {
     public float speed = 10f;
     public float lifetime = 1f;
