@@ -31,3 +31,4 @@ sysinfo.txt
 *.xcworkspace
 *.ipa
 *.app
+/.vs
