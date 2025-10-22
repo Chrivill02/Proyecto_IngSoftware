@@ -4,24 +4,20 @@
 TagManager:
   serializedVersion: 3
   tags:
-  - Obstaculo
   - Suelo
-  - Enemy
-  - Gota
+  - Obstaculo
   - Breakable
-  - MiniJefe
-  - FinalChief
-  - Minion
+  - Enemy
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Fondo
   - Water
   - UI
   - Suelo
-  - 
-  - 
+  - Bloques
+  - Player
   - 
   - 
   - 
@@ -48,12 +44,6 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: Platforms
-    uniqueID: 2569764361
-    locked: 0
-  - name: Player
-    uniqueID: 1489665745
     locked: 0
   m_RenderingLayers:
   - Default

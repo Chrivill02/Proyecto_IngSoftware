@@ -5,11 +5,11 @@ fetchPreview = true
 defaultFlags = 0
 keepOpen = true
 queryFolder = "Assets"
-onBoardingDoNotAskAgain = true
+onBoardingDoNotAskAgain = false
 showPackageIndexes = false
 showStatusBar = false
 scopes = {
-	"picker_window_position_offset.075BCD15" = "31.20007;179.2;320;550.4"
+	"picker_window_position_offset.075BCD15" = "-7;395;320;550"
 	"picker_visibility_flags.075BCD15" = "264"
 	"picker_item_size.075BCD15" = "96"
 	"picker_inspector.075BCD15" = "0"
@@ -45,17 +45,17 @@ providers = {
 		priority = 90
 		defaultAction = null
 	}
+	profilermarkers = {
+		active = false
+		priority = 100
+		defaultAction = null
+	}
 	store = {
 		active = false
 		priority = 100
 		defaultAction = null
 	}
 	performance = {
-		active = false
-		priority = 100
-		defaultAction = null
-	}
-	profilermarkers = {
 		active = false
 		priority = 100
 		defaultAction = null
@@ -83,3 +83,4 @@ helperWidgetCurrentArea = "all"
 disabledIndexers = ""
 minIndexVariations = 2
 findProviderIndexHelper = true
+itemIconSize = 32
