@@ -1,35 +1,32 @@
 using UnityEngine;
+using System;
 
-[RequireComponent(typeof(Rigidbody2D))]
-[RequireComponent(typeof(Collider2D))]
 public class TimedPlatform : MonoBehaviour
 {
+
     [Header("Parámetros de Movimiento")]
     [SerializeField] private float velocidad = 2.5f;
     [SerializeField] private float alturaDeSubida = 8f;
 
+
     [Header("Spawn de Enemigo")]
-    public GameObject enemigoPrefab;
-    public Transform puntoSpawnEnemigo;
+    [SerializeField] private GameObject enemigoPrefab; 
+    [SerializeField] private Transform puntoSpawnEnemigo; 
 
     [Header("Patrulla del Enemigo")]
-    public Transform[] puntosDePatrullaEnemigo;
+    [SerializeField] private Transform[] puntosDePatrullaEnemigo;
 
-    [Header("UI de Instrucción")]
-    [Tooltip("Arrastra aquí el 'PanelInstruccion' que creaste en el Canvas")]
-    public GameObject MJInstructionPanel; 
-
-
-    private Rigidbody2D rb;
+    private Rigidbody2D rb; 
     private Vector2 posicionInicial;
     private Vector2 posicionObjetivo;
-    private bool puedeMoverse = false;
+    private bool puedeMoverse = false; 
     private bool enemigoGenerado = false;
+    private BaseEnemy enemigoInstancia;
 
     void Start()
     {
-        rb = GetComponent<Rigidbody2D>();
-        rb.isKinematic = true;
+        rb = GetComponent<Rigidbody2D>(); 
+        if (rb != null) rb.isKinematic = true; 
 
         posicionInicial = transform.position;
         posicionObjetivo = new Vector2(posicionInicial.x, posicionInicial.y + alturaDeSubida);
@@ -39,17 +36,13 @@ public class TimedPlatform : MonoBehaviour
             puntoSpawnEnemigo = transform;
         }
 
-  
-        if (MJInstructionPanel != null)
-        {
-            MJInstructionPanel.SetActive(false);
-        }
+ 
     }
 
     void FixedUpdate()
     {
-        if (puedeMoverse)
-        {
+        if (puedeMoverse && rb != null)
+        { 
             Vector2 nuevaPosicion = Vector2.MoveTowards(rb.position, posicionObjetivo, velocidad * Time.fixedDeltaTime);
             rb.MovePosition(nuevaPosicion);
         }
@@ -60,38 +53,58 @@ public class TimedPlatform : MonoBehaviour
         if (collision.gameObject.CompareTag("Player") && !enemigoGenerado)
         {
             enemigoGenerado = true;
-            GenerarEnemigo();
+            GenerarEnemigo(); 
         }
     }
 
     private void GenerarEnemigo()
     {
+       
         if (enemigoPrefab == null) return;
-
         GameObject enemigoGO = Instantiate(enemigoPrefab, puntoSpawnEnemigo.position, puntoSpawnEnemigo.rotation);
+        enemigoInstancia = enemigoGO.GetComponent<BaseEnemy>();
 
-        EnemigoSaltable scriptEnemigo = enemigoGO.GetComponent<EnemigoSaltable>();
-        if (scriptEnemigo != null)
+        if (enemigoInstancia != null)
         {
-            scriptEnemigo.plataformaQueMeInvoco = this;
-            scriptEnemigo.puntosDePatrulla = this.puntosDePatrullaEnemigo;
+            enemigoInstancia.OnMuerte += HandleEnemigoMuerto;
+
+            EnemigoSaltable scriptEnemigoSaltable = enemigoInstancia as EnemigoSaltable;
+            if (scriptEnemigoSaltable != null)
+            {
+                
+                scriptEnemigoSaltable.puntosDePatrulla = this.puntosDePatrullaEnemigo;
+            }
+            
         }
-
-     
-        if (MJInstructionPanel != null)
+        else
         {
-            MJInstructionPanel.SetActive(true);
+            Debug.LogError("El prefab del enemigo no tiene el script BaseEnemy!", this);
         }
     }
 
- 
-    public void ActivarMovimiento()
+    private void HandleEnemigoMuerto(BaseEnemy enemigo)
     {
-        puedeMoverse = true;
+        Debug.Log("Enemigo en TimedPlatform murió. Activando movimiento.");
+        ActivarMovimiento();
 
-        if (MJInstructionPanel != null)
+        if (enemigoInstancia != null)
         {
-            MJInstructionPanel.SetActive(false);
+            enemigoInstancia.OnMuerte -= HandleEnemigoMuerto;
+            enemigoInstancia = null;
+        }
+        
+    }
+
+    private void ActivarMovimiento()
+    {
+        puedeMoverse = true; 
+    }
+
+    private void OnDestroy()
+    {
+        if (enemigoInstancia != null)
+        {
+            enemigoInstancia.OnMuerte -= HandleEnemigoMuerto;
         }
     }
 }
