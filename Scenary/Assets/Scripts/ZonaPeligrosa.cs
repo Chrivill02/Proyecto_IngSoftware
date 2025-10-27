@@ -1,6 +1,4 @@
-using System.Diagnostics;
 using UnityEngine;
-using UnityEngine.Diagnostics;
 
 public class ZonaPeligrosa : MonoBehaviour
 {

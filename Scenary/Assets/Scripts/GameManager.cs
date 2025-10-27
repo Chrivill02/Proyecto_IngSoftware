@@ -1,26 +1,25 @@
-using System.Collections.Generic;
+using System;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
-public class NewMonoBehaviourScript : MonoBehaviour
+public class GameManager : MonoBehaviour, IPlayerObserver
 {
-    public GameObject menuPrincipal;
-    public GameObject menuGameOver;
+    public event Action OnGameOver;
+    public event Action OnGameStart;
 
-    public float velocidad = 2;
-    public GameObject col;
-    public GameObject piedra1;
-    public GameObject piedra2;
     public bool gameOver = false;
     public bool start = false;  
 
-    public List<GameObject> cols;
-    public List<GameObject> obstaculos;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        
+        Jugador playerScript = FindAnyObjectByType<Jugador>(); 
+    
+        if (playerScript != null)
+        {
+            playerScript.OnMuerteJugador += OnPlayerDeath;
 
-
+        }
     }
 
     // Update is called once per frame
@@ -33,20 +32,16 @@ public class NewMonoBehaviourScript : MonoBehaviour
                 start = true;
             }
         }
-        
+
         if (start && gameOver)
         {
-            menuGameOver.SetActive(true);
-            if (Input.GetKeyDown(KeyCode.X))
-            {
-                SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-            }
+            OnGameOver?.Invoke();
         }
 
         if (start && !gameOver)
         {
-            menuPrincipal.SetActive(false);
-    
+            OnGameStart?.Invoke();
+
             /*
             //Mapa
             for (int i = 0; i < cols.Count; i++)
@@ -69,6 +64,14 @@ public class NewMonoBehaviourScript : MonoBehaviour
                 obstaculos[i].transform.position = obstaculos[i].transform.position + new Vector3(-1, 0, 0) * Time.deltaTime * velocidad;
             }
             */
+        }
+    }
+    public void OnPlayerDeath()
+    {
+        if (!gameOver)
+        {
+            gameOver = true;
+            
         }
     }
 }

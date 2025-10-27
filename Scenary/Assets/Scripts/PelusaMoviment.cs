@@ -3,11 +3,11 @@ using UnityEngine;
 
 public class Jugador : MonoBehaviour
 {
+    public event Action OnMuerteJugador;
     public float fuerzaSalto;
-    public NewMonoBehaviourScript gameManager;
 
     public float speed = 5f;
-    private Rigidbody2D rigidbody2D;
+    private Rigidbody2D Rigidbody2D;
     private float inputMovimiento;
     private Animator animator;
 
@@ -22,7 +22,7 @@ public class Jugador : MonoBehaviour
     void Start()
     {
         animator = GetComponent<Animator>();
-        rigidbody2D = GetComponent<Rigidbody2D>();
+        Rigidbody2D = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>(); 
     }
 
@@ -36,7 +36,7 @@ public class Jugador : MonoBehaviour
         if (estaEnSuelo && Input.GetKeyDown(KeyCode.W))
         {
             animator.SetBool("estaSaltando", true);
-            rigidbody2D.AddForce(new Vector2(0, fuerzaSalto));
+            Rigidbody2D.AddForce(new Vector2(0, fuerzaSalto));
         }
 
         inputMovimiento = Input.GetAxis("Horizontal");
@@ -46,7 +46,7 @@ public class Jugador : MonoBehaviour
     {
         if (estaMuerto) return; 
 
-        rigidbody2D.linearVelocity = new Vector2(inputMovimiento * speed, rigidbody2D.linearVelocity.y);
+        Rigidbody2D.linearVelocity = new Vector2(inputMovimiento * speed, Rigidbody2D.linearVelocity.y);
 
         animator.SetBool("estaCorriendo", inputMovimiento != 0);
 
@@ -64,10 +64,10 @@ public class Jugador : MonoBehaviour
 
         if (collision.gameObject.CompareTag("Obstaculo") || collision.gameObject.CompareTag("Enemy"))
         {
-            gameManager.gameOver = true;
+            OnMuerteJugador?.Invoke();
 
-            if (!estaMuerto)
-                StartCoroutine(EfectoDeMuerte()); 
+        if (!estaMuerto)
+            StartCoroutine(EfectoDeMuerte()); 
         }
     }
 
@@ -75,8 +75,8 @@ public class Jugador : MonoBehaviour
     {
         estaMuerto = true;
         animator.enabled = false; 
-        rigidbody2D.linearVelocity = Vector2.zero;
-        rigidbody2D.constraints = RigidbodyConstraints2D.FreezeAll;
+        Rigidbody2D.linearVelocity = Vector2.zero;
+        Rigidbody2D.constraints = RigidbodyConstraints2D.FreezeAll;
 
         float duracion = 1.0f;
         float tiempo = 0f;
