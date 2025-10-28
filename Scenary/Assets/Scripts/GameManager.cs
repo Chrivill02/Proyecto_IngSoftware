@@ -1,0 +1,59 @@
+using System;
+using System.Collections.Generic;
+using System.Security.Cryptography.X509Certificates;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+
+
+
+public class GameManager : MonoBehaviour, PlayerObserver, MenuInterfaceInputObserver
+{
+
+    public bool gameOver = false;
+    public bool start = false;
+    public event Action OnGameStart;
+    public event Action OnGameOver;
+
+    void Start()
+    {
+        Player player = FindFirstObjectByType<Player>();
+        player.OnPlayerDeath += OnPlayerDeath;
+
+        MenuInterfaceInputManager menuInputManager = FindFirstObjectByType<MenuInterfaceInputManager>();
+        menuInputManager.OnContinueKeyPressed += OnContinueKeyPressed;
+
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        if (start && gameOver)
+        {
+            OnGameOver?.Invoke();
+        }
+
+        if (start && !gameOver)
+        {
+            OnGameStart?.Invoke();
+        }
+    }
+
+    public void OnPlayerDeath()
+    {
+        gameOver = true;
+    }
+
+    public void OnContinueKeyPressed()
+    {
+        if (!start)
+        {
+            start = true;
+        } else if (start && gameOver)
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        }
+    }
+
+}
+

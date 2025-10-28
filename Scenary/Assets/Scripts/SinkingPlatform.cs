@@ -22,11 +22,13 @@ public class SinkingPlatform : MonoBehaviour
     {
         if (triggered)
         {
-            transform.position = Vector2.MoveTowards(transform.position, new Vector2(originPos.x, originPos.y - 3f), speed * Time.deltaTime);
+            transform.position = Vector2.MoveTowards(transform.position, new Vector2(originPos.x,
+            originPos.y - 3f), speed * Time.deltaTime);
         }
         else
         {
-            transform.position = Vector2.MoveTowards(transform.position, originPos, speed * Time.deltaTime);
+            transform.position = Vector2.MoveTowards(transform.position,
+            originPos, speed * Time.deltaTime);
         }
     }
 

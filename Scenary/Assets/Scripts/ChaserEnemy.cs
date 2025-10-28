@@ -1,7 +1,7 @@
 using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody2D), typeof(Collider2D))]
-public class EnemyChaseTrigger : MonoBehaviour
+public class ChaserEnemy : MonoBehaviour, Enemy
 {
     public float speed = 3f;
     public string playerTag = "Player";
@@ -20,13 +20,9 @@ public class EnemyChaseTrigger : MonoBehaviour
     {
         if (chasing && player != null)
         {
-            float dirX = Mathf.Sign(player.position.x - transform.position.x);
-            float distX = Mathf.Abs(player.position.x - transform.position.x);
-            float moveX = distX > 0.05f ? dirX * speed : 0f;
-
-            rb.linearVelocity = new Vector2(moveX, rb.linearVelocity.y);
-
-            FlipSprite(dirX);
+            Vector2 targetVelocity = CalculateTargetVelocity();
+            rb.linearVelocity = targetVelocity;
+            FlipSprite(targetVelocity.x);
         }
         else
         {
@@ -56,5 +52,14 @@ public class EnemyChaseTrigger : MonoBehaviour
         Vector3 s = transform.localScale;
         s.x = Mathf.Abs(s.x) * (dirX < 0 ? -1 : 1);
         transform.localScale = s;
+    }
+
+    Vector2 CalculateTargetVelocity()
+    {
+        float dirX = Mathf.Sign(player.position.x - transform.position.x);
+        float distX = Mathf.Abs(player.position.x - transform.position.x);
+        float moveX = distX > 0.05f ? dirX * speed : 0f;
+
+        return new Vector2(moveX, rb.linearVelocity.y);
     }
 }

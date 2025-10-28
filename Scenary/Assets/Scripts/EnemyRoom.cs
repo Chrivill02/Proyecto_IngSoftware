@@ -6,7 +6,7 @@ using UnityEngine;
 
 public class EnemyRoom : MonoBehaviour
 {
-    [Header("general")]
+    [Header("General Settings")]
     public CinemachineCamera virtualCamera;
 
     public Collider2D oldConfiner;
@@ -14,7 +14,7 @@ public class EnemyRoom : MonoBehaviour
     public GameObject[] doors;
     public Transform[] spawnPoints;
 
-    [Header("oleadas (burbuja o verde)")]
+    [Header("Waves")]
     public List<WaveConfig> waves;
     private int currentWave = 0;
     private bool roomActive = false;

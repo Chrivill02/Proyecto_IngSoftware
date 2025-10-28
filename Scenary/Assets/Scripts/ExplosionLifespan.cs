@@ -41,9 +41,4 @@ public class ExplosionLifespan : MonoBehaviour
 
         spriteRenderer.color = new Color(originalColor.r, originalColor.g, originalColor.b, 0f);      
     }
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }

@@ -1,16 +1,26 @@
 using UnityEngine;
 
-public class PlayerShoot : MonoBehaviour
+
+
+
+
+public class PlayerShoot : MonoBehaviour, PlayerHabilitiesInputObserver
 {
     public GameObject bulletPrefab;
     public Transform firePoint;
     public float fireRate = 0.5f;
-
     private float nextFireTime = 0f;
 
-    void Update()
+
+    void Start()
     {
-        if (Input.GetKey(KeyCode.Z) && Time.time > nextFireTime)
+        PlayerInputManager inputManager = FindFirstObjectByType<PlayerInputManager>();
+        inputManager.OnShootKeyPressed += OnShootKeyPressed;
+    }
+
+    public void OnShootKeyPressed()
+    {
+        if (Time.time > nextFireTime)
         {
             Shoot();
             nextFireTime = Time.time + fireRate;
@@ -19,13 +29,10 @@ public class PlayerShoot : MonoBehaviour
 
     void Shoot()
     {
-        // Dirección según la escala del jugador
         float direction = Mathf.Sign(transform.localScale.x);
 
-        // Instanciar la bala en la posición y rotación del firePoint
         GameObject bullet = Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
 
-        // Si el jugador mira hacia la izquierda, girar visualmente la bala
         if (direction < 0)
         {
             Vector3 bulletScale = bullet.transform.localScale;
@@ -33,7 +40,7 @@ public class PlayerShoot : MonoBehaviour
             bullet.transform.localScale = bulletScale;
         }
 
-        // Pasar la dirección al script de la bala
-        bullet.GetComponent<GlueBullet>().SetDirection(direction);
+        bullet.GetComponent<Projectile>().SetDirection(direction);
+
     }
 }

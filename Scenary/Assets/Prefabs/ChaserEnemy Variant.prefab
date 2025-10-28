@@ -104,13 +104,14 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Enemy
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: -6259356489957844050, guid: 7cf58be80b057ad41ab821fd5488f420, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 8114225109124253033, guid: 7cf58be80b057ad41ab821fd5488f420, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1600596558049336748}
+      addedObject: {fileID: 3610607437553469797}
     - targetCorrespondingSourceObject: {fileID: 8114225109124253033, guid: 7cf58be80b057ad41ab821fd5488f420, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1563598142420118782}
@@ -120,7 +121,7 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 8114225109124253033, guid: 7cf58be80b057ad41ab821fd5488f420, type: 3}
   m_PrefabInstance: {fileID: 5749462179493234187}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1600596558049336748
+--- !u!114 &3610607437553469797
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -132,7 +133,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf59d609d5a835845a96f9d4671c535a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 2
+  speed: 3
   playerTag: Player
 --- !u!58 &1563598142420118782
 CircleCollider2D:

@@ -10,6 +10,8 @@ public class FallTroughPlatform : MonoBehaviour
     private void Start()
     {
         platformCollider = GetComponent<Collider2D>();
+
+        
     }
 
     private void Update()
@@ -29,7 +31,7 @@ public class FallTroughPlatform : MonoBehaviour
 
     private void SetPlayerOnPlatform(Collision2D other, bool value)
     {
-        var player = other.gameObject.GetComponent<Jugador>();
+        var player = other.gameObject.GetComponent<Player>();
         Console.WriteLine("Checking collision with: " + other.gameObject.name);
         if (player != null)
         {
