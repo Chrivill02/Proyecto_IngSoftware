@@ -1,4 +1,4 @@
-public interface PlayerMovementInputObserver : PlayerInputObserver
+public interface PlayerMovementInputObserver
 {
   public void OnJumpKeyPressed();
   public void OnMove(float direction);

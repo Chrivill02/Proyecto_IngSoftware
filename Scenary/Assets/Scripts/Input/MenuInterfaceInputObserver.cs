@@ -1,4 +1,4 @@
-public interface MenuInterfaceInputObserver : InputObserver
+public interface MenuInterfaceInputObserver
 {
     void OnContinueKeyPressed();
 }

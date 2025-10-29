@@ -1,4 +1,4 @@
-public interface PlayerHabilitiesInputObserver : PlayerInputObserver
+public interface PlayerHabilitiesInputObserver
 {
     public void OnShootKeyPressed();
 }
