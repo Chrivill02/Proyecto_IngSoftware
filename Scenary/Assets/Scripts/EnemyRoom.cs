@@ -1,27 +1,46 @@
+// EnemyRoom.cs
 using System.Collections;
 using System.Collections.Generic;
 using Unity.Cinemachine;
-using Unity.VisualScripting;
 using UnityEngine;
 
 public class EnemyRoom : MonoBehaviour
 {
     [Header("General Settings")]
     public CinemachineCamera virtualCamera;
-
     public Collider2D oldConfiner;
     public Collider2D cameraConfiner;
     public GameObject[] doors;
     public Transform[] spawnPoints;
+    public GameObject key;
+
+    // --- INICIO REFACTORIZACIÓN ---
+    [Header("Factory Settings")]
+    [Tooltip("Arrastra aquí el GameObject que tiene tu script KitchenEnemiesFactory")]
+    public MonoBehaviour factoryComponent; // Arrastra la fábrica aquí en el Inspector
+    private SpawnerFactory factory;
+    // --- FIN REFACTORIZACIÓN ---
 
     [Header("Waves")]
-    public List<WaveConfig> waves;
+    public List<WaveConfig> waves; // WaveConfig ahora usa EnemyType
     private int currentWave = 0;
     private bool roomActive = false;
     private bool completed = false;
 
     private List<GameObject> currentEnemies = new List<GameObject>();
-    public GameObject key;
+
+    // --- INICIO REFACTORIZACIÓN ---
+    void Awake()
+    {
+        // Obtenemos la interfaz de la fábrica
+        factory = factoryComponent as SpawnerFactory;
+        if (factory == null)
+        {
+            Debug.LogError("¡El 'factoryComponent' en EnemyRoom no implementa SpawnerFactory!", this);
+        }
+    }
+    // --- FIN REFACTORIZACIÓN ---
+
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player") && !roomActive)
@@ -43,7 +62,6 @@ public class EnemyRoom : MonoBehaviour
 
         foreach (var d in doors) d.SetActive(true);
 
-
         yield return StartCoroutine(HandleWaves());
     }
 
@@ -53,17 +71,13 @@ public class EnemyRoom : MonoBehaviour
         while (currentWave < waves.Count)
         {
             yield return StartCoroutine(SpawnWave(waves[currentWave]));
-
             yield return new WaitUntil(() => EnemiesCleared());
             currentWave++;
-
             yield return new WaitForSeconds(1f);
         }
 
         key.SetActive(true);
-
         yield return new WaitUntil(() => KeyStolen());
-
         key.SetActive(false);
 
         RoomCompleted();
@@ -74,10 +88,34 @@ public class EnemyRoom : MonoBehaviour
         currentEnemies.Clear();
         for (int i = 0; i < wave.enemyCount; i++)
         {
-            GameObject prefab = wave.GetRandomEnemyPrefab();
-            Transform point = spawnPoints[Random.Range(0, spawnPoints.Length)];
-            GameObject enemy = Instantiate(prefab, point.position, Quaternion.identity);
-            currentEnemies.Add(enemy);
+            // --- INICIO REFACTORIZACIÓN ---
+            // 1. Pide el TIPO de enemigo a la wave
+            EnemyType typeToSpawn = wave.GetRandomEnemyType();
+
+            // 2. Pide el PREFAB de ese tipo a la FÁBRICA
+            GameObject prefab = null;
+            switch (typeToSpawn)
+            {
+                case EnemyType.BlueFoam:
+                    prefab = factory.GetBlueFoamPrefab();
+                    break;
+                case EnemyType.GreenFoam:
+                    prefab = factory.GetGreenFoamPrefab();
+                    break;
+            }
+            // --- FIN REFACTORIZACIÓN ---
+
+            if (prefab != null)
+            {
+                Transform point = spawnPoints[Random.Range(0, spawnPoints.Length)];
+                GameObject enemy = Instantiate(prefab, point.position, Quaternion.identity);
+                currentEnemies.Add(enemy);
+            }
+            else
+            {
+                Debug.LogWarning("Prefab nulo para el tipo: " + typeToSpawn);
+            }
+
             yield return new WaitForSeconds(wave.spawnDelay);
         }
     }
@@ -98,8 +136,6 @@ public class EnemyRoom : MonoBehaviour
     {
         if (completed) return;
         completed = true;
-
-
 
         foreach (var d in doors) d.SetActive(false);
 

@@ -134,6 +134,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 3
+  health: 1
   playerTag: Player
 --- !u!58 &1563598142420118782
 CircleCollider2D:

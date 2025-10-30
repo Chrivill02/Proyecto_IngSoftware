@@ -1246,6 +1246,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 4
+  health: 3
   playerTag: Player
 --- !u!4 &201075263 stripped
 Transform:
@@ -3869,7 +3870,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 25.057447, y: -0.15964001, z: -7}
+  m_LocalPosition: {x: 25.057447, y: -0.15963995, z: -7}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6530,6 +6531,14 @@ PrefabInstance:
     - target: {fileID: 2641391679959506580, guid: bf6515b8c141d1c49a3281de9cfcc2dd, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2876072557314557587, guid: bf6515b8c141d1c49a3281de9cfcc2dd, type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3610607437553469797, guid: bf6515b8c141d1c49a3281de9cfcc2dd, type: 3}
+      propertyPath: health
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4562627858342921058, guid: bf6515b8c141d1c49a3281de9cfcc2dd, type: 3}
       propertyPath: m_Name
@@ -9211,18 +9220,17 @@ MonoBehaviour:
   - {fileID: 446995247}
   - {fileID: 94401439}
   - {fileID: 377010662}
+  key: {fileID: 1366863342}
+  factoryComponent: {fileID: 1609703627}
   waves:
   - waveName: Bubbles
-    enemyPrefabs:
-    - {fileID: 4562627858342921058, guid: bf6515b8c141d1c49a3281de9cfcc2dd, type: 3}
-    enemyCount: 10
+    enemyTypes: 
+    enemyCount: 1
     spawnDelay: 1
   - waveName: GreenBubbles
-    enemyPrefabs:
-    - {fileID: 9075199283246903574, guid: b4b8b1d89362a4c4eabb4871f957f864, type: 3}
-    enemyCount: 10
+    enemyTypes: 
+    enemyCount: 1
     spawnDelay: 2
-  key: {fileID: 1366863342}
 --- !u!4 &1282703599 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7352192137325440224, guid: b4b8b1d89362a4c4eabb4871f957f864, type: 3}
@@ -10194,6 +10202,10 @@ PrefabInstance:
     - target: {fileID: 3931029202493529301, guid: 0ff50b4baab65bb47b78643a2dba9508, type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3931029202493529301, guid: 0ff50b4baab65bb47b78643a2dba9508, type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3931029202493529301, guid: 0ff50b4baab65bb47b78643a2dba9508, type: 3}
       propertyPath: m_Points.m_Paths.Array.data[0].Array.data[0].x
@@ -16014,7 +16026,7 @@ PrefabInstance:
     m_RemovedComponents:
     - {fileID: 6095154123293143000, guid: b4b8b1d89362a4c4eabb4871f957f864, type: 3}
     - {fileID: 8123178861385579281, guid: b4b8b1d89362a4c4eabb4871f957f864, type: 3}
-    - {fileID: 3532795900470872194, guid: b4b8b1d89362a4c4eabb4871f957f864, type: 3}
+    - {fileID: 0}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
@@ -16228,6 +16240,52 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a9aa86c3eaa591948bc90fe5f90f4c8a, type: 3}
+--- !u!1 &1609703626
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1609703628}
+  - component: {fileID: 1609703627}
+  m_Layer: 0
+  m_Name: KitchenFactory
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1609703627
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1609703626}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a2fe4e54c1baee4ebf4b977f6f750ce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  kitchenBlueFoamPrefab: {fileID: 4562627858342921058, guid: bf6515b8c141d1c49a3281de9cfcc2dd, type: 3}
+  kitchenGreenFoamPrefab: {fileID: 9075199283246903574, guid: b4b8b1d89362a4c4eabb4871f957f864, type: 3}
+--- !u!4 &1609703628
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1609703626}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1614527346
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16704,7 +16762,7 @@ Transform:
   m_GameObject: {fileID: 1698586194}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 18.7, y: -1, z: 0}
+  m_LocalPosition: {x: 17.02, y: -1.72, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -17212,7 +17270,7 @@ Transform:
   m_GameObject: {fileID: 1739535201}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 18.7, y: -1, z: -7}
+  m_LocalPosition: {x: 17.02, y: -1.72, z: -7}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -21601,10 +21659,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 229052217}
     m_Modifications:
-    - target: {fileID: 3532795900470872194, guid: b4b8b1d89362a4c4eabb4871f957f864, type: 3}
-      propertyPath: speed
-      value: 4
-      objectReference: {fileID: 0}
     - target: {fileID: 6274398625689902730, guid: b4b8b1d89362a4c4eabb4871f957f864, type: 3}
       propertyPath: m_Radius
       value: 15
@@ -21865,3 +21919,4 @@ SceneRoots:
   - {fileID: 1947526640}
   - {fileID: 560006157}
   - {fileID: 1619842905}
+  - {fileID: 1609703628}
