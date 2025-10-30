@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: 5a9e76f4f320c82449c22d8943ab80f3
+guid: 525c522d9d6ab4112848c28c48074aee
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5130558894233647175
-    second: Fondo_0
+      213: -262108834630032882
+    second: metal_0
+  - first:
+      213: -328307220334348384
+    second: metal_1
+  - first:
+      213: 4127356660199939472
+    second: metal_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,12 +43,12 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -96,40 +102,71 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Fondo_0
+      name: metal_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1280
-        height: 768
+        x: 40
+        y: 166
+        width: 198
+        height: 190
+      alignment: 9
+      pivot: {x: 1.9975333, y: 0.59179926}
+      border: {x: 8, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02a263576dcc5cf0800000000000000
+      internalID: -262108834630032882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_1
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 173
+        width: 366
+        height: 190
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9b78bf95ed79cc8b0800000000000000
-      internalID: -5130558894233647175
+      spriteID: 0a776c2925e917bf0800000000000000
+      internalID: -328307220334348384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_2
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 173
+        width: 202
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d5f88c301574930800000000000000
+      internalID: 4127356660199939472
       vertices: []
       indices: 
       edges: []
@@ -138,7 +175,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: a9a164b846e3e4302a0f7f6c00602603
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +185,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Fondo_0: -5130558894233647175
+      metal_0: -262108834630032882
+      metal_1: -328307220334348384
+      metal_2: 4127356660199939472
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

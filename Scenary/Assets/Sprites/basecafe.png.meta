@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: f848abf3ded46d0498a6d51b68e52d0a
+guid: 11cf18bcb083d4e818cc8cd33f9d4fba
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8483731395159641348
-    second: bg2_0
+      213: 6312562990404134733
+    second: basecafe_0
+  - first:
+      213: -8956311332322187943
+    second: basecafe_1
+  - first:
+      213: -6673097848620740868
+    second: basecafe_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +106,35 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bg2_0
+      name: basecafe_0
       rect:
         serializedVersion: 2
-        x: 229
-        y: 0
-        width: 1691
-        height: 960
+        x: 29
+        y: 106
+        width: 116
+        height: 108
+      alignment: 9
+      pivot: {x: 0.78735626, y: 0.7507713}
+      border: {x: 2, y: 0, z: 6, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47e059289aba9750800000000000000
+      internalID: 6312562990404134733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basecafe_1
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 104
+        width: 217
+        height: 110
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +143,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cf23eadae3bb34a80800000000000000
-      internalID: -8483731395159641348
+      spriteID: 955612bbb4ac4b380800000000000000
+      internalID: -8956311332322187943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basecafe_2
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 104
+        width: 118
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe898dbcd46463a0800000000000000
+      internalID: -6673097848620740868
       vertices: []
       indices: 
       edges: []
@@ -125,7 +175,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 29cb99fd7f08ea9488850fb76bdf556e
+    spriteID: f211b32a78d7849808bec2f10751526e
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +185,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      bg2_0: -8483731395159641348
+      basecafe_0: 6312562990404134733
+      basecafe_1: -8956311332322187943
+      basecafe_2: -6673097848620740868
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
