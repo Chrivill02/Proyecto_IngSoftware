@@ -78,7 +78,7 @@ public class Player : MonoBehaviour, PlayerMovementInputObserver
     public bool detectGrounded()
     {
         Collider2D hitbox = Physics2D.OverlapCircle(groundDetector.position, radioDetector, groundLayer);
-        return hitbox && Mathf.Abs(hitbox.transform.up.y) > 0.9f;
+        return hitbox != null;
     }
     
 }

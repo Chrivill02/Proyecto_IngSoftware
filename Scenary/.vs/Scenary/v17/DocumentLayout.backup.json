@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|c:\\users\\chriv\\documents\\github\\proyecto_ingsoftware2\\scenary\\assets\\scripts\\greenfoam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\greenfoam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|c:\\users\\chriv\\documents\\github\\proyecto_ingsoftware2\\scenary\\assets\\scripts\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|c:\\users\\chriv\\documents\\github\\proyecto_ingsoftware2\\scenary\\assets\\scripts\\bluefoam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bluefoam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\foamenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\foamenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\enemyroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|c:\\users\\chriv\\documents\\github\\proyecto_ingsoftware2\\scenary\\assets\\scripts\\enemyroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\waveconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\waveconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\enemytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\kitchenenemiesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,6 +17,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\spawnerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\kitchengreenfoam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\kitchengreenfoam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\greenfoam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\greenfoam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\bluefoam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bluefoam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\foamenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\foamenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\waveconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\waveconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\enemytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\kitchenbluefoam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,43 +75,56 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Jugador.cs",
+              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Jugador.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Jugador.cs",
+              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Jugador.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Jugador.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwFAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T03:52:03.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KitchenGreenFoam.cs",
+              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\KitchenGreenFoam.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\KitchenGreenFoam.cs",
+              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\KitchenGreenFoam.cs",
+              "RelativeToolTip": "Assets\\Scripts\\KitchenGreenFoam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T20:30:12.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "GreenFoam.cs",
               "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\GreenFoam.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GreenFoam.cs",
               "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\GreenFoam.cs",
               "RelativeToolTip": "Assets\\Scripts\\GreenFoam.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T20:29:20.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-30T20:29:20.249Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FoamEnemy.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\FoamEnemy.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\FoamEnemy.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\FoamEnemy.cs",
-              "RelativeToolTip": "Assets\\Scripts\\FoamEnemy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T20:27:59.426Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "EnemyRoom.cs",
               "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\EnemyRoom.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyRoom.cs",
               "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\EnemyRoom.cs",
               "RelativeToolTip": "Assets\\Scripts\\EnemyRoom.cs",
-              "ViewState": "AgIAAI0AAAAAAAAAAAAcwJcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAwwGcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T02:12:22.924Z"
+              "WhenOpened": "2025-10-30T02:12:22.924Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "WaveConfig.cs",
               "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\WaveConfig.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\WaveConfig.cs",
@@ -115,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "EnemyType.cs",
               "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\EnemyType.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyType.cs",
@@ -127,31 +148,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "KitchenEnemiesFactory.cs",
               "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\KitchenEnemiesFactory.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\KitchenEnemiesFactory.cs",
               "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\KitchenEnemiesFactory.cs",
               "RelativeToolTip": "Assets\\Scripts\\KitchenEnemiesFactory.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-30T02:10:56.296Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "SpawnerFactory.cs",
               "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\SpawnerFactory.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnerFactory.cs",
               "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\SpawnerFactory.cs",
               "RelativeToolTip": "Assets\\Scripts\\SpawnerFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-30T02:10:17.055Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
+              "Title": "FoamEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\FoamEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FoamEnemy.cs",
+              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\FoamEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FoamEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T20:27:59.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "DropEnemy.cs",
               "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\DropEnemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DropEnemy.cs",
@@ -163,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "BlueFoam.cs",
               "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\BlueFoam.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BlueFoam.cs",
@@ -171,12 +204,11 @@
               "RelativeToolTip": "Assets\\Scripts\\BlueFoam.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T01:18:17.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-30T01:18:17.904Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "KitchenBlueFoam.cs",
               "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\KitchenBlueFoam.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\KitchenBlueFoam.cs",
@@ -188,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "ChaserEnemy.cs",
               "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\ChaserEnemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ChaserEnemy.cs",
@@ -200,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Projectile.cs",
               "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Projectile.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Projectile.cs",
@@ -212,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Damageable.cs",
               "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Damageable.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Damageable.cs",
