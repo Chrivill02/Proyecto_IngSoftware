@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|c:\\users\\dell\\desktop\\url sistemas\\3. ingenier\u00EDa de software\\proyecto_ingsoftware\\scenary\\assets\\scripts\\playershoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\assets\\scripts\\playershoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playershoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -64,8 +64,7 @@
               "RelativeToolTip": "Assets\\Scripts\\PlayerShoot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T01:08:58.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T01:08:58.471Z"
             },
             {
               "$type": "Document",

@@ -3,6 +3,8 @@ using UnityEngine;
 
 public class Jugador : MonoBehaviour
 {
+    private bool tieneLlave = false; // Para saber si el jugador recogió la llave
+
     public float fuerzaSalto;
     public NewMonoBehaviourScript gameManager;
 
@@ -98,4 +100,32 @@ public class Jugador : MonoBehaviour
         spriteRenderer.color = new Color(colorInicial.r, colorInicial.g, colorInicial.b, 0.2f);
         transform.localScale = escalaInicial * 0.2f;
     }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        // Si toca la llave
+        if (collision.CompareTag("Key"))
+        {
+            tieneLlave = true;
+            Destroy(collision.gameObject); // La llave desaparece
+            Debug.Log("Has recogido la llave 🗝️");
+        }
+
+        // Si toca la puerta
+        if (collision.CompareTag("Door"))
+        {
+            if (tieneLlave)
+            {
+                Debug.Log("Puerta abierta 🚪");
+                Destroy(collision.gameObject); // Desaparece la puerta
+                                               // Aquí puedes pasar al siguiente nivel:
+                                               // SceneManager.LoadScene("Nivel2");
+            }
+            else
+            {
+                Debug.Log("La puerta está cerrada. Necesitas la llave 🔒");
+            }
+        }
+    }
+
 }

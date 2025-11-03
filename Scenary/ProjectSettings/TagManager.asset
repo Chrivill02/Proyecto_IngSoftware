@@ -8,6 +8,8 @@ TagManager:
   - Obstaculo
   - Breakable
   - Enemy
+  - Key
+  - Door
   layers:
   - Default
   - TransparentFX
