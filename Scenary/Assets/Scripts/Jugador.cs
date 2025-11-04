@@ -54,7 +54,9 @@ public class Player : MonoBehaviour, PlayerMovementInputObserver
         if (isGrounded)
             animator.SetBool("estaSaltando", false);
 
-        if (collision.gameObject.CompareTag("Obstaculo") || collision.gameObject.CompareTag("Enemy"))
+        if (collision.gameObject.CompareTag("Obstaculo") ||
+            collision.gameObject.CompareTag("Enemy") ||
+            collision.gameObject.CompareTag("FinalChief"))
         {
             OnPlayerDeath?.Invoke();
             isDead = true;

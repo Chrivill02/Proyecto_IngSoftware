@@ -12,19 +12,15 @@ public class TimedPlatform : MonoBehaviour
     public GameObject enemigoPrefab;
     public Transform puntoSpawnEnemigo;
 
-    [Header("Patrulla del Enemigo")]
-    public Transform[] puntosDePatrullaEnemigo;
-
-    [Header("UI de Instrucción")]
-    [Tooltip("Arrastra aquí el 'PanelInstruccion' que creaste en el Canvas")]
-    public GameObject MJInstructionPanel; 
-
-
+    // --- Variables privadas ---
     private Rigidbody2D rb;
     private Vector2 posicionInicial;
     private Vector2 posicionObjetivo;
     private bool puedeMoverse = false;
     private bool enemigoGenerado = false;
+
+    // Guardaremos una referencia al enemigo que generemos
+    private GameObject enemigoInstanciado;
 
     void Start()
     {
@@ -38,16 +34,20 @@ public class TimedPlatform : MonoBehaviour
         {
             puntoSpawnEnemigo = transform;
         }
-
-  
-        if (MJInstructionPanel != null)
-        {
-            MJInstructionPanel.SetActive(false);
-        }
     }
 
     void FixedUpdate()
     {
+        // --- NUEVA LÓGICA DE DETECCIÓN ---
+        // Si el enemigo ya se generó, aún no nos podemos mover
+        // Y la referencia al enemigo es 'null' (porque fue destruido)...
+        if (enemigoGenerado && !puedeMoverse && enemigoInstanciado == null)
+        {
+            // ... ¡Activamos el movimiento!
+            ActivarMovimiento();
+        }
+        // --- FIN DE LA NUEVA LÓGICA ---
+
         if (puedeMoverse)
         {
             Vector2 nuevaPosicion = Vector2.MoveTowards(rb.position, posicionObjetivo, velocidad * Time.fixedDeltaTime);
@@ -68,30 +68,17 @@ public class TimedPlatform : MonoBehaviour
     {
         if (enemigoPrefab == null) return;
 
-        GameObject enemigoGO = Instantiate(enemigoPrefab, puntoSpawnEnemigo.position, puntoSpawnEnemigo.rotation);
+        // Generamos el enemigo y guardamos la referencia en 'enemigoInstanciado'
+        enemigoInstanciado = Instantiate(enemigoPrefab, puntoSpawnEnemigo.position, puntoSpawnEnemigo.rotation);
 
-        EnemigoSaltable scriptEnemigo = enemigoGO.GetComponent<EnemigoSaltable>();
-        if (scriptEnemigo != null)
-        {
-            scriptEnemigo.plataformaQueMeInvoco = this;
-            scriptEnemigo.puntosDePatrulla = this.puntosDePatrullaEnemigo;
-        }
-
-     
-        if (MJInstructionPanel != null)
-        {
-            MJInstructionPanel.SetActive(true);
-        }
+        // Ya no necesitamos la lógica específica de 'EnemigoSaltable'
+        // ni la de los puntos de patrulla, ni la del panel.
     }
 
- 
+
+    // Esta función ahora solo se encarga de activar el movimiento
     public void ActivarMovimiento()
     {
         puedeMoverse = true;
-
-        if (MJInstructionPanel != null)
-        {
-            MJInstructionPanel.SetActive(false);
-        }
     }
 }
