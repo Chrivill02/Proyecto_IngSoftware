@@ -907,13 +907,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e918e23395604d84bb0da78a065ccd16, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jugador: {fileID: 1698586196}
-  suavizado: 1
-  offset: {x: 0, y: 0, z: 0}
-  minX: 11.193
-  maxX: 81.647
-  minY: 0
-  maxY: 0
 --- !u!114 &519420034
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6316,6 +6309,50 @@ Transform:
   - {fileID: 703192074}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &987201569
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 987201571}
+  - component: {fileID: 987201570}
+  m_Layer: 0
+  m_Name: ManualStart
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &987201570
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 987201569}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c94d449a2646f3448b58154c5d71e686, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &987201571
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 987201569}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1021774305
 GameObject:
   m_ObjectHideFlags: 0
@@ -6814,18 +6851,17 @@ MonoBehaviour:
   - {fileID: 446995247}
   - {fileID: 94401439}
   - {fileID: 377010662}
+  key: {fileID: 1366863342}
+  factoryComponent: {fileID: 0}
   waves:
   - waveName: Bubbles
-    enemyPrefabs:
-    - {fileID: 4562627858342921058, guid: bf6515b8c141d1c49a3281de9cfcc2dd, type: 3}
+    enemyTypes: 
     enemyCount: 10
     spawnDelay: 1
   - waveName: GreenBubbles
-    enemyPrefabs:
-    - {fileID: 9075199283246903574, guid: b4b8b1d89362a4c4eabb4871f957f864, type: 3}
+    enemyTypes: 
     enemyCount: 10
     spawnDelay: 2
-  key: {fileID: 1366863342}
 --- !u!1001 &1314938142
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8388,14 +8424,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 67e476798bfb19d49b5b14f66dfe19d7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fuerzaSalto: 552
-  gameManager: {fileID: 2141963559}
+  jumpForce: 0
   speed: 5
-  detectorSuelo: {fileID: 928701958}
+  groundDetector: {fileID: 0}
   radioDetector: 0.2
-  layerSuelo:
+  groundLayer:
     serializedVersion: 2
-    m_Bits: 64
+    m_Bits: 0
 --- !u!114 &1698586201
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9744,16 +9779,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f0f21c8d5eb0de4ea9f411df878b1b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  menuPrincipal: {fileID: 1268363660}
-  menuGameOver: {fileID: 284899611}
-  velocidad: 2
-  col: {fileID: 9212805333471318738, guid: fe482d062081acd42b282ece977c74b8, type: 3}
-  piedra1: {fileID: 4104165479090751152, guid: 09e892f522c71be4da075a45e1edcad2, type: 3}
-  piedra2: {fileID: 8227832607147108349, guid: e7b7e2c4b96743d4883d23c25e8750fd, type: 3}
   gameOver: 0
   start: 0
-  cols: []
-  obstaculos: []
 --- !u!4 &2141963560
 Transform:
   m_ObjectHideFlags: 0
@@ -9929,3 +9956,4 @@ SceneRoots:
   - {fileID: 1272167880}
   - {fileID: 2023044918}
   - {fileID: 4671772}
+  - {fileID: 987201571}
