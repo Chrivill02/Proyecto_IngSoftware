@@ -909,7 +909,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 42.91, y: 20.71, z: -7}
+  m_LocalPosition: {x: 25.057447, y: -0.15964001, z: -7}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -8168,7 +8168,7 @@ Transform:
   m_GameObject: {fileID: 1698586194}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 42.91, y: 20.71, z: 0}
+  m_LocalPosition: {x: 18.6, y: -1.97, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -8295,15 +8295,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 1698586194}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f45beb0e8d4c0a849b3bd0cdc8011ece, type: 3}
+  m_Script: {fileID: 11500000, guid: 67e476798bfb19d49b5b14f66dfe19d7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fuerzaSalto: 552
-  gameManager: {fileID: 1217798189}
+  jumpForce: 552
   speed: 5
-  detectorSuelo: {fileID: 928701958}
+  groundDetector: {fileID: 928701958}
   radioDetector: 0.2
-  layerSuelo:
+  groundLayer:
     serializedVersion: 2
     m_Bits: 64
 --- !u!1 &1739535201
@@ -8396,7 +8395,7 @@ Transform:
   m_GameObject: {fileID: 1739535201}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 42.91, y: 20.71, z: -7}
+  m_LocalPosition: {x: 18.6, y: -1.97, z: -7}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
