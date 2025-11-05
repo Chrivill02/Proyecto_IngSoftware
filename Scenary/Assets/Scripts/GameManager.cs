@@ -9,10 +9,6 @@ public class GameManager : MonoBehaviour, PlayerObserver, MenuInterfaceInputObse
 
     public bool gameOver = false;
     public bool start = false;
-
-    // --- ¡AQUÍ ESTÁ EL CAMBIO! ---
-    // Añadimos la variable pública que la llave necesita.
-    // Por defecto será 'false' al iniciar.
     public bool tieneLlave = false;
     // -----------------------------
 
@@ -21,12 +17,11 @@ public class GameManager : MonoBehaviour, PlayerObserver, MenuInterfaceInputObse
 
     void Start()
     {
-       
-        // pero aquí buscabas 'Player'. Lo corrijo.
+
+
         Player player = FindFirstObjectByType<Player>();
 
-        // Añadimos una comprobación por si el GameManager
-        // está en una escena de menú donde no hay jugador.
+
         if (player != null)
         {
             player.OnPlayerDeath += OnPlayerDeath;
@@ -45,7 +40,7 @@ public class GameManager : MonoBehaviour, PlayerObserver, MenuInterfaceInputObse
         }
     }
 
-    // Update is called once per frame
+
     void Update()
     {
         if (start && gameOver)
