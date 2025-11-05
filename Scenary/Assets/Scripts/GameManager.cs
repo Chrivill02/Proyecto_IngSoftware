@@ -4,28 +4,43 @@ using System.Security.Cryptography.X509Certificates;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-
-
-
 public class GameManager : MonoBehaviour, PlayerObserver, MenuInterfaceInputObserver
 {
 
     public bool gameOver = false;
     public bool start = false;
+    public bool tieneLlave = false;
+    // -----------------------------
+
     public event Action OnGameStart;
     public event Action OnGameOver;
 
     void Start()
     {
+
+
         Player player = FindFirstObjectByType<Player>();
-        player.OnPlayerDeath += OnPlayerDeath;
+
+
+        if (player != null)
+        {
+            player.OnPlayerDeath += OnPlayerDeath;
+        }
+        else
+        {
+            Debug.LogWarning("GameManager: No se encontró al Jugador. (Normal si es el menú principal)");
+        }
+
 
         MenuInterfaceInputManager menuInputManager = FindFirstObjectByType<MenuInterfaceInputManager>();
-        menuInputManager.OnContinueKeyPressed += OnContinueKeyPressed;
 
+        if (menuInputManager != null)
+        {
+            menuInputManager.OnContinueKeyPressed += OnContinueKeyPressed;
+        }
     }
 
-    // Update is called once per frame
+
     void Update()
     {
         if (start && gameOver)
@@ -49,11 +64,10 @@ public class GameManager : MonoBehaviour, PlayerObserver, MenuInterfaceInputObse
         if (!start)
         {
             start = true;
-        } else if (start && gameOver)
+        }
+        else if (start && gameOver)
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }
     }
-
 }
-
