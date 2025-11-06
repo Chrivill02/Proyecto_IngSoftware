@@ -4,11 +4,9 @@ using UnityEngine;
 public class MenuInterfaceInputManager : MonoBehaviour
 {
   public event Action OnContinueKeyPressed;
-  void Update()
+
+  void OnContinue()
   {
-    if (Input.GetKeyDown(KeyCode.X))
-    {
-      OnContinueKeyPressed?.Invoke();
-    }
+    OnContinueKeyPressed?.Invoke();
   }
 }
