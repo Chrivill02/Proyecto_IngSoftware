@@ -14,6 +14,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Living Room.unity
     guid: fb72b48cd825a7147812c94d9b78cf13
+  - enabled: 1
+    path: Assets/Scenes/initialMenu.unity
+    guid: de28ebb06b4e6d248a94fd42396206d8
   m_configObjects:
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: f890dbd11b10a184789fb987fb0688d0, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
