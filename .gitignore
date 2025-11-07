@@ -32,3 +32,5 @@ sysinfo.txt
 *.ipa
 *.app
 /.vs
+/Scenary/UserSettings
+/UserSettings/
