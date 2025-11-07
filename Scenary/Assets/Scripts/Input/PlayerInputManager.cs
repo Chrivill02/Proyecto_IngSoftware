@@ -1,5 +1,6 @@
 using System;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class PlayerInputManager : MonoBehaviour, InputManager
 {
@@ -8,19 +9,21 @@ public class PlayerInputManager : MonoBehaviour, InputManager
   public event Action OnShootKeyPressed;
   public event Action<float> OnMoveKeyPressed;
 
-  void Update()
+  public void OnMove(InputValue value)
   {
-    if (Input.GetKeyDown(KeyCode.Space))
-    {
-      OnJumpKeyPressed?.Invoke();
-    }
+    Vector2 input = value.Get<Vector2>();
+    float horizontal = input.x;
+    OnMoveKeyPressed?.Invoke(horizontal);  
+  }
 
-    if (Input.GetKeyDown(KeyCode.Z))
-    {
-      OnShootKeyPressed?.Invoke();
-    }
-    
-    OnMoveKeyPressed?.Invoke(Input.GetAxis("Horizontal"));
+  public void OnJump()
+  {
+    OnJumpKeyPressed?.Invoke();
+  }
+
+  public void OnFire()
+  {
+    OnShootKeyPressed?.Invoke();
   }
 
 }

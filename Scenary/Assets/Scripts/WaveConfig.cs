@@ -9,7 +9,7 @@ public class WaveConfig
     // --- MODIFICADO ---
     // Ya no guardamos prefabs, solo los tipos que queremos
     public List<EnemyType> enemyTypes;
-    // --- FIN MODIFICACIÓN ---
+    // --- FIN MODIFICACIï¿½N ---
     public int enemyCount = 5;
     public float spawnDelay = 0.5f;
 
@@ -18,10 +18,9 @@ public class WaveConfig
     {
         if (enemyTypes == null || enemyTypes.Count == 0)
         {
-            Debug.LogError("¡WaveConfig no tiene tipos de enemigos asignados!");
             return default;
         }
         return enemyTypes[Random.Range(0, enemyTypes.Count)];
     }
-    // --- FIN MODIFICACIÓN ---
+    // --- FIN MODIFICACIï¿½N ---
 }
