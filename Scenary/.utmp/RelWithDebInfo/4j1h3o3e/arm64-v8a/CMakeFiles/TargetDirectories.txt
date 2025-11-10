@@ -1,0 +1,8 @@
+C:/Users/chriv/Documents/GitHub/Proyecto_IngSoftware2/Scenary/.utmp/RelWithDebInfo/4j1h3o3e/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/chriv/Documents/GitHub/Proyecto_IngSoftware2/Scenary/.utmp/RelWithDebInfo/4j1h3o3e/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/chriv/Documents/GitHub/Proyecto_IngSoftware2/Scenary/.utmp/RelWithDebInfo/4j1h3o3e/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/chriv/Documents/GitHub/Proyecto_IngSoftware2/Scenary/.utmp/RelWithDebInfo/4j1h3o3e/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/chriv/Documents/GitHub/Proyecto_IngSoftware2/Scenary/.utmp/RelWithDebInfo/4j1h3o3e/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+C:/Users/chriv/Documents/GitHub/Proyecto_IngSoftware2/Scenary/.utmp/RelWithDebInfo/4j1h3o3e/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/chriv/Documents/GitHub/Proyecto_IngSoftware2/Scenary/.utmp/RelWithDebInfo/4j1h3o3e/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/chriv/Documents/GitHub/Proyecto_IngSoftware2/Scenary/.utmp/RelWithDebInfo/4j1h3o3e/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

@@ -5,6 +5,9 @@ EditorUserSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 4
   m_ConfigSettings:
+    GraphicsSettingsInspector_UserSettings:
+      value: 18134705175a055722080a3115371d4a0d55006876786860616b0471b8b5636facb06fb0be62686b6050b66a5c661c73b01a001bf30703051428e8021dcb090314eb19c81f8a455ee90c15c2d950f8ed97cb
+      flags: 0
     RecentlyUsedSceneGuid-0:
       value: 5b520d0503545b0d0c0c0a2715770748154f4d2c7d7d7e627a7d4a35b4e1646a
       flags: 0
@@ -22,6 +25,15 @@ EditorUserSettings:
       flags: 0
     RecentlyUsedSceneGuid-5:
       value: 5350525e0300510e080b5e7b487a0b44144f487d297f753675701e66b6b76d3c
+      flags: 0
+    UnityRemoteDevice:
+      value: 225f4d46245b0d4902070862342649191512
+      flags: 0
+    UnityRemoteJoystickSource:
+      value: 315459091150
+      flags: 0
+    UnityRemoteResolution:
+      value: 2d5e460b0459
       flags: 0
     lightmappingBakingProfile:
       value: 51
