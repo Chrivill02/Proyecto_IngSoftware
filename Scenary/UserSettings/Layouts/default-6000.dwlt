@@ -303,8 +303,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 334.4
-    y: 79.200005
+    x: 335.4
+    y: 24
     width: 772.4
     height: 359.6
   m_SerializedDataModeController:
@@ -763,7 +763,7 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 50.506912, y: 14.154858, z: -0.1507692}
+    m_Target: {x: 1150.7247, y: 570.439, z: -6.95788}
     speed: 2
     m_Value: {x: 50.506912, y: 14.154858, z: -0.1507692}
   m_RenderMode: 0
@@ -815,7 +815,7 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 21.314713
+    m_Target: 702.02576
     speed: 2
     m_Value: 21.314713
   m_Ortho:
@@ -873,7 +873,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 79.200005
+    y: 24
     width: 333.4
     height: 359.6
   m_SerializedDataModeController:
@@ -890,7 +890,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 6ec80000
+      m_SelectedIDs: 
       m_LastClickedID: 0
       m_ExpandedIDs: d0e3fffff2f0ffffecf2ffff14f5ffff32f5ffffa8faffff2cc90000c2ca00009cd10000
       m_RenameOverlay:
@@ -1137,7 +1137,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 464.80002
+    y: 409.6
     width: 1107.8
     height: 305.19998
   m_SerializedDataModeController:
@@ -1181,7 +1181,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: dcc70000
     m_LastClickedID: 51164
-    m_ExpandedIDs: 0000000020c6000000ca9a3bffffff7f
+    m_ExpandedIDs: 0000000000cf0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1210,7 +1210,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000020c60000
+    m_ExpandedIDs: 0000000000cf0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1272,8 +1272,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1108.8
-    y: 79.200005
+    x: 1109.8
+    y: 24
     width: 426.19995
     height: 690.8
   m_SerializedDataModeController:
@@ -1460,7 +1460,7 @@ MonoBehaviour:
       height: 863.99994
     m_MinimalGUI: 1
   m_defaultScale: 0.32893518
-  m_LastWindowPixelSize: {x: 1384.75, y: 381.49997}
+  m_LastWindowPixelSize: {x: 1107.8, y: 305.19998}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000

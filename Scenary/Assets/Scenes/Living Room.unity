@@ -7348,8 +7348,8 @@ RectTransform:
   - {fileID: 284899612}
   - {fileID: 1268363661}
   - {fileID: 2028290572}
-  - {fileID: 2115248571}
   - {fileID: 493740918}
+  - {fileID: 2115248571}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -9492,10 +9492,34 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pausa_Menu_Panel
       objectReference: {fileID: 0}
+    - target: {fileID: 1412865412605472929, guid: e12c2ceb00245ec4791d88affb063399, type: 3}
+      propertyPath: m_Layer
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1412865412605472929, guid: e12c2ceb00245ec4791d88affb063399, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2038273840841977677, guid: e12c2ceb00245ec4791d88affb063399, type: 3}
+      propertyPath: m_Layer
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3180695173084913644, guid: e12c2ceb00245ec4791d88affb063399, type: 3}
+      propertyPath: m_Layer
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4409097249451053950, guid: e12c2ceb00245ec4791d88affb063399, type: 3}
+      propertyPath: m_Layer
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 5350898925248732475, guid: e12c2ceb00245ec4791d88affb063399, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 706380853}
+    - target: {fileID: 5951814973332008094, guid: e12c2ceb00245ec4791d88affb063399, type: 3}
+      propertyPath: m_Layer
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 8293584939927294381, guid: e12c2ceb00245ec4791d88affb063399, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
