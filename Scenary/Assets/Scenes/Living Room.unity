@@ -131,21 +131,37 @@ PrefabInstance:
       propertyPath: m_Name
       value: Buttons
       objectReference: {fileID: 0}
+    - target: {fileID: 3638853386917843085, guid: 79eee43039242b742b11ab9ac77426c6, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 688
+      objectReference: {fileID: 0}
+    - target: {fileID: 3638853386917843085, guid: 79eee43039242b742b11ab9ac77426c6, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 100
+      objectReference: {fileID: 0}
     - target: {fileID: 4859959762766603931, guid: 79eee43039242b742b11ab9ac77426c6, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -483
+      value: -406.1
       objectReference: {fileID: 0}
     - target: {fileID: 4859959762766603931, guid: 79eee43039242b742b11ab9ac77426c6, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -176
+      value: -184.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4953335157052355416, guid: 79eee43039242b742b11ab9ac77426c6, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 688
+      objectReference: {fileID: 0}
+    - target: {fileID: 4953335157052355416, guid: 79eee43039242b742b11ab9ac77426c6, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -163.7
       objectReference: {fileID: 0}
     - target: {fileID: 6639657220189519981, guid: 79eee43039242b742b11ab9ac77426c6, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -775
+      value: -703.3
       objectReference: {fileID: 0}
     - target: {fileID: 6639657220189519981, guid: 79eee43039242b742b11ab9ac77426c6, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -176
+      value: -189.2
       objectReference: {fileID: 0}
     - target: {fileID: 6897692490154623153, guid: 79eee43039242b742b11ab9ac77426c6, type: 3}
       propertyPath: m_Pivot.x
