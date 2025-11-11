@@ -8,7 +8,6 @@ public class GameManager : MonoBehaviour, PlayerObserver, MenuInterfaceInputObse
 {
 
     public bool gameOver = false;
-    public bool start = false;
     public bool tieneLlave = false;
     // -----------------------------
 
@@ -28,7 +27,7 @@ public class GameManager : MonoBehaviour, PlayerObserver, MenuInterfaceInputObse
         }
         else
         {
-            Debug.LogWarning("GameManager: No se encontró al Jugador. (Normal si es el menú principal)");
+            Debug.LogWarning("GameManager: No se encontrï¿½ al Jugador. (Normal si es el menï¿½ principal)");
         }
 
 
@@ -38,20 +37,19 @@ public class GameManager : MonoBehaviour, PlayerObserver, MenuInterfaceInputObse
         {
             menuInputManager.OnContinueKeyPressed += OnContinueKeyPressed;
         }
+
+        OnGameStart?.Invoke();
     }
 
 
     void Update()
     {
-        if (start && gameOver)
+
+        if (gameOver)
         {
             OnGameOver?.Invoke();
         }
 
-        if (start && !gameOver)
-        {
-            OnGameStart?.Invoke();
-        }
     }
 
     public void OnPlayerDeath()
@@ -61,11 +59,7 @@ public class GameManager : MonoBehaviour, PlayerObserver, MenuInterfaceInputObse
 
     public void OnContinueKeyPressed()
     {
-        if (!start)
-        {
-            start = true;
-        }
-        else if (start && gameOver)
+        if (gameOver)
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }

@@ -16,7 +16,6 @@ public class UIManager : MonoBehaviour, GameManagerObserver
     
     public void OnGameStart()
     {
-        menuPrincipal.SetActive(false);
         menuGameOver.SetActive(false);
     }
 

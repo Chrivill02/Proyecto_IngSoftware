@@ -17,13 +17,13 @@ public class StartGameInput : MonoBehaviour
         {
             if (gameManager != null)
             {
-                // Simular que se presionó la tecla continuar
+                // Simular que se presionï¿½ la tecla continuar
                 gameManager.OnContinueKeyPressed();
-                Debug.Log("Se presionó X — Juego iniciado manualmente");
+                Debug.Log("Se presionï¿½ X ï¿½ Juego iniciado manualmente");
             }
             else
             {
-                Debug.LogWarning("No se encontró el GameManager en la escena.");
+                Debug.LogWarning("No se encontrï¿½ el GameManager en la escena.");
             }
         }
     }

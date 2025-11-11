@@ -1,12 +1,14 @@
 using System;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
-public class MenuInterfaceInputManager : MonoBehaviour
+public class MenuInterfaceInputManager : MonoBehaviour, InputManager
 {
   public event Action OnContinueKeyPressed;
 
-  void OnContinue()
+  public void OnContinue()
   {
+    Debug.Log("entroo");
     OnContinueKeyPressed?.Invoke();
   }
 }
