@@ -26,6 +26,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Attic.unity
     guid: 0af8f585ee298944b807e73f89c5479d
+  - enabled: 1
+    path: Assets/Scenes/Final.unity
+    guid: 237903fa0dcf8cf42aa2793997240c9c
   m_configObjects:
     com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 31be70a20b082654cafc4c33c619dd7b, type: 2}
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 76f368366cf1803419c33a2a8299376c, type: 2}
