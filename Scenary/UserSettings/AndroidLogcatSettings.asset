@@ -1,13 +1,38 @@
 {
-    "m_SelectedDeviceId": "",
+    "m_SelectedDeviceId": "R5CT822A7VB",
     "m_SelectedProcess": {
-        "deviceId": "",
-        "name": "",
-        "processId": 0,
+        "deviceId": "R5CT822A7VB",
+        "name": "com.DefaultCompany.com.unity.template.mobile2D",
+        "processId": 9543,
         "exited": false
     },
     "m_SelectedPriority": 0,
-    "m_KnownProcessesForSerialization": [],
+    "m_KnownProcessesForSerialization": [
+        {
+            "deviceId": "R5CT822A7VB",
+            "name": "com.sec.android.app.launcher",
+            "processId": 3824,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CT822A7VB",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 26609,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CT822A7VB",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 32231,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CT822A7VB",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 9543,
+            "exited": false
+        }
+    ],
     "m_Tags": {
         "m_Entries": [
             {
@@ -45,8 +70,19 @@
         "Height": 0.0
     },
     "m_MemoryViewerState": {
-        "MemoryWindowWidth": 0.0,
-        "MemoryTypeEnabled": [],
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
         "MemoryGroup": 2,
         "AutoCapture": true
     },
