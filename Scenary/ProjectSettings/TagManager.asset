@@ -9,6 +9,8 @@ TagManager:
   - Breakable
   - Enemy
   - FinalChief
+  - UICanvas
+  - PanelAdvertenciaUI
   layers:
   - Default
   - TransparentFX
