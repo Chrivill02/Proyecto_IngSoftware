@@ -9582,7 +9582,7 @@ MonoBehaviour:
   waves:
   - waveName: Bubbles
     enemyTypes: 00000000
-    enemyCount: 1
+    enemyCount: 7
     spawnDelay: 3
   - waveName: GreenBubbles
     enemyTypes: 01000000
