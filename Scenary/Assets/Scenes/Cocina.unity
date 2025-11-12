@@ -781,6 +781,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &79966980 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3035272526145502997, guid: 49ba5e6380dc9a444ad2ad7a2de462d1, type: 3}
+  m_PrefabInstance: {fileID: 862046293}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &94401438
 GameObject:
   m_ObjectHideFlags: 0
@@ -4425,6 +4430,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 359817421}
+  - {fileID: 79966980}
   - {fileID: 662675148}
   - {fileID: 1103825784}
   - {fileID: 304332610}
@@ -5250,6 +5256,14 @@ PrefabInstance:
     - target: {fileID: 3786226542009779004, guid: 4cdf5f7621ff4e248b8e23d7e1755d90, type: 3}
       propertyPath: m_Name
       value: Door
+      objectReference: {fileID: 0}
+    - target: {fileID: 6419262448422540483, guid: 4cdf5f7621ff4e248b8e23d7e1755d90, type: 3}
+      propertyPath: gameManager
+      value: 
+      objectReference: {fileID: 2141963559}
+    - target: {fileID: 6419262448422540483, guid: 4cdf5f7621ff4e248b8e23d7e1755d90, type: 3}
+      propertyPath: nombreSiguienteNivel
+      value: Bathroom
       objectReference: {fileID: 0}
     - target: {fileID: 7167142323894603621, guid: 4cdf5f7621ff4e248b8e23d7e1755d90, type: 3}
       propertyPath: m_LocalScale.x
@@ -7463,6 +7477,63 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 90, y: -180, z: 0}
+--- !u!1001 &862046293
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 581476171}
+    m_Modifications:
+    - target: {fileID: 3035272526145502997, guid: 49ba5e6380dc9a444ad2ad7a2de462d1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -21.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 3035272526145502997, guid: 49ba5e6380dc9a444ad2ad7a2de462d1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -12.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3035272526145502997, guid: 49ba5e6380dc9a444ad2ad7a2de462d1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3035272526145502997, guid: 49ba5e6380dc9a444ad2ad7a2de462d1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3035272526145502997, guid: 49ba5e6380dc9a444ad2ad7a2de462d1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3035272526145502997, guid: 49ba5e6380dc9a444ad2ad7a2de462d1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3035272526145502997, guid: 49ba5e6380dc9a444ad2ad7a2de462d1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3035272526145502997, guid: 49ba5e6380dc9a444ad2ad7a2de462d1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3035272526145502997, guid: 49ba5e6380dc9a444ad2ad7a2de462d1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3035272526145502997, guid: 49ba5e6380dc9a444ad2ad7a2de462d1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5996975939945169499, guid: 49ba5e6380dc9a444ad2ad7a2de462d1, type: 3}
+      propertyPath: m_Name
+      value: Bouncer (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 49ba5e6380dc9a444ad2ad7a2de462d1, type: 3}
 --- !u!4 &867413514 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6650879891854131737, guid: 7ad07e2c0a03278429304b4865a9b496, type: 3}
@@ -9495,7 +9566,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   virtualCamera: {fileID: 1739535203}
-  oldConfiner: {fileID: 0}
+  oldConfiner: {fileID: 77225960}
   cameraConfiner: {fileID: 759491000}
   doors:
   - {fileID: 426813505}
@@ -9987,7 +10058,7 @@ GameObject:
   - component: {fileID: 1366863345}
   - component: {fileID: 1366863344}
   - component: {fileID: 1366863343}
-  - component: {fileID: 1366863347}
+  - component: {fileID: 1366863348}
   m_Layer: 0
   m_Name: Key
   m_TagString: Untagged
@@ -10141,7 +10212,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1272167880}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1366863347
+--- !u!114 &1366863348
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -10150,9 +10221,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 1366863342}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 249e930e8bf9e38429b7457e90147720, type: 3}
+  m_Script: {fileID: 11500000, guid: 3f1c45b67da5f854eb97a51351cc2269, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: 
+  m_EditorClassIdentifier: Assembly-CSharp::Llave
   stolen: 0
 --- !u!4 &1390608605 stripped
 Transform:

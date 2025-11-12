@@ -14,12 +14,12 @@ public class EnemyRoom : MonoBehaviour
     public Transform[] spawnPoints;
     public GameObject key;
 
-    // --- INICIO REFACTORIZACIÓN ---
+    // --- INICIO REFACTORIZACIï¿½N ---
     [Header("Factory Settings")]
-    [Tooltip("Arrastra aquí el GameObject que tiene tu script KitchenEnemiesFactory")]
-    public MonoBehaviour factoryComponent; // Arrastra la fábrica aquí en el Inspector
+    [Tooltip("Arrastra aquï¿½ el GameObject que tiene tu script KitchenEnemiesFactory")]
+    public MonoBehaviour factoryComponent; // Arrastra la fï¿½brica aquï¿½ en el Inspector
     private SpawnerFactory factory;
-    // --- FIN REFACTORIZACIÓN ---
+    // --- FIN REFACTORIZACIï¿½N ---
 
     [Header("Waves")]
     public List<WaveConfig> waves; // WaveConfig ahora usa EnemyType
@@ -29,17 +29,17 @@ public class EnemyRoom : MonoBehaviour
 
     private List<GameObject> currentEnemies = new List<GameObject>();
 
-    // --- INICIO REFACTORIZACIÓN ---
+    // --- INICIO REFACTORIZACIï¿½N ---
     void Awake()
     {
-        // Obtenemos la interfaz de la fábrica
+        // Obtenemos la interfaz de la fï¿½brica
         factory = factoryComponent as SpawnerFactory;
         if (factory == null)
         {
-            Debug.LogError("¡El 'factoryComponent' en EnemyRoom no implementa SpawnerFactory!", this);
+            Debug.LogError("ï¿½El 'factoryComponent' en EnemyRoom no implementa SpawnerFactory!", this);
         }
     }
-    // --- FIN REFACTORIZACIÓN ---
+    // --- FIN REFACTORIZACIï¿½N ---
 
     private void OnTriggerEnter2D(Collider2D other)
     {
@@ -88,11 +88,11 @@ public class EnemyRoom : MonoBehaviour
         currentEnemies.Clear();
         for (int i = 0; i < wave.enemyCount; i++)
         {
-            // --- INICIO REFACTORIZACIÓN ---
+            // --- INICIO REFACTORIZACIï¿½N ---
             // 1. Pide el TIPO de enemigo a la wave
             EnemyType typeToSpawn = wave.GetRandomEnemyType();
 
-            // 2. Pide el PREFAB de ese tipo a la FÁBRICA
+            // 2. Pide el PREFAB de ese tipo a la Fï¿½BRICA
             GameObject prefab = null;
             switch (typeToSpawn)
             {
@@ -103,7 +103,7 @@ public class EnemyRoom : MonoBehaviour
                     prefab = factory.GetGreenFoamPrefab();
                     break;
             }
-            // --- FIN REFACTORIZACIÓN ---
+            // --- FIN REFACTORIZACIï¿½N ---
 
             if (prefab != null)
             {

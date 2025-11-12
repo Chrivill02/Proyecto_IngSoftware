@@ -4,6 +4,7 @@ public class Llave : MonoBehaviour
 {
     // 1. Cambiamos 'NewMonoBehaviourScript' por 'GameManager'
     private GameManager gameManager;
+    public bool stolen = false;
 
     void Start()
     {
@@ -13,7 +14,7 @@ public class Llave : MonoBehaviour
         if (gameManager == null)
         {
             // 3. Actualizamos el mensaje de error
-            Debug.LogError("¡La Llave no pudo encontrar el GameManager en la escena!");
+            Debug.LogError("ï¿½La Llave no pudo encontrar el GameManager en la escena!");
         }
     }
 
@@ -23,10 +24,11 @@ public class Llave : MonoBehaviour
         {
             if (gameManager != null)
             {
-                // 4. Esta línea ahora funcionará porque
-                //    añadiremos 'tieneLlave' al GameManager
+                // 4. Esta lï¿½nea ahora funcionarï¿½ porque
+                //    aï¿½adiremos 'tieneLlave' al GameManager
                 gameManager.tieneLlave = true;
-                Debug.Log("¡Llave recogida!");
+                Debug.Log("ï¿½Llave recogida!");
+                stolen = true;
 
 
                 Destroy(gameObject);
