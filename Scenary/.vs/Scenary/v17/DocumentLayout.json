@@ -1,137 +1,141 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\",
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|c:\\users\\chriv\\documents\\github\\proyecto_ingsoftware2\\scenary\\assets\\scripts\\triggeradvertencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Library\\PackageCache\\com.unity.render-pipelines.universal@a2829103b3d4\\Shaders\\2D\\Sprite-Lit-Default.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@a2829103b3d4\\Shaders\\2D\\Sprite-Lit-Default.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|c:\\users\\dell\\desktop\\url sistemas\\3. ingenier\u00EDa de software\\proyecto_ingsoftware\\scenary\\assets\\scripts\\triggeradvertencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\triggeradvertencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|c:\\users\\chriv\\documents\\github\\proyecto_ingsoftware2\\scenary\\assets\\scripts\\paneladvertencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\assets\\scripts\\paneladvertencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\paneladvertencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\paredfalsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\assets\\scripts\\paredfalsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\paredfalsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\assets\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\gluebullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\assets\\scripts\\gluebullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gluebullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\enemytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\assets\\scripts\\enemytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\input\\playerinputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\assets\\scripts\\input\\playerinputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input\\playerinputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\input\\playerhabilitiesinputobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\assets\\scripts\\input\\playerhabilitiesinputobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input\\playerhabilitiesinputobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\playershoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\assets\\scripts\\playershoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playershoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\damageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\assets\\scripts\\damageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\pause_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\assets\\scripts\\pause_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pause_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\volumeloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\assets\\scripts\\volumeloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\volumeloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\assets\\scripts\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\deatheffector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\assets\\scripts\\deatheffector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deatheffector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\finalchief.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\assets\\scripts\\finalchief.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finalchief.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\assets\\scripts\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\chaserenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\assets\\scripts\\chaserenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chaserenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\assets\\scripts\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\timedplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\assets\\scripts\\timedplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\timedplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\jumpableenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\assets\\scripts\\jumpableenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\jumpableenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\movingplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\assets\\scripts\\movingplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movingplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\enemyroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\assets\\scripts\\enemyroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\kitchenenemiesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\assets\\scripts\\kitchenenemiesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\kitchenenemiesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\spawnerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\assets\\scripts\\spawnerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\kitchengreenfoam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\assets\\scripts\\kitchengreenfoam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\kitchengreenfoam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\greenfoam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\assets\\scripts\\greenfoam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\greenfoam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\bluefoam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\assets\\scripts\\bluefoam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bluefoam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\foamenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\assets\\scripts\\foamenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\foamenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\waveconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\assets\\scripts\\waveconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\waveconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\kitchenbluefoam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\assets\\scripts\\kitchenbluefoam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\kitchenbluefoam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\dropenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\assets\\scripts\\dropenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dropenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -147,10 +151,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Sprite-Lit-Default.shader",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Library\\PackageCache\\com.unity.render-pipelines.universal@a2829103b3d4\\Shaders\\2D\\Sprite-Lit-Default.shader",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@a2829103b3d4\\Shaders\\2D\\Sprite-Lit-Default.shader",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Library\\PackageCache\\com.unity.render-pipelines.universal@a2829103b3d4\\Shaders\\2D\\Sprite-Lit-Default.shader",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@a2829103b3d4\\Shaders\\2D\\Sprite-Lit-Default.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-11-12T22:30:51.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TriggerAdvertencia.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\TriggerAdvertencia.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\TriggerAdvertencia.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\TriggerAdvertencia.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\TriggerAdvertencia.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\TriggerAdvertencia.cs",
               "RelativeToolTip": "Assets\\Scripts\\TriggerAdvertencia.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAQwB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -159,24 +176,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PanelAdvertencia.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\PanelAdvertencia.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\PanelAdvertencia.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PanelAdvertencia.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\PanelAdvertencia.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\PanelAdvertencia.cs",
               "RelativeToolTip": "Assets\\Scripts\\PanelAdvertencia.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T19:59:32.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-12T19:59:32.017Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ParedFalsa.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\ParedFalsa.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\ParedFalsa.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ParedFalsa.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\ParedFalsa.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\ParedFalsa.cs",
               "RelativeToolTip": "Assets\\Scripts\\ParedFalsa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -184,11 +200,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PlayerInputManager.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Input\\PlayerInputManager.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\Input\\PlayerInputManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Input\\PlayerInputManager.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Input\\PlayerInputManager.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\Input\\PlayerInputManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Input\\PlayerInputManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -196,11 +212,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "PlayerHabilitiesInputObserver.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Input\\PlayerHabilitiesInputObserver.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\Input\\PlayerHabilitiesInputObserver.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Input\\PlayerHabilitiesInputObserver.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Input\\PlayerHabilitiesInputObserver.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\Input\\PlayerHabilitiesInputObserver.cs",
               "RelativeToolTip": "Assets\\Scripts\\Input\\PlayerHabilitiesInputObserver.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -208,11 +224,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "GlueBullet.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\GlueBullet.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\GlueBullet.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GlueBullet.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\GlueBullet.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\GlueBullet.cs",
               "RelativeToolTip": "Assets\\Scripts\\GlueBullet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -220,11 +236,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "PlayerShoot.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\PlayerShoot.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\PlayerShoot.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerShoot.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\PlayerShoot.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\PlayerShoot.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerShoot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -232,11 +248,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "DeathEffector.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\DeathEffector.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\DeathEffector.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DeathEffector.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\DeathEffector.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\DeathEffector.cs",
               "RelativeToolTip": "Assets\\Scripts\\DeathEffector.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -244,11 +260,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "EnemyType.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\EnemyType.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\EnemyType.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyType.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\EnemyType.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\EnemyType.cs",
               "RelativeToolTip": "Assets\\Scripts\\EnemyType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -256,11 +272,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Projectile.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Projectile.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\Projectile.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Projectile.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Projectile.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\Projectile.cs",
               "RelativeToolTip": "Assets\\Scripts\\Projectile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -268,11 +284,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "MainMenuManager.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\MainMenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\MainMenuManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuManager.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\MainMenuManager.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\MainMenuManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\MainMenuManager.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAcwBwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -280,11 +296,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "VolumeLoader.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\VolumeLoader.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\VolumeLoader.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\VolumeLoader.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\VolumeLoader.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\VolumeLoader.cs",
               "RelativeToolTip": "Assets\\Scripts\\VolumeLoader.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -292,11 +308,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Door.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Door.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\Door.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Door.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Door.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\Door.cs",
               "RelativeToolTip": "Assets\\Scripts\\Door.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAIwDIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -304,11 +320,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
               "ViewState": "AgIAABQAAAAAAAAAAIBJwCoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -316,11 +332,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Key.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Key.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\Key.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Key.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Key.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\Key.cs",
               "RelativeToolTip": "Assets\\Scripts\\Key.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAUwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -328,11 +344,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Damageable.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Damageable.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\Damageable.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Damageable.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Damageable.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\Damageable.cs",
               "RelativeToolTip": "Assets\\Scripts\\Damageable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -340,11 +356,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Pause_Manager.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Pause_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\Pause_Manager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Pause_Manager.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Pause_Manager.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\Pause_Manager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Pause_Manager.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAxwB8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -352,11 +368,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "FinalChief.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\FinalChief.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\FinalChief.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FinalChief.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\FinalChief.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\FinalChief.cs",
               "RelativeToolTip": "Assets\\Scripts\\FinalChief.cs",
               "ViewState": "AgIAALwAAAAAAAAAAADwv9EAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -364,11 +380,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "TimedPlatform.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\TimedPlatform.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\TimedPlatform.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\TimedPlatform.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\TimedPlatform.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\TimedPlatform.cs",
               "RelativeToolTip": "Assets\\Scripts\\TimedPlatform.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -376,11 +392,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Jugador.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Jugador.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\Jugador.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Jugador.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Jugador.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\Jugador.cs",
               "RelativeToolTip": "Assets\\Scripts\\Jugador.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAAADsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -388,11 +404,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "GreenFoam.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\GreenFoam.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\GreenFoam.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GreenFoam.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\GreenFoam.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\GreenFoam.cs",
               "RelativeToolTip": "Assets\\Scripts\\GreenFoam.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -400,11 +416,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "EnemyRoom.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\EnemyRoom.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\EnemyRoom.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyRoom.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\EnemyRoom.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\EnemyRoom.cs",
               "RelativeToolTip": "Assets\\Scripts\\EnemyRoom.cs",
               "ViewState": "AgIAAIUAAAAAAAAAAAAwwGcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -412,11 +428,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "ChaserEnemy.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\ChaserEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\ChaserEnemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ChaserEnemy.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\ChaserEnemy.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\ChaserEnemy.cs",
               "RelativeToolTip": "Assets\\Scripts\\ChaserEnemy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -424,11 +440,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "KitchenGreenFoam.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\KitchenGreenFoam.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\KitchenGreenFoam.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\KitchenGreenFoam.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\KitchenGreenFoam.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\KitchenGreenFoam.cs",
               "RelativeToolTip": "Assets\\Scripts\\KitchenGreenFoam.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -436,11 +452,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "MovingPlatform.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\MovingPlatform.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\MovingPlatform.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MovingPlatform.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\MovingPlatform.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\MovingPlatform.cs",
               "RelativeToolTip": "Assets\\Scripts\\MovingPlatform.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAAwCQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -448,11 +464,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "JumpableEnemy.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\JumpableEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\JumpableEnemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\JumpableEnemy.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\JumpableEnemy.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\JumpableEnemy.cs",
               "RelativeToolTip": "Assets\\Scripts\\JumpableEnemy.cs",
               "ViewState": "AgIAAF8AAAAAAAAAAIA9wGsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -460,11 +476,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "WaveConfig.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\WaveConfig.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\WaveConfig.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\WaveConfig.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\WaveConfig.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\WaveConfig.cs",
               "RelativeToolTip": "Assets\\Scripts\\WaveConfig.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAUwBoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -472,11 +488,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "KitchenEnemiesFactory.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\KitchenEnemiesFactory.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\KitchenEnemiesFactory.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\KitchenEnemiesFactory.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\KitchenEnemiesFactory.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\KitchenEnemiesFactory.cs",
               "RelativeToolTip": "Assets\\Scripts\\KitchenEnemiesFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -484,11 +500,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "SpawnerFactory.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\SpawnerFactory.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\SpawnerFactory.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnerFactory.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\SpawnerFactory.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\SpawnerFactory.cs",
               "RelativeToolTip": "Assets\\Scripts\\SpawnerFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -496,11 +512,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "FoamEnemy.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\FoamEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\FoamEnemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FoamEnemy.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\FoamEnemy.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\FoamEnemy.cs",
               "RelativeToolTip": "Assets\\Scripts\\FoamEnemy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -508,11 +524,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "DropEnemy.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\DropEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\DropEnemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DropEnemy.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\DropEnemy.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\DropEnemy.cs",
               "RelativeToolTip": "Assets\\Scripts\\DropEnemy.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAgwC8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -520,11 +536,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "BlueFoam.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\BlueFoam.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\BlueFoam.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BlueFoam.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\BlueFoam.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\BlueFoam.cs",
               "RelativeToolTip": "Assets\\Scripts\\BlueFoam.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -532,11 +548,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "KitchenBlueFoam.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\KitchenBlueFoam.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\KitchenBlueFoam.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\KitchenBlueFoam.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\KitchenBlueFoam.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\URL SISTEMAS\\3. ingenier\u00EDa de software\\Proyecto_IngSoftware\\Scenary\\Assets\\Scripts\\KitchenBlueFoam.cs",
               "RelativeToolTip": "Assets\\Scripts\\KitchenBlueFoam.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

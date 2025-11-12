@@ -755,7 +755,7 @@ MonoBehaviour:
   m_WindowGUID: cc27987af1a868c49b0894db9c0f5429
   m_Gizmos: 1
   m_OverrideSceneCullingMask: 6917529027641081856
-  m_SceneIsLit: 0
+  m_SceneIsLit: 1
   m_SceneLighting: 1
   m_2DMode: 1
   m_isRotationLocked: 0
@@ -763,9 +763,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 1908.6173, y: 145.23538, z: 7.9041967}
+    m_Target: {x: 54.73643, y: 9.633859, z: -0.1679374}
     speed: 2
-    m_Value: {x: 49.32891, y: 32.732235, z: -0.22334072}
+    m_Value: {x: 1908.6173, y: 145.23538, z: 7.9041967}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -776,7 +776,7 @@ MonoBehaviour:
   m_SceneViewState:
     m_AlwaysRefresh: 0
     showFog: 1
-    showSkybox: 0
+    showSkybox: 1
     showFlares: 1
     showImageEffects: 1
     showParticleSystems: 1
@@ -815,9 +815,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 417.05722
+    m_Target: 19.492853
     speed: 2
-    m_Value: 22.871805
+    m_Value: 417.05722
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1181,7 +1181,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 16}
     m_SelectedIDs: e4c90000
     m_LastClickedID: 51684
-    m_ExpandedIDs: 0000000030c80000
+    m_ExpandedIDs: 00000000c8c80000cac80000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1210,7 +1210,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000030c80000
+    m_ExpandedIDs: 00000000c8c80000cac80000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
