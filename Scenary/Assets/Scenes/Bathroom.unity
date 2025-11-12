@@ -19704,7 +19704,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6419262448422540483, guid: 4cdf5f7621ff4e248b8e23d7e1755d90, type: 3}
       propertyPath: nombreSiguienteNivel
-      value: ChrisScene3
+      value: Attic
       objectReference: {fileID: 0}
     - target: {fileID: 7167142323894603621, guid: 4cdf5f7621ff4e248b8e23d7e1755d90, type: 3}
       propertyPath: m_LocalScale.x
