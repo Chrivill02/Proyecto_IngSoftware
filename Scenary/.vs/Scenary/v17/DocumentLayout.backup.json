@@ -3,11 +3,43 @@
   "WorkspaceRootPath": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|c:\\users\\chriv\\documents\\github\\proyecto_ingsoftware2\\scenary\\assets\\scripts\\volumeloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|c:\\users\\chriv\\documents\\github\\proyecto_ingsoftware2\\scenary\\assets\\scripts\\gluebullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gluebullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\enemytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|c:\\users\\chriv\\documents\\github\\proyecto_ingsoftware2\\scenary\\assets\\scripts\\input\\playerinputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input\\playerinputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|c:\\users\\chriv\\documents\\github\\proyecto_ingsoftware2\\scenary\\assets\\scripts\\input\\playerhabilitiesinputobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input\\playerhabilitiesinputobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|c:\\users\\chriv\\documents\\github\\proyecto_ingsoftware2\\scenary\\assets\\scripts\\playershoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playershoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\damageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|c:\\users\\chriv\\documents\\github\\proyecto_ingsoftware2\\scenary\\assets\\scripts\\pause_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pause_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\volumeloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\volumeloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|c:\\users\\chriv\\documents\\github\\proyecto_ingsoftware2\\scenary\\assets\\scripts\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -33,14 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\chaserenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chaserenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\damageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,10 +115,6 @@
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\waveconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\enemytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\assets\\scripts\\kitchenbluefoam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB70A8-7A27-E738-052C-C42F4C293534}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\kitchenbluefoam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -110,37 +130,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "VolumeLoader.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\VolumeLoader.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\VolumeLoader.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\VolumeLoader.cs",
-              "RelativeToolTip": "Assets\\Scripts\\VolumeLoader.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "PlayerInputManager.cs",
+              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Input\\PlayerInputManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Input\\PlayerInputManager.cs",
+              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Input\\PlayerInputManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Input\\PlayerInputManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T18:37:11.644Z",
+              "WhenOpened": "2025-11-12T04:27:09.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerHabilitiesInputObserver.cs",
+              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Input\\PlayerHabilitiesInputObserver.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Input\\PlayerHabilitiesInputObserver.cs",
+              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Input\\PlayerHabilitiesInputObserver.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Input\\PlayerHabilitiesInputObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:27:04.882Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainMenuManager.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\MainMenuManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuManager.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\MainMenuManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MainMenuManager.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBwAAAAkAAAAAAAAAA==",
+              "Title": "GlueBullet.cs",
+              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\GlueBullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GlueBullet.cs",
+              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\GlueBullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GlueBullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T02:01:20.12Z",
+              "WhenOpened": "2025-11-12T04:24:35.85Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "PlayerShoot.cs",
+              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\PlayerShoot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerShoot.cs",
+              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\PlayerShoot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerShoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:23:03.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "DeathEffector.cs",
               "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\DeathEffector.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DeathEffector.cs",
@@ -152,7 +198,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "EnemyType.cs",
+              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\EnemyType.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyType.cs",
+              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\EnemyType.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T02:11:41.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Projectile.cs",
+              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Projectile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Projectile.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:16:28.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainMenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\MainMenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuManager.cs",
+              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\MainMenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuManager.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T02:01:20.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VolumeLoader.cs",
+              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\VolumeLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VolumeLoader.cs",
+              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\VolumeLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VolumeLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:37:11.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Door.cs",
               "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Door.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Door.cs",
@@ -164,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
@@ -176,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "Key.cs",
               "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Key.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Key.cs",
@@ -188,7 +284,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
+              "Title": "Damageable.cs",
+              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Damageable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Damageable.cs",
+              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Damageable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Damageable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:15:46.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pause_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Pause_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pause_Manager.cs",
+              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Pause_Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pause_Manager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwB8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T01:49:10.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "FinalChief.cs",
               "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\FinalChief.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FinalChief.cs",
@@ -200,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "TimedPlatform.cs",
               "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\TimedPlatform.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\TimedPlatform.cs",
@@ -212,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "Jugador.cs",
               "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Jugador.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Jugador.cs",
@@ -224,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "GreenFoam.cs",
               "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\GreenFoam.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GreenFoam.cs",
@@ -236,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "EnemyRoom.cs",
               "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\EnemyRoom.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyRoom.cs",
@@ -248,31 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Projectile.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Projectile.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Projectile.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Projectile.cs*",
-              "RelativeToolTip": "Assets\\Scripts\\Projectile.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T01:16:28.427Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Damageable.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Damageable.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Damageable.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\Damageable.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Damageable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T01:15:46.691Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "ChaserEnemy.cs",
               "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\ChaserEnemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ChaserEnemy.cs",
@@ -284,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "KitchenGreenFoam.cs",
               "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\KitchenGreenFoam.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\KitchenGreenFoam.cs",
@@ -296,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "MovingPlatform.cs",
               "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\MovingPlatform.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MovingPlatform.cs",
@@ -308,7 +406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "JumpableEnemy.cs",
               "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\JumpableEnemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\JumpableEnemy.cs",
@@ -320,7 +418,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "WaveConfig.cs",
               "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\WaveConfig.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\WaveConfig.cs",
@@ -332,19 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "EnemyType.cs",
-              "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\EnemyType.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyType.cs",
-              "ToolTip": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\EnemyType.cs",
-              "RelativeToolTip": "Assets\\Scripts\\EnemyType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T02:11:41.208Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "KitchenEnemiesFactory.cs",
               "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\KitchenEnemiesFactory.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\KitchenEnemiesFactory.cs",
@@ -356,7 +442,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "SpawnerFactory.cs",
               "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\SpawnerFactory.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnerFactory.cs",
@@ -368,7 +454,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "FoamEnemy.cs",
               "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\FoamEnemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FoamEnemy.cs",
@@ -380,7 +466,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "DropEnemy.cs",
               "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\DropEnemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DropEnemy.cs",
@@ -392,7 +478,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "BlueFoam.cs",
               "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\BlueFoam.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BlueFoam.cs",
@@ -404,7 +490,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "KitchenBlueFoam.cs",
               "DocumentMoniker": "C:\\Users\\chriv\\Documents\\GitHub\\Proyecto_IngSoftware2\\Scenary\\Assets\\Scripts\\KitchenBlueFoam.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\KitchenBlueFoam.cs",
