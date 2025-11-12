@@ -167699,7 +167699,10 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3788762724261165086, guid: f2c6f1ac9a3d6554aba7b17fd1fd7332, type: 3}
       propertyPath: mensajeParaMostrar
-      value: "Haz un salto de f\xE9\n\nPresiona la pantalla para continuar"
+      value: 'Haz un salto de fe
+
+
+        Presiona la pantalla para continuar'
       objectReference: {fileID: 0}
     - target: {fileID: 4016271646365473397, guid: f2c6f1ac9a3d6554aba7b17fd1fd7332, type: 3}
       propertyPath: m_Name
