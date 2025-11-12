@@ -3,7 +3,7 @@
     "m_SelectedProcess": {
         "deviceId": "R5CT822A7VB",
         "name": "com.DefaultCompany.com.unity.template.mobile2D",
-        "processId": 9543,
+        "processId": 29266,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -30,6 +30,12 @@
             "deviceId": "R5CT822A7VB",
             "name": "com.DefaultCompany.com.unity.template.mobile2D",
             "processId": 9543,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CT822A7VB",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 29266,
             "exited": false
         }
     ],
