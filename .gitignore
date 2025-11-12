@@ -31,3 +31,6 @@ sysinfo.txt
 *.xcworkspace
 *.ipa
 *.app
+/.vs
+/Scenary/UserSettings
+/UserSettings/

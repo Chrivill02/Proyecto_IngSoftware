@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Suelo
   - Obstaculo
+  - Breakable
+  - Enemy
+  - FinalChief
   layers:
   - Default
   - TransparentFX

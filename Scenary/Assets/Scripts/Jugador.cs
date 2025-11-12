@@ -1,79 +1,86 @@
 using System;
-using Unity.VisualScripting;
-using UnityEditor.Build.Content;
 using UnityEngine;
 
-public class Jugador : MonoBehaviour
+
+
+
+public class Player : MonoBehaviour, PlayerMovementInputObserver
 {
-    public float fuerzaSalto;
-    public NewMonoBehaviourScript gameManager;
-
+    public float jumpForce;
     public float speed = 5f;
-    private Rigidbody2D rigidbody2D;
-    private float inputMovimiento;
+    private Rigidbody2D Rigidbody2D;
+    private float movementInput;
     private Animator animator;
-
-
-    public Transform detectorSuelo; 
+    public Transform groundDetector;
     public float radioDetector = 0.1f;
-    public LayerMask layerSuelo;
-    private bool estaEnSuelo;
+    public LayerMask groundLayer;
+    private bool isGrounded;
+    private bool isDead = false;
+    public event Action OnPlayerDeath;
 
-
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         animator = GetComponent<Animator>();
-        rigidbody2D = GetComponent<Rigidbody2D>();
+        Rigidbody2D = GetComponent<Rigidbody2D>();
+
+        PlayerInputManager inputManager = FindFirstObjectByType<PlayerInputManager>();
+        inputManager.OnJumpKeyPressed += OnJumpKeyPressed;
+        inputManager.OnMoveKeyPressed += OnMove;
     }
 
-    // Update is called once per frame
     void Update()
     {
-        Collider2D golpe = Physics2D.OverlapCircle(detectorSuelo.position, radioDetector, layerSuelo);
-        estaEnSuelo = golpe && Mathf.Abs(golpe.transform.up.y) > 0.9f;
-        Console.WriteLine(estaEnSuelo);
-
-        if (estaEnSuelo && Input.GetKeyDown(KeyCode.Space))
-        {
-            animator.SetBool("estaSaltando", true);
-            rigidbody2D.AddForce(new Vector2(0, fuerzaSalto));
-        }
-        inputMovimiento = Input.GetAxis("Horizontal");
+        if (isDead) return;
+        isGrounded = detectGrounded();
     }
 
     private void FixedUpdate()
     {
-        rigidbody2D.linearVelocity = new Vector2(inputMovimiento * speed, rigidbody2D.linearVelocity.y);
-        if (inputMovimiento != 0)
-        {
-            animator.SetBool("estaCorriendo", true);
-        }
-        else
-        {
-            animator.SetBool("estaCorriendo", false);
-        }
+        if (isDead) return;
 
-        if (inputMovimiento < 0)
-        {
+        Rigidbody2D.linearVelocity = new Vector2(movementInput * speed, Rigidbody2D.linearVelocity.y);
+
+        animator.SetBool("estaCorriendo", movementInput != 0);
+
+        // Cambiar dirección
+        if (movementInput < 0)
             transform.localScale = new Vector3(-1, 1, 1);
-        }
-        else if (inputMovimiento > 0)
-        {
+        else if (movementInput > 0)
             transform.localScale = new Vector3(1, 1, 1);
-        }
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (estaEnSuelo)
-        {
+        if (isGrounded)
             animator.SetBool("estaSaltando", false);
-        }
 
-        if (collision.gameObject.tag == "Obstaculo")
+        if (collision.gameObject.CompareTag("Obstaculo") ||
+            collision.gameObject.CompareTag("Enemy") ||
+            collision.gameObject.CompareTag("FinalChief"))
         {
-            gameManager.gameOver = true;
+            OnPlayerDeath?.Invoke();
+            isDead = true;
         }
     }
+
+    public void OnJumpKeyPressed()
+    {
+        if (isGrounded)
+        {
+            animator.SetBool("estaSaltando", true);
+            Rigidbody2D.AddForce(new Vector2(0, jumpForce));
+        }
+    }
+
+    public void OnMove(float direction)
+    {
+        movementInput = direction;
+    }
+
+    public bool detectGrounded()
+    {
+        Collider2D hitbox = Physics2D.OverlapCircle(groundDetector.position, radioDetector, groundLayer);
+        return hitbox != null;
+    }
+    
 }
