@@ -493,6 +493,70 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c1d4d63cbe4175b48ae1868fa3f8a327, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1001 &83169921
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3788762724261165086, guid: f2c6f1ac9a3d6554aba7b17fd1fd7332, type: 3}
+      propertyPath: mensajeParaMostrar
+      value: 'Busca la puerta
+
+
+        Presiona la pantalla para continuar'
+      objectReference: {fileID: 0}
+    - target: {fileID: 4016271646365473397, guid: f2c6f1ac9a3d6554aba7b17fd1fd7332, type: 3}
+      propertyPath: m_Name
+      value: GotaAdvertencia
+      objectReference: {fileID: 0}
+    - target: {fileID: 6987202238562190288, guid: f2c6f1ac9a3d6554aba7b17fd1fd7332, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 84.559006
+      objectReference: {fileID: 0}
+    - target: {fileID: 6987202238562190288, guid: f2c6f1ac9a3d6554aba7b17fd1fd7332, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 10.843486
+      objectReference: {fileID: 0}
+    - target: {fileID: 6987202238562190288, guid: f2c6f1ac9a3d6554aba7b17fd1fd7332, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6987202238562190288, guid: f2c6f1ac9a3d6554aba7b17fd1fd7332, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6987202238562190288, guid: f2c6f1ac9a3d6554aba7b17fd1fd7332, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6987202238562190288, guid: f2c6f1ac9a3d6554aba7b17fd1fd7332, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6987202238562190288, guid: f2c6f1ac9a3d6554aba7b17fd1fd7332, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6987202238562190288, guid: f2c6f1ac9a3d6554aba7b17fd1fd7332, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6987202238562190288, guid: f2c6f1ac9a3d6554aba7b17fd1fd7332, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6987202238562190288, guid: f2c6f1ac9a3d6554aba7b17fd1fd7332, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f2c6f1ac9a3d6554aba7b17fd1fd7332, type: 3}
 --- !u!4 &102670640 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6987202238562190288, guid: f2c6f1ac9a3d6554aba7b17fd1fd7332, type: 3}
@@ -11765,7 +11829,7 @@ Transform:
   m_GameObject: {fileID: 559245611}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 26.173134, y: 31.06226, z: -7}
+  m_LocalPosition: {x: 25.061998, y: 31.0616, z: -7}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -21908,3 +21972,4 @@ SceneRoots:
   - {fileID: 612606917}
   - {fileID: 1405617410}
   - {fileID: 791853809}
+  - {fileID: 83169921}
