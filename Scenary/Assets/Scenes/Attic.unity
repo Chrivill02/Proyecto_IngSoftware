@@ -758,7 +758,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f453f694addf4275988fac205bc91968, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  BoundingShape2D: {fileID: 0}
+  BoundingShape2D: {fileID: 768007048}
   Damping: 0.5
   SlowingDistance: 5
   OversizeWindow:
@@ -1467,7 +1467,7 @@ Transform:
   m_GameObject: {fileID: 767778525}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.9, y: -2, z: -7}
+  m_LocalPosition: {x: -1.9218938, y: -0.78092, z: -7}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1635,11 +1635,24 @@ PolygonCollider2D:
     m_Paths:
     - - {x: 13.162565, y: 44.650867}
       - {x: 0.4001665, y: 44.736538}
-      - {x: -6.758698, y: 45.389355}
-      - {x: -6.9007535, y: 5.868107}
-      - {x: -6.764707, y: 1.7528063}
-      - {x: 68.57235, y: 1.8126993}
-      - {x: 68.96278, y: 44.99231}
+      - {x: -2.9629283, y: 44.663418}
+      - {x: -6.8852983, y: 44.756355}
+      - {x: -6.76481, y: 41.086132}
+      - {x: -6.5014405, y: 39.88421}
+      - {x: -6.3505864, y: 29.774307}
+      - {x: -6.68696, y: 9.656885}
+      - {x: -6.6289334, y: 6.071471}
+      - {x: -6.647554, y: 5.7415075}
+      - {x: -6.520334, y: 3.1233315}
+      - {x: -1.83534, y: 2.9631925}
+      - {x: 30.296091, y: 3.145681}
+      - {x: 44.121895, y: 3.2751207}
+      - {x: 57.746662, y: 3.207932}
+      - {x: 64.833534, y: 3.4414773}
+      - {x: 68.57235, y: 3.1567392}
+      - {x: 68.31708, y: 40.471424}
+      - {x: 68.46369, y: 43.39669}
+      - {x: 68.617615, y: 44.99231}
   m_UseDelaunayMesh: 0
 --- !u!4 &768007049
 Transform:
