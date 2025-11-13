@@ -715,6 +715,14 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1728755233187547446, guid: 0553bb58fd8ab5a4381daf2671c92b26, type: 3}
+      propertyPath: m_Interactable
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1728755233187547446, guid: 0553bb58fd8ab5a4381daf2671c92b26, type: 3}
+      propertyPath: m_BlocksRaycasts
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1728755233187547446, guid: 0553bb58fd8ab5a4381daf2671c92b26, type: 3}
       propertyPath: m_IgnoreParentGroups
       value: 0
       objectReference: {fileID: 0}

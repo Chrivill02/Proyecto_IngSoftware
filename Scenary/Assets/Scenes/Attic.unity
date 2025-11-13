@@ -1537,6 +1537,14 @@ PrefabInstance:
       propertyPath: m_fontColor32.rgba
       value: 4294967295
       objectReference: {fileID: 0}
+    - target: {fileID: 1728755233187547446, guid: 0553bb58fd8ab5a4381daf2671c92b26, type: 3}
+      propertyPath: m_Interactable
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1728755233187547446, guid: 0553bb58fd8ab5a4381daf2671c92b26, type: 3}
+      propertyPath: m_BlocksRaycasts
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2256752104550580947, guid: 0553bb58fd8ab5a4381daf2671c92b26, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
