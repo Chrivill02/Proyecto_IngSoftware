@@ -7870,7 +7870,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1874008433788601345, guid: 0ff50b4baab65bb47b78643a2dba9508, type: 3}
       propertyPath: m_Name
-      value: Gota (14)
+      value: Gota (16)
       objectReference: {fileID: 0}
     - target: {fileID: 1874008433788601345, guid: 0ff50b4baab65bb47b78643a2dba9508, type: 3}
       propertyPath: m_TagString
